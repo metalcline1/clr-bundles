@@ -9,7 +9,7 @@ include(libglib)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-
+systemd-extras
 # end of custom additions
 
 # main package
