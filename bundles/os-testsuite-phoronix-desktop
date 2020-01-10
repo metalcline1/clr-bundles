@@ -58,7 +58,7 @@ glibc-lib-avx2
 also-add(devpkg-glog)
 also-add(devpkg-glu)
 gmp-dev
-gnupg
+include(gnupg)
 also-add(gnuplot)
 also-add(devpkg-gtk)
 also-add(devpkg-hwloc)

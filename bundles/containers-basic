@@ -19,5 +19,5 @@ cri-containerd
 cri-o
 cri-tools
 docker
-gnupg
+include(gnupg)
 tini

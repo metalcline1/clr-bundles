@@ -209,7 +209,7 @@ gnome-shell
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
-gnupg
+include(gnupg)
 include(devpkg-gnutls)
 gnutls-dev32
 gobject-introspection

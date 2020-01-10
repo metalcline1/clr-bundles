@@ -21,7 +21,7 @@ include(zstd)
 abireport
 include(binutils)
 chardet
-gnupg
+include(gnupg)
 pycurl
 toml
 urllib3

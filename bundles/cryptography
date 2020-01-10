@@ -9,7 +9,7 @@ include(libglib)
 include(openssh-client)
 
 ca-certs
-gnupg
+include(gnupg)
 gnutls
 nss-bin
 pinentry

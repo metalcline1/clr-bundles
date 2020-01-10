@@ -189,7 +189,7 @@ gmp-lib32
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
-gnupg
+include(gnupg)
 include(devpkg-gnutls)
 gobject-introspection
 include(devpkg-gobject-introspection)
