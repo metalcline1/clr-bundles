@@ -65,6 +65,9 @@ pkgconfig(cairo-gobject)	devpkg-cairo
 pkgconfig(pangocairo)	devpkg-pango
 pkgconfig(pango)	devpkg-pango
 pkgconfig(fribidi)	devpkg-fribidi
+pkgconfig(libthai)	devpkg-libthai
+pkgconfig(datrie-0.2)	devpkg-libdatrie
+pkgconfig(xft)	devpkg-libXft
 pkgconfig(pangoft2)	devpkg-pango
 pkgconfig(cogl-pango-1.0)	devpkg-cogl
 pkgconfig(json-glib-1.0)	devpkg-json-glib
@@ -471,8 +474,6 @@ pkgconfig(libtcmalloc_debug)	devpkg-gperftools
 pkgconfig(libtcmalloc_minimal)	devpkg-gperftools
 pkgconfig(libtcmalloc_minimal_debug)	devpkg-gperftools
 pkgconfig(libtelemetry)	devpkg-telemetrics-client
-pkgconfig(libthai)	devpkg-libthai
-pkgconfig(datrie-0.2)	devpkg-libdatrie
 pkgconfig(libtiff-4)	devpkg-tiff
 pkgconfig(libtirpc)	devpkg-libtirpc
 pkgconfig(libturbojpeg)	devpkg-libjpeg-turbo
@@ -605,7 +606,6 @@ pkgconfig(xf86driproto)	devpkg-xorgproto
 pkgconfig(xf86miscproto)	devpkg-xorgproto
 pkgconfig(xfont)	devpkg-libXfont
 pkgconfig(xfont2)	devpkg-libXfont2
-pkgconfig(xft)	devpkg-libXft
 pkgconfig(xkbcommon-x11)	devpkg-libxkbcommon
 pkgconfig(xkbcomp)	devpkg-xkbcomp
 pkgconfig(xkbfile)	devpkg-libxkbfile
