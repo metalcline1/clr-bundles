@@ -521,7 +521,7 @@ perl
 perl-App-cpanminus-perl
 perl-B-Hooks-EndOfScope-perl
 perl-Business-ISBN-Data-perl
-perl-CGI
+perl-CGI-perl
 perl-CPAN-Meta-Check-perl
 perl-Carp-Assert-perl
 perl-Class-Data-Inheritable-perl
@@ -535,7 +535,7 @@ perl-Config-INI-Reader-Ordered-perl
 perl-Config-INI-perl
 perl-Cpanel-JSON-XS-perl
 perl-Crypt-SSLeay-perl
-perl-Data-OptList
+perl-Data-OptList-perl
 perl-DateTime
 perl-DateTime-Locale-perl
 perl-DateTime-TimeZone-perl
@@ -577,8 +577,8 @@ perl-Importer-perl
 perl-JSON-MaybeXS-perl
 perl-LWP-MediaTypes
 perl-LWP-MediaTypes-perl
-perl-LWP-Protocol-https
-perl-List-MoreUtils
+perl-LWP-Protocol-https-perl
+perl-List-MoreUtils-perl
 perl-MRO-Compat-perl
 perl-Math-BigInt-GMP
 perl-Mixin-Linewise-perl
@@ -629,7 +629,7 @@ perl-Test-Taint-perl
 perl-Test-Warn-perl
 perl-Test-Warnings-perl
 perl-Test2-Suite-perl
-perl-TimeDate
+perl-TimeDate-perl
 perl-Try-Tiny-perl
 perl-URI
 perl-URI-perl
