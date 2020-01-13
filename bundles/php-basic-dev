@@ -239,9 +239,10 @@ patchelf
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
-perl-IPC-Run
+perl-IPC-Run-perl
 perl-Test-Simple-perl
-perl-XML-Parser
+perl-XML-Parser-perl
+perl-perl
 php-dev
 pigz
 pip

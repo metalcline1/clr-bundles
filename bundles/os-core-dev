@@ -156,7 +156,7 @@ include(p11-kit)
 include(patch)
 include(devpkg-pcre)
 include(devpkg-pcre2)
-perl-XML-Parser
+perl-XML-Parser-perl
 pigz
 pkg-config
 pkg-config-dev
