@@ -5,6 +5,7 @@
 # [TAGS]: Tools and Utilities, Security
 # [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
 include(bootloader-extras)
+include(python3-basic)
 LVM2
 LVM2-extras
 cryptsetup-bin

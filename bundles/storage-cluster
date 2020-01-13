@@ -8,11 +8,11 @@
 include(python3-basic)
 include(xfsprogs)
 
-LVM2
+LVM2-bin
+LVM2-config
 LVM2-extras
 include(ceph)
 ceph-deploy
 ceph-extras
 glusterfs
 include(parted)
-pip-legacypython

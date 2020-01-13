@@ -11,6 +11,7 @@ include(tmux)
 newt
 screen
 byobu-doc
+include(python3-basic)
 # end of custom additions
 
 # main package

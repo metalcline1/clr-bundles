@@ -6,6 +6,7 @@
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 
 include(php-basic)
+include(lib-opengl)
 
 php-ahocorasick
 php-APCu

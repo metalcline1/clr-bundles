@@ -11,6 +11,7 @@ include(curl)
 include(libstdcpp)
 include(libglib)
 include(lib-openssl)
+include(python3-basic)
 # end of custom additions
 
 # main package

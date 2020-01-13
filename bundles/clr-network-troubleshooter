@@ -9,6 +9,8 @@
 # start of custom additions
 include(curl)
 include(perl-basic)
+include(python3-basic)
+
 # end of custom additions
 
 # main package

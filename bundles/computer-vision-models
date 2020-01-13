@@ -6,6 +6,8 @@
 # [MAINTAINER]: Patrick McCarty <patrick.mccarty@intel.com>
 
 include(python3-basic)
+include(lib-imageformat)
+include(libX11client)
 
 Edge-optimized-models
 dldt-model-optimizer

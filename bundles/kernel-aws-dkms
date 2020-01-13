@@ -6,6 +6,7 @@
 # [MAINTAINER]: Bernal Marin, Miguel <miguel.bernal.marin@linux.intel.com>
 
 include(c-basic)
+include(python3-basic)
 
 clr-ignore-mod-sig
 dkms

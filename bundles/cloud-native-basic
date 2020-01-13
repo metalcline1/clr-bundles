@@ -10,7 +10,8 @@ include(p11-kit)
 include(libstdcpp)
 
 
-LVM2
+LVM2-bin
+LVM2-config
 cloud-native-setup
 cni
 cni-plugins
