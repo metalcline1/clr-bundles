@@ -6,6 +6,6 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 include(libstdcpp)
 include(lib-openssl)
-include(ptyhon3-basic)
+include(python3-basic)
 nodejs
 nodejs-doc

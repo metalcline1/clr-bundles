@@ -8,7 +8,7 @@
 # only ceph-lib is needed for qemu so just pull it in directly
 # include(ceph)
 include(libX11client)
-include)python3-basic)
+include(python3-basic)
 bridge-utils
 dmidecode
 dnsmasq
