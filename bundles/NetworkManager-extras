@@ -10,6 +10,7 @@ include(NetworkManager)
 include(libX11client)
 include(openldap)
 include(wpa_supplicant)
+include(python3-basic)
 
 libreswan
 linux-firmware-wifi
