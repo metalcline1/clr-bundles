@@ -11,6 +11,7 @@ include(libstdcpp)
 also-add(aspell-es)
 also-add(aspell-fr)
 also-add(aspell-de)
+include(perl-basic)
 # end of custom additions
 
 # main package

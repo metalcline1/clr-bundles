@@ -13,6 +13,7 @@ d9vk-lib
 d9vk-lib32
 dxvk-lib
 dxvk-lib32
+include(python3-basic)
 # end of custom additions
 
 # main package

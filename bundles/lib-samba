@@ -10,6 +10,7 @@
 include(libstdcpp)
 include(lib-openssl)
 include(python3-basic)
+include(perl-basic)
 # end of custom additions
 
 # main package
