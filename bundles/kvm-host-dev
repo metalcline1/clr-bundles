@@ -81,6 +81,7 @@ include(devpkg-cairo)
 cairo-dev32
 ceph-dev
 certifi
+cffi
 check-dev
 check-dev32
 cheroot
@@ -439,6 +440,7 @@ pixman-dev32
 pkg-config
 pkg-config-dev
 pluggy
+pluggy-python
 include(polkit)
 polkit-dev
 include(devpkg-popt)
@@ -470,6 +472,7 @@ scikit-learn
 scipy
 sed
 setuptools
+setuptools-python
 shadow
 shared-mime-info
 singledispatch
