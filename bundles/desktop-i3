@@ -9,7 +9,7 @@ also-add(sxiv)
 dmenu
 include(feh)
 i3
-i3blocks
+also-add(i3blocks)
 i3lock
 i3status
 rofi
