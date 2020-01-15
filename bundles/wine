@@ -14,6 +14,7 @@ d9vk-lib32
 dxvk-lib
 dxvk-lib32
 include(python3-basic)
+include(lib-opengl)
 # end of custom additions
 
 # main package

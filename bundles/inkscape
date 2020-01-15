@@ -11,7 +11,8 @@ include(lib-imageformat)
 include(libstdcpp)
 
 # start of custom additions (edits outside this area will be removed automatically)
-
+# needs perl for extensions
+include(perl-basic)
 # end of custom additions
 
 # main package
