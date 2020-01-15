@@ -163,8 +163,6 @@ glibc-utils
 include(devpkg-glu)
 gmp-dev
 gmp-dev32
-gmp-gmpxx
-gmp-lib-hsw
 gmp-lib32
 gnu-efi
 include(devpkg-gnu-efi)
@@ -392,8 +390,6 @@ pcre-dev32
 include(devpkg-pcre2)
 perl
 perl-IPC-Run-perl
-perl-Math-BigInt-GMP
-perl-Test-Simple
 perl-Test-Simple-perl
 perl-XML-Parser-perl
 perl-perl

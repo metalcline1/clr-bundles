@@ -172,8 +172,6 @@ include(devpkg-glu)
 glu-dev32
 gmp-dev
 gmp-dev32
-gmp-gmpxx
-gmp-lib-hsw
 gmp-lib32
 gnu-efi
 include(devpkg-gnu-efi)
@@ -417,8 +415,6 @@ include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
 perl
-perl-Math-BigInt-GMP
-perl-Test-Simple
 perl-Test-Simple-perl
 perl-XML-Parser-perl
 perl-perl
