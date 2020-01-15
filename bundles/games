@@ -123,6 +123,7 @@ zlib-lib32
 # Binary helpers for Steam + runtime
 libratbag
 linux-steam-integration
+steam-devices
 xdg-user-dirs
 include(zenity)
 
