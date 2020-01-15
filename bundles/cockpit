@@ -11,6 +11,7 @@ include(libglib)
 include(libstdcpp)
 include(lib-openssl)
 include(python3-basic)
+include(polkit)
 # end of custom additions
 
 # main package
