@@ -12,7 +12,7 @@ include(openldap)
 # for rrdtool
 include(libX11client)
 include(python3-basic)
-include(python-bsaic)
+include(python-basic)
 # end of custom additions
 
 # main package
