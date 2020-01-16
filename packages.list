@@ -410,3 +410,4 @@ swupd-client-pre-release # Pre-release binary for the Clear Linux OS for IA Upda
 gnupg # zlib compression library
 i3blocks # No detailed summary available
 socat # Multipurpose relay
+salt # Portable, distributed, remote execution and configuration management system
