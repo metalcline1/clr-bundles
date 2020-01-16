@@ -40,3 +40,6 @@ mesa-lib
 llvm-lib
 pango-lib
 pixman-lib
+
+# almost all GUI stuff pulls in GTK
+gtk3-lib
