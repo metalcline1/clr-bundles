@@ -23,7 +23,7 @@ firecracker
 helm
 kubernetes
 runc
-socat
+include(socat)
 
 # kata-containers packages
 kata-image

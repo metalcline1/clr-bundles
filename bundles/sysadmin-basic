@@ -86,7 +86,7 @@ shadow
 shadow-man
 shadow-locales
 sharutils
-socat
+include(socat)
 stow
 include(strace)
 systemd
