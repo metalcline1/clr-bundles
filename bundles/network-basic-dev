@@ -143,6 +143,7 @@ include(devpkg-ipset)
 include(iptables)
 include(devpkg-iptables)
 iptables-dev32
+include(devpkg-jansson)
 include(devpkg-json-c)
 include(kbd)
 keyutils-dev

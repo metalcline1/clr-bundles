@@ -286,7 +286,6 @@ include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras
 include(devpkg-libgudev)
-include(devpkg-libgusb)
 include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libidn2)
@@ -368,7 +367,6 @@ include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
 mingw-gcc
-include(devpkg-mozjs60)
 mpc-dev
 mpfr-dev
 include(devpkg-mpg123)

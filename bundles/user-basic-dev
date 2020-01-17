@@ -319,7 +319,6 @@ include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
 lazy-object-proxy
-include(devpkg-lcms2)
 ldb-dev
 ldb-extras
 include(less)
@@ -380,8 +379,6 @@ libgfortran-avx
 include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras
-include(devpkg-libgudev)
-include(devpkg-libgusb)
 include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libidn2)

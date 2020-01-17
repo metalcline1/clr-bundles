@@ -230,6 +230,7 @@ iptables-dev32
 isa-l-dev
 include(devpkg-iso-codes)
 isort
+include(devpkg-jansson)
 include(joe)
 include(devpkg-json-c)
 json-c-dev32
@@ -243,7 +244,6 @@ include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
 lazy-object-proxy
-include(devpkg-lcms2)
 leveldb-dev
 include(devpkg-libX11)
 libX11-dev32
@@ -298,8 +298,6 @@ libgfortran-avx
 include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras
-include(devpkg-libgudev)
-include(devpkg-libgusb)
 include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libidn2)
@@ -496,7 +494,6 @@ tcl-dev
 tempora
 include(texinfo)
 thin-provisioning-tools
-include(devpkg-tiff)
 tk-dev
 tox
 tox-python

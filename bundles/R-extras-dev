@@ -88,6 +88,7 @@ R-Rcpp
 R-RcppArmadillo
 R-RcppEigen
 R-RcppProgress
+R-RcppZiggurat
 R-Rdpack
 R-Rmpfr
 R-Rmpi
@@ -388,7 +389,6 @@ R-multcomp
 R-multicool
 R-multiwayvcov
 R-munsell
-R-mvnfast
 R-mvnormtest
 R-mvtnorm
 R-natserv
@@ -661,7 +661,10 @@ appstream-glib
 armadillo
 asciidoc
 assimp-dev
+include(devpkg-at-spi2-atk)
 at-spi2-atk-dev32
+include(devpkg-at-spi2-core)
+at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
 include(devpkg-attr)
@@ -709,6 +712,7 @@ clr-R-helpers
 clr-rpm-config
 include(devpkg-clutter)
 cmake
+include(devpkg-colord)
 coreutils
 cppunit-dev
 cracklib-dev
@@ -717,9 +721,11 @@ cscope
 ctags
 cups-dev
 include(devpkg-curl)
+curl-dev32
 include(devpkg-cyrus-sasl)
 datefudge
 db
+dbus-broker
 include(devpkg-dbus)
 dbus-dev32
 dejagnu
@@ -795,6 +801,8 @@ include(devpkg-glew)
 glib-bin
 include(devpkg-glib)
 glib-dev32
+glib-networking
+glib-networking-lib32
 glibc-bin
 glibc-dev
 glibc-dev32
@@ -827,6 +835,7 @@ include(devpkg-graphviz)
 graphviz-extras
 grep
 groff
+gsettings-desktop-schemas
 include(devpkg-gsl)
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
@@ -844,7 +853,9 @@ hdf5-dev
 help2man
 hostname
 include(devpkg-hwloc)
+ibus
 ibus-dev
+ibus-libpinyin
 include(devpkg-icu4c)
 icu4c-dev32
 ilmbase-dev
@@ -852,11 +863,14 @@ include(intltool)
 intltool-dev
 include(devpkg-iptables)
 iptables-dev32
+include(devpkg-iso-codes)
 iso8601
 jemalloc-dev
 jq-dev
 include(devpkg-json-c)
 json-c-dev32
+include(devpkg-json-glib)
+json-glib-dev32
 jsoncpp-dev
 include(kbd)
 keyutils-dev
@@ -880,6 +894,7 @@ include(devpkg-libXmu)
 include(devpkg-libXpm)
 include(devpkg-libXres)
 include(devpkg-libXt)
+libXt-dev32
 include(devpkg-libXtst)
 libXtst-dev32
 include(devpkg-libXv)
@@ -907,6 +922,8 @@ include(devpkg-libdatrie)
 libdatrie-dev32
 include(devpkg-libdrm)
 libdrm-dev32
+include(devpkg-libepoxy)
+libepoxy-dev32
 libev-dev
 include(devpkg-libevdev)
 libevdev-dev32
@@ -948,6 +965,7 @@ include(devpkg-libpciaccess)
 libpciaccess-dev32
 include(devpkg-libpng)
 libpng-dev32
+libpsl-dev32
 include(devpkg-libpthread-stubs)
 libpthread-stubs-dev32
 libpwquality-dev
@@ -959,6 +977,8 @@ include(devpkg-libseccomp)
 libseccomp-dev32
 libsndfile-dev
 libsndfile-dev32
+include(devpkg-libsoup)
+libsoup-dev32
 libspatialite-dev
 include(devpkg-libsrtp)
 include(devpkg-libssh2)
@@ -1259,11 +1279,14 @@ qtxmlpatterns-dev
 re2-dev
 include(devpkg-readline)
 readline-dev32
+include(devpkg-rest)
+rest-dev32
 rtkit
 rtmpdump-dev
 ruby
 rust-std32
 rustc
+sassc
 sbc-dev
 sbc-dev32
 sed
@@ -1317,6 +1340,7 @@ include(devpkg-util-macros)
 util-macros-dev32
 include(devpkg-v4l-utils)
 vala
+include(devpkg-vala)
 include(valgrind)
 valgrind-dev
 virtualenv
