@@ -6,3 +6,7 @@
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
 include(libX11client)
 ImageMagick
+# some extras that aren't ImageMagick but are image utilities
+gifsicle
+jpegoptim
+pngcrush
