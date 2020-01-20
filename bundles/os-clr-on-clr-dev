@@ -505,6 +505,7 @@ include(devpkg-libassuan)
 libatomic_ops-dev
 libc6
 libc6-dev
+libcacard-dev
 include(devpkg-libcanberra)
 libcap
 include(devpkg-libcap)
@@ -868,6 +869,8 @@ mvn-xml-apis
 mvn-xmlunit
 mvn-xmlunit-core
 mvn-xz
+mypy
+mypy_extensions
 include(nasm)
 nasm-bin
 include(devpkg-ncurses)
@@ -1316,6 +1319,7 @@ traceback2
 traceback2-python
 typed_ast
 typing
+typing_extensions
 include(tzdata)
 unittest2
 unittest2-python

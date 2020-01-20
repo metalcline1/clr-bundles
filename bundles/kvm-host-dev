@@ -271,6 +271,7 @@ libaio-dev
 libatomic_ops-dev
 libc6
 libc6-dev
+libcacard-dev
 libcap
 include(devpkg-libcap)
 libcap-dev32
