@@ -45,7 +45,7 @@ also-add(geany)
 geany-plugins
 glib-networking-lib
 gnome-icon-theme
-gnome-themes-standard
+gnome-themes-extra
 gsettings-desktop-schemas
 gtk+
 gtk-xfce-engine

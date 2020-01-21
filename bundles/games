@@ -128,7 +128,7 @@ xdg-user-dirs
 include(zenity)
 
 # System integration (theme, data, etc)
-gnome-themes-standard
+gnome-themes-extra
 
 # SDL1 Libraries (32-bit)
 SDL-lib32
