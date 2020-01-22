@@ -412,3 +412,4 @@ i3blocks # No detailed summary available
 socat # Multipurpose relay
 salt # Portable, distributed, remote execution and configuration management system
 pcmanfm # a file manager replacement for Nautilus, Konqueror and Thunar
+protobuf # Protocol Buffers - Google's data interchange format
