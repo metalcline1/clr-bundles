@@ -61,7 +61,6 @@ include(devpkg-at-spi2-core)
 at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
-atomicwrites-python
 include(devpkg-attr)
 attr-dev32
 attrs-python
@@ -515,6 +514,7 @@ include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
 packaging
+packaging-python
 include(devpkg-pacrunner)
 include(pandoc)
 include(devpkg-pango)
@@ -683,6 +683,7 @@ pyflakes
 include(pygobject)
 pylint
 pyparsing
+pyparsing-python
 pyroma
 pytest
 pytest-python
@@ -772,6 +773,7 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
+wcwidth-python
 include(devpkg-webkitgtk)
 include(which)
 include(devpkg-woff2)

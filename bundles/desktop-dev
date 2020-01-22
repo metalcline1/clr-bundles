@@ -67,7 +67,6 @@ at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
 include(devpkg-atkmm)
-atomicwrites-python
 include(devpkg-attr)
 attr-dev32
 attrs
@@ -432,10 +431,13 @@ libaio-dev
 include(devpkg-libarchive)
 include(devpkg-libass)
 include(devpkg-libassuan)
+libatasmart
 include(devpkg-libatasmart)
 libatomic_ops-dev
 libavtp-dev
+libblockdev
 libblockdev-dev
+libbytesize
 libbytesize-dev
 libc6
 libc6-dev
@@ -494,6 +496,7 @@ include(devpkg-libidn2)
 libidn2-dev32
 libindicator-dev
 include(devpkg-libinput)
+libiscsi
 include(devpkg-libiscsi)
 include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
@@ -552,6 +555,7 @@ libsrtp
 include(devpkg-libsrtp)
 include(devpkg-libssh2)
 libstdc++
+libstoragemgmt
 include(devpkg-libstoragemgmt)
 include(devpkg-libtasn1)
 libtasn1-dev32
@@ -688,6 +692,7 @@ include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
 packaging
+packaging-python
 include(devpkg-pacrunner)
 include(pandoc)
 include(devpkg-pango)
@@ -871,9 +876,9 @@ include(pygobject)
 include(devpkg-pygobject)
 pygobject-python
 pyparsing
+pyparsing-python
 pytest
 pytest-python
-python-mock
 python-mock-python
 python-pocketlint
 python-polib
@@ -987,6 +992,7 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
+wcwidth-python
 include(webkitgtk)
 include(devpkg-webkitgtk)
 include(which)
