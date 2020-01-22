@@ -4,6 +4,9 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Arjan van de Ven <arjan@linux.intel.com>
+
+include(lib-opengl)
+
 also-add(c-basic)
 also-add(git)
 also-add(desktop-autostart)
