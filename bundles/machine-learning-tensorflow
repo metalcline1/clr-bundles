@@ -30,7 +30,7 @@ h5py
 Markdown
 numpy
 pandas
-protobuf
+include(protobuf)
 six
 Werkzeug
 wheel
