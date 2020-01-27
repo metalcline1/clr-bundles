@@ -484,6 +484,7 @@ pkgconfig(libzmq)	devpkg-libzmq
 pkgconfig(libzstd)	devpkg-zstd
 pkgconfig(lttng-ust)	devpkg-lttng-ust
 pkgconfig(lua)	devpkg-lua
+pkgconfig(luajit)	devpkg-LuaJIT
 pkgconfig(mit-krb5)	devpkg-krb5
 pkgconfig(mit-krb5-gssapi)	devpkg-krb5
 pkgconfig(mount)	devpkg-util-linux
