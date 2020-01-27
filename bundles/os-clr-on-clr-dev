@@ -1382,3 +1382,4 @@ include(devpkg-zlib)
 zlib-dev32
 zope.interface
 include(devpkg-zstd)
+zstd-dev32

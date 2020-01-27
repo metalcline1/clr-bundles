@@ -794,3 +794,4 @@ include(yasm)
 include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
+zstd-dev32
