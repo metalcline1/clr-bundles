@@ -310,7 +310,6 @@ include(devpkg-metrics-discovery)
 mingw-gcc
 mock
 mod_perl-perl
-more-itertools
 more-itertools-python
 mpc-dev
 mpfr-dev

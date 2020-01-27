@@ -460,7 +460,6 @@ mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 mock
 mod_perl-perl
-more-itertools
 more-itertools-python
 include(devpkg-mozjs60)
 mpc-dev

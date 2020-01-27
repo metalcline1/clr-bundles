@@ -75,7 +75,6 @@ flex-dev
 include(devpkg-fontconfig)
 fontconfig-dev32
 include(devpkg-freeglut)
-freetype
 include(devpkg-freetype)
 freetype-dev32
 gawk
@@ -167,7 +166,6 @@ include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libidn2)
 libidn2-dev32
-include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)

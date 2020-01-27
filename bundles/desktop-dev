@@ -16,7 +16,7 @@ include(devpkg-LVM2)
 include(devpkg-LibRaw)
 Linux-PAM-dev
 Linux-PAM-dev32
-LuaJIT-dev
+include(devpkg-LuaJIT)
 Mako
 Mako-python
 Markdown

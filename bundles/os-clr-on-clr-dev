@@ -34,7 +34,7 @@ LVM2-extras
 Linux-PAM-dev
 Linux-PAM-dev32
 LuaJIT
-LuaJIT-dev
+include(devpkg-LuaJIT)
 Mako
 Mako-python
 Markdown
