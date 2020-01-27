@@ -102,6 +102,7 @@ kpkpass
 kqtquickcharts
 krdc
 also-add(krita)
+also-add(krusader)
 kscreen
 ksmtp
 also-add(ksystemlog)
