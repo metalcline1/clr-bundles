@@ -443,6 +443,7 @@ libzstd
 LLVMSPIRVLib
 lttng-ust
 lua
+luajit
 mozjs-52
 mozjs-60
 mpv
