@@ -16,6 +16,7 @@ Linux-PAM-dev32
 include(devpkg-acl)
 acl-dev32
 argon2-dev
+asciidoc
 aspell-dev
 include(devpkg-attr)
 attr-dev32
@@ -72,6 +73,7 @@ file-dev
 include(findutils)
 include(flex)
 flex-dev
+fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
 include(devpkg-freeglut)
@@ -132,6 +134,7 @@ intltool-dev
 include(devpkg-iptables)
 iptables-dev32
 include(devpkg-json-c)
+json-c-dev32
 include(kbd)
 keyutils-dev
 kmod
@@ -141,6 +144,8 @@ include(devpkg-krb5)
 include(devpkg-libX11)
 libX11-dev32
 include(devpkg-libXpm)
+include(devpkg-libXt)
+libXt-dev32
 libabigail
 libaio-dev
 libc6
@@ -166,6 +171,7 @@ include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libidn2)
 libidn2-dev32
+include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)
@@ -178,6 +184,7 @@ include(devpkg-libnftnl)
 libnftnl-dev32
 include(devpkg-libpng)
 libpng-dev32
+include(devpkg-libpthread-stubs)
 libpwquality-dev
 include(devpkg-libseccomp)
 libseccomp-dev32
@@ -279,11 +286,19 @@ util-linux-bin
 include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras
+include(devpkg-util-macros)
+util-macros-dev32
 include(valgrind)
 valgrind-dev
 include(which)
 xauth
+xcb-proto
+include(devpkg-xcb-proto)
 xmlto
+include(devpkg-xorgproto)
+xorgproto-dev32
+include(devpkg-xtrans)
+xtrans-dev32
 include(xz)
 include(devpkg-xz)
 xz-dev32
