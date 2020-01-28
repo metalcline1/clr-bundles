@@ -1,0 +1,16 @@
+# [TITLE]: cluster-tools
+# [DESCRIPTION]: Utilities to manage computer clusters
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Tools and Utilities, HPC
+# [MAINTAINER]: Juro Bystricky <juro.bystricky@intel.com>
+
+include(curl)
+include(libglib)
+include(libX11client)
+also-add(openmpi)
+munge
+pmix
+pdsh
+slurm
+
