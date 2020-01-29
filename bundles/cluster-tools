@@ -1,8 +1,8 @@
 # [TITLE]: cluster-tools
 # [DESCRIPTION]: Utilities to manage computer clusters
 # [STATUS]: Active
-# [CAPABILITIES]:
-# [TAGS]: Tools and Utilities, HPC
+# [CAPABILITIES]: HPC
+# [TAGS]: Tools and Utilities
 # [MAINTAINER]: Juro Bystricky <juro.bystricky@intel.com>
 
 include(curl)
