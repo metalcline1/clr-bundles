@@ -648,7 +648,6 @@ perl-libwww-perl-perl
 perl-namespace-autoclean-perl
 perl-namespace-clean-perl
 perl-perl
-pexpect
 php
 pigz
 pinentry
@@ -669,7 +668,6 @@ pulseaudio-dev32
 pyaml
 pycparser
 include(pygobject)
-pytest
 python-pocketlint
 python-polib
 python3

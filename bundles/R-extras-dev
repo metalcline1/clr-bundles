@@ -693,7 +693,6 @@ buildreq-golang
 buildreq-kde
 buildreq-meson
 buildreq-mvn
-buildreq-php
 buildreq-qmake
 buildreq-scons
 bzip2
@@ -1038,6 +1037,7 @@ mpfr-dev
 msmtp
 mtdev-dev
 mtdev-dev32
+munge-dev
 include(nasm)
 nasm-bin
 include(devpkg-ncurses)

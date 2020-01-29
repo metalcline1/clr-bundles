@@ -98,7 +98,6 @@ buildreq-golang
 buildreq-kde
 buildreq-meson
 buildreq-mvn
-buildreq-php
 buildreq-qmake
 buildreq-scons
 bzip2
@@ -668,7 +667,6 @@ perl-libwww-perl-perl
 perl-namespace-autoclean-perl
 perl-namespace-clean-perl
 perl-perl
-pexpect
 php
 php-dev
 pigz

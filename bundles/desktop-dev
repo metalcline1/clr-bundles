@@ -50,7 +50,6 @@ acl-dev32
 adwaita-icon-theme-dev
 include(devpkg-alsa-lib)
 alsa-lib-dev32
-apache-maven
 appdirs
 appstream-glib
 include(devpkg-appstream-glib)
@@ -103,7 +102,6 @@ buildreq-golang
 buildreq-kde
 buildreq-meson
 buildreq-mvn
-buildreq-php
 buildreq-qmake
 buildreq-scons
 bzip2
@@ -835,7 +833,6 @@ perl-libwww-perl-perl
 perl-namespace-autoclean-perl
 perl-namespace-clean-perl
 perl-perl
-pexpect
 php
 pigz
 pip

@@ -14,7 +14,6 @@ Linux-PAM-dev
 Linux-PAM-dev32
 include(devpkg-acl)
 acl-dev32
-apache-maven
 include(devpkg-apr)
 asciidoc
 include(aspell)
@@ -41,8 +40,6 @@ buildreq-distutils3
 buildreq-gnome
 buildreq-golang
 buildreq-meson
-buildreq-mvn
-buildreq-php
 buildreq-qmake
 bzip2
 include(devpkg-bzip2)

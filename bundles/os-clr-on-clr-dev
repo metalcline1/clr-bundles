@@ -140,7 +140,6 @@ buildreq-golang
 buildreq-kde
 buildreq-meson
 buildreq-mvn
-buildreq-php
 buildreq-qmake
 buildreq-scons
 bzip2
@@ -677,6 +676,7 @@ mpfr-dev
 msmtp
 mtdev-dev
 mtdev-dev32
+munge-dev
 mvn-aether-core-data
 mvn-animal-sniffer
 mvn-antlr
