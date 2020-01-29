@@ -7,6 +7,7 @@
 include(x11-server)
 also-add(sxiv)
 dmenu
+dunst
 include(feh)
 i3
 also-add(i3blocks)
