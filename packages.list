@@ -413,4 +413,5 @@ socat # Multipurpose relay
 salt # Portable, distributed, remote execution and configuration management system
 pcmanfm # a file manager replacement for Nautilus, Konqueror and Thunar
 protobuf # Protocol Buffers - Google's data interchange format
-krusader # Advanced twin panel (commander style) file manager 
+krusader # Advanced twin panel (commander style) file manager
+conda # Cross-platform, language-agnostic binary package manager
