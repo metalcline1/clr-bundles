@@ -9,6 +9,7 @@ include(cloud-api)
 include(python-extras)
 
 
+
 # Key pydata.org components
 bokeh
 dask
@@ -36,3 +37,7 @@ seaborn
 asv
 llvmlite
 plotly
+
+
+# IDE
+also-add(spyder-ide)
