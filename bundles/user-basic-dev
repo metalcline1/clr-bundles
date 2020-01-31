@@ -739,6 +739,7 @@ setuptools_scm-python
 sg3_utils-dev
 shadow
 shared-mime-info
+include(devpkg-shared-mime-info)
 singledispatch
 six
 slang-dev

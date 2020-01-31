@@ -1292,6 +1292,7 @@ setuptools
 setuptools-python
 shadow
 shared-mime-info
+include(devpkg-shared-mime-info)
 six
 snappy-dev
 include(devpkg-speex)

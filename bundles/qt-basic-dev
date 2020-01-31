@@ -454,6 +454,7 @@ setuptools
 setuptools-python
 shadow
 shared-mime-info
+include(devpkg-shared-mime-info)
 include(devpkg-speex)
 speexdsp-dev
 sqlite-autoconf
