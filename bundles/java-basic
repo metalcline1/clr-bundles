@@ -10,7 +10,5 @@ include(perl-basic)
 include(python3-basic)
 include(which)
 apache-ant
-apache-maven
-gradle
 openjdk
 openjdk-dev
