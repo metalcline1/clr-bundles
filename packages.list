@@ -418,3 +418,4 @@ conda # Cross-platform, language-agnostic binary package manager
 spyder-ide # Integrated development environment for scientific programming
 tracker-miners # Collection of data extractors for Tracker/Nepomuk
 dino # Modern XMPP ("Jabber") Chat Client using GTK+/Vala
+xss-lock # Session locker triggered by systemd events or DPMS
