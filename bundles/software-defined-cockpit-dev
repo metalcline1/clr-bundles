@@ -390,7 +390,6 @@ nss-altfiles
 octave-dev
 openal-soft-dev
 openal-soft-dev32
-include(devpkg-opencv)
 openexr-dev
 openldap-dev
 include(devpkg-openmpi)
@@ -399,7 +398,6 @@ include(openssl)
 include(devpkg-openssl)
 openssl-dev32
 include(devpkg-opus)
-orc
 include(devpkg-orc)
 orc-dev32
 include(p11-kit)

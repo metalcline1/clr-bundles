@@ -668,7 +668,6 @@ onig-dev
 openal-soft-dev
 openal-soft-dev32
 openconnect-dev
-include(devpkg-opencv)
 openexr-dev
 openjade-dev
 openjdk11
@@ -682,7 +681,6 @@ openssl-dev32
 openssl-lib32
 optipng
 include(devpkg-opus)
-orc
 include(devpkg-orc)
 orc-dev32
 include(devpkg-ostree)

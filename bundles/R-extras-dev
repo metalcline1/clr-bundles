@@ -135,7 +135,6 @@ R-betareg
 R-bibtex
 R-biglm
 R-bindr
-R-bindrcpp
 R-bit
 R-bit64
 R-bitops
@@ -1082,7 +1081,6 @@ include(devpkg-openssl)
 openssl-dev32
 openssl-lib32
 include(devpkg-opus)
-orc
 include(devpkg-orc)
 orc-dev32
 include(p11-kit)

@@ -504,7 +504,6 @@ openssl-dev32
 optipng
 optipng-bin
 include(devpkg-opus)
-orc
 include(devpkg-orc)
 orc-dev32
 include(p11-kit)
