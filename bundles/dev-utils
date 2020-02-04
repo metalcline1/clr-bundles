@@ -17,6 +17,7 @@ include(bc)
 cgdb
 include(cloc)
 clr-debug-info
+colordiff
 include(cpio)
 cppcheck
 cscope
