@@ -420,3 +420,4 @@ tracker-miners # Collection of data extractors for Tracker/Nepomuk
 dino # Modern XMPP ("Jabber") Chat Client using GTK+/Vala
 xss-lock # Session locker triggered by systemd events or DPMS
 ntopng # Network traffic probe that shows the network usage.
+modules # Provides dynamic modification of a user's environment 
