@@ -643,6 +643,7 @@ logilab-common
 lua
 include(devpkg-lua)
 lxml
+include(lynx)
 include(devpkg-lz4)
 lz4-dev32
 lzlib-dev
@@ -1135,6 +1136,7 @@ include(unzip)
 urllib3
 include(devpkg-usbredir)
 include(devpkg-userspace-rcu)
+usrbinjava
 usrbinvi
 util-linux
 util-linux-bin

@@ -295,6 +295,7 @@ include(llvm)
 logilab-common
 include(devpkg-lua)
 lxml
+include(lynx)
 include(devpkg-lz4)
 lz4-dev32
 lzo-dev
