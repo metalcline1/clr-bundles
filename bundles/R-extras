@@ -646,6 +646,7 @@ R-rsdmx
 R-Rserve
 R-Rsolnp
 R-RSQLite
+R-RNetCDF
 R-rstan
 R-rstanarm
 R-rstantools
