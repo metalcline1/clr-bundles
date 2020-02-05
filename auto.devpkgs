@@ -241,6 +241,7 @@ libgnomekbdui
 libgnome-menu-3.0
 libgphoto2
 libgphoto2_port
+libgsf
 libgsystem
 libgtop-2.0
 libgvc
