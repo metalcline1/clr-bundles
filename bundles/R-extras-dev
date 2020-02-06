@@ -580,6 +580,7 @@ R-sys
 R-systemfit
 R-systemfonts
 R-taxize
+R-tclust
 R-tensor
 R-tensorA
 R-tensorflow
@@ -598,7 +599,6 @@ R-tis
 R-tm
 R-toOrdinal
 R-triebeard
-R-trimcluster
 R-truncnorm
 R-tseries
 R-ucminf
@@ -703,6 +703,7 @@ certifi
 cffi
 check-dev
 check-dev32
+chrpath
 clear-font
 clr-R-helpers
 clr-rpm-config
@@ -1042,6 +1043,7 @@ include(devpkg-ncurses)
 ncurses-dev32
 include(net-tools)
 netbase
+netcdf-dev
 nettle
 include(devpkg-nettle)
 nettle-dev32
