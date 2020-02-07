@@ -26,6 +26,7 @@ R-AER
 R-BB
 R-BBmisc
 R-BH
+R-BMA
 R-BMS
 R-BiasedUrn
 R-Brobdingnag
@@ -212,7 +213,6 @@ R-drc
 R-dtplyr
 R-dygraphs
 R-dynamicTreeCut
-R-dynlm
 R-e1071
 R-earth
 R-ecodist
@@ -577,7 +577,6 @@ R-styler
 R-subplex
 R-survey
 R-sys
-R-systemfit
 R-systemfonts
 R-taxize
 R-tclust
@@ -594,6 +593,7 @@ R-tidyr
 R-tidyselect
 R-timeDate
 R-timeSeries
+R-tinytest
 R-tinytex
 R-tis
 R-tm
