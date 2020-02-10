@@ -236,6 +236,7 @@ include(devpkg-elfutils)
 elfutils-dev32
 emacs
 include(devpkg-enchant)
+entrypoints
 execnet
 include(devpkg-exiv2)
 include(devpkg-expat)
@@ -253,6 +254,7 @@ fixtures
 fixtures-python
 include(devpkg-flac)
 flac-dev32
+flake8
 include(flex)
 flex-dev
 fltk-dev
@@ -654,6 +656,7 @@ makedepend
 man-db
 include(devpkg-mariadb)
 mccabe
+mccabe-python
 media-player-info
 memkind-dev
 include(devpkg-mesa)
@@ -701,6 +704,7 @@ ninja
 nodejs
 nodejs-dev
 nose
+nose-python
 nosexcover
 npth-dev
 include(devpkg-nspr)
@@ -761,6 +765,7 @@ pcsc-lite
 pcsc-lite-dev
 pecan
 pep8
+pep8-python
 perl
 perl-Algorithm-Diff-perl
 perl-App-cpanminus-perl
@@ -957,6 +962,7 @@ pycodestyle
 pycparser
 pycparser-python
 pyflakes
+pyflakes-python
 include(pygobject)
 pylint
 pyparsing
