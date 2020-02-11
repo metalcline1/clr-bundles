@@ -15,6 +15,7 @@ Linux-PAM-dev32
 include(Sphinx)
 include(devpkg-acl)
 acl-dev32
+appdirs
 asciidoc
 include(devpkg-attr)
 attr-dev32
@@ -48,6 +49,7 @@ cifs-utils-dev
 clr-rpm-config
 cmocka-dev
 include(devpkg-compat-fuse-soname2)
+contextlib2
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
@@ -62,6 +64,7 @@ dbus-dev32
 dejagnu
 desktop-file-utils
 include(diffutils)
+distlib
 include(docbook-utils)
 docbook-xml
 include(docutils)
@@ -78,6 +81,7 @@ expat-dev32
 expect
 f2fs-tools-dev
 file-dev
+filelock
 include(findutils)
 include(flex)
 flex-dev
@@ -248,6 +252,7 @@ p11-kit-dev32
 include(pandoc)
 include(patch)
 patchelf
+pathlib2
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
@@ -403,6 +408,7 @@ setuptools
 setuptools-python
 shadow
 shared-mime-info
+six
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 startup-notification

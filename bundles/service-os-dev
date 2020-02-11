@@ -18,6 +18,7 @@ include(devpkg-acl)
 acl-dev32
 include(acpica-unix2)
 acrn-hypervisor-dev
+appdirs
 asciidoc
 asn1crypto-python
 include(devpkg-attr)
@@ -51,6 +52,7 @@ certifi
 cffi
 check-dev
 clr-rpm-config
+contextlib2
 coreutils
 cracklib-dev
 cryptography_vectors
@@ -64,6 +66,7 @@ include(devpkg-dbus-glib)
 dejagnu
 desktop-file-utils
 include(diffutils)
+distlib
 include(docbook-utils)
 docbook-xml
 include(doxygen)
@@ -77,6 +80,7 @@ include(devpkg-expat)
 expat-dev32
 expect
 file-dev
+filelock
 include(findutils)
 include(flex)
 flex-dev
@@ -217,6 +221,7 @@ include(p11-kit)
 packaging
 include(patch)
 patchelf
+pathlib2
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)

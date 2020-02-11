@@ -30,6 +30,7 @@ include(devpkg-acl)
 acl-dev32
 include(devpkg-alsa-lib)
 alsa-lib-dev32
+appdirs
 appstream-glib
 asciidoc
 aspell-dev
@@ -94,6 +95,7 @@ colord
 include(devpkg-colord)
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
+contextlib2
 coreutils
 cppcheck
 cracklib-dev
@@ -116,6 +118,7 @@ dejagnu
 desktop-file-utils
 dialog
 include(diffutils)
+distlib
 include(docbook-utils)
 docbook-xml
 include(docutils)
@@ -136,6 +139,7 @@ expect
 extra-cmake-modules
 include(devpkg-fftw)
 file-dev
+filelock
 include(findutils)
 include(devpkg-flac)
 flac-dev32
@@ -516,6 +520,7 @@ include(devpkg-pangomm)
 include(devpkg-parted)
 include(patch)
 patchelf
+pathlib2
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)

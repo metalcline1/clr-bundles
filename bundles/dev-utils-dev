@@ -95,6 +95,7 @@ dbus-dev32
 dejagnu
 desktop-file-utils
 include(diffutils)
+distlib
 include(docbook-utils)
 docbook-xml
 docopt

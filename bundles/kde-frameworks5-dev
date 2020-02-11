@@ -36,6 +36,7 @@ include(devpkg-alsa-lib)
 alsa-lib-dev32
 apache-ant
 apache-maven
+appdirs
 appstream-dev
 appstream-glib
 asciidoc
@@ -92,6 +93,7 @@ include(devpkg-clutter)
 cmake
 include(devpkg-colord)
 include(devpkg-compat-enchant-soname1)
+contextlib2
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
@@ -108,6 +110,7 @@ dbus-dev32
 dejagnu
 desktop-file-utils
 include(diffutils)
+distlib
 include(docbook-utils)
 docbook-xml
 double-conversion-dev
@@ -125,6 +128,7 @@ expect
 extra-cmake-modules
 include(devpkg-fftw)
 file-dev
+filelock
 include(findutils)
 include(devpkg-flac)
 flac-dev32
@@ -471,6 +475,7 @@ include(devpkg-pango)
 pango-dev32
 include(patch)
 patchelf
+pathlib2
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)

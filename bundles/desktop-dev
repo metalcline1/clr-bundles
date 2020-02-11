@@ -139,6 +139,7 @@ include(devpkg-colord)
 colord-gtk-dev
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
+contextlib2
 coreutils
 coverage
 cppcheck
@@ -176,6 +177,7 @@ dhcp
 dhcp-dev
 dialog
 include(diffutils)
+distlib
 dnsmasq
 include(docbook-utils)
 docbook-xml
@@ -204,6 +206,7 @@ expect
 extra-cmake-modules
 include(devpkg-fftw)
 file-dev
+filelock
 include(findutils)
 include(devpkg-flac)
 flac-dev32
@@ -698,6 +701,7 @@ include(parallel)
 include(devpkg-parted)
 include(patch)
 patchelf
+pathlib2
 pbr
 include(devpkg-pciutils)
 include(devpkg-pcre)

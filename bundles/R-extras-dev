@@ -68,6 +68,7 @@ R-MatrixModels
 R-ModelMetrics
 R-NADA
 R-NLP
+R-R.cache
 R-R.methodsS3
 R-R.oo
 R-R.utils
@@ -289,6 +290,7 @@ R-gss
 R-gtable
 R-gtools
 R-haven
+R-here
 R-hexbin
 R-highlight
 R-highr
@@ -653,6 +655,7 @@ include(devpkg-alsa-lib)
 alsa-lib-dev32
 apache-ant
 apache-maven
+appdirs
 appstream-glib
 armadillo
 asciidoc
@@ -709,6 +712,7 @@ clr-rpm-config
 include(devpkg-clutter)
 cmake
 include(devpkg-colord)
+contextlib2
 coreutils
 cppunit-dev
 cracklib-dev
@@ -727,6 +731,7 @@ dbus-dev32
 dejagnu
 desktop-file-utils
 include(diffutils)
+distlib
 include(docbook-utils)
 docbook-xml
 include(docutils)
@@ -748,6 +753,7 @@ extra-cmake-modules
 extras
 include(devpkg-fftw)
 file-dev
+filelock
 include(findutils)
 include(devpkg-flac)
 flac-dev32
@@ -1093,6 +1099,7 @@ include(devpkg-pango)
 pango-dev32
 include(patch)
 patchelf
+pathlib2
 include(devpkg-pciutils)
 include(devpkg-pcre)
 pcre-dev32

@@ -150,6 +150,7 @@ dbus-dev32
 dejagnu
 desktop-file-utils
 include(diffutils)
+distlib
 dnsmasq
 include(docbook-utils)
 docbook-xml

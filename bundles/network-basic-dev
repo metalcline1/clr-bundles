@@ -17,6 +17,7 @@ Linux-PAM-dev32
 include(Sphinx)
 include(devpkg-acl)
 acl-dev32
+appdirs
 include(devpkg-apr)
 asciidoc
 include(devpkg-attr)
@@ -54,6 +55,7 @@ clr-rpm-config
 cmake
 cmocka-dev
 confuse-dev
+contextlib2
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
@@ -67,6 +69,7 @@ dbus-dev32
 dejagnu
 desktop-file-utils
 include(diffutils)
+distlib
 include(docbook-utils)
 docbook-xml
 include(docutils)
@@ -84,6 +87,7 @@ include(devpkg-expat)
 expat-dev32
 expect
 file-dev
+filelock
 include(findutils)
 include(flex)
 flex-dev
@@ -255,6 +259,7 @@ include(devpkg-pacrunner)
 include(pandoc)
 include(patch)
 patchelf
+pathlib2
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
@@ -405,6 +410,7 @@ setuptools
 setuptools-python
 shadow
 shared-mime-info
+six
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 stoken-dev

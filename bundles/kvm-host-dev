@@ -35,6 +35,7 @@ acl-dev32
 include(acpica-unix2)
 apache-ant
 apache-maven
+appdirs
 asciidoc
 include(devpkg-at-spi2-atk)
 at-spi2-atk-dev32
@@ -93,6 +94,7 @@ cmd2
 colorama
 include(devpkg-colord)
 include(devpkg-compat-fuse-soname2)
+contextlib2
 coreutils
 coverage
 cracklib-dev
@@ -110,6 +112,7 @@ dbus-dev32
 dejagnu
 desktop-file-utils
 include(diffutils)
+distlib
 dnsmasq
 include(docbook-utils)
 docbook-xml
@@ -133,6 +136,7 @@ expat-dev32
 expect
 fcgi-dev
 file-dev
+filelock
 include(findutils)
 include(flex)
 flex-dev
@@ -418,6 +422,7 @@ pango-dev32
 include(devpkg-parted)
 include(patch)
 patchelf
+pathlib2
 pbr
 include(devpkg-pcre)
 pcre-dev32
