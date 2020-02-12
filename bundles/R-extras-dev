@@ -1285,6 +1285,7 @@ include(devpkg-readline)
 readline-dev32
 include(devpkg-rest)
 rest-dev32
+include(rsync)
 rtkit
 rtmpdump-dev
 ruby
@@ -1334,6 +1335,8 @@ tox
 traceback2
 include(tzdata)
 udunits-dev
+unittest2
+unittest2-python
 unixODBC-dev
 include(unzip)
 util-linux

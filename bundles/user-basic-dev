@@ -729,6 +729,7 @@ rest-dev32
 rpcbind
 rpm
 rpm-extras
+include(rsync)
 ruby
 sassc
 scikit-learn

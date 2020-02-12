@@ -669,9 +669,11 @@ procps-ng-bin
 protobuf-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
+py
 pyaml
 pycparser
 include(pygobject)
+pytest
 python-pocketlint
 python-polib
 python3
@@ -737,6 +739,8 @@ tpm2-tss-dev
 include(tzdata)
 udisks2-dev
 include(devpkg-uhttpmock)
+unittest2
+unittest2-python
 include(unzip)
 usrbinvi
 util-linux

@@ -965,6 +965,8 @@ tracker-dev
 include(tzdata)
 udisks2-dev
 include(devpkg-uhttpmock)
+unittest2
+unittest2-python
 include(unzip)
 upower-dev
 urllib3

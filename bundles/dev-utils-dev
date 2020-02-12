@@ -524,6 +524,7 @@ readline-dev32
 requests
 rpm
 rpm-extras
+include(rsync)
 ruby
 scdoc-dev
 sed
