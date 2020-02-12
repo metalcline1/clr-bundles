@@ -423,3 +423,4 @@ ntopng # Network traffic probe that shows the network usage.
 modules # Provides dynamic modification of a user's environment
 libgsf # GNOME Structured File library
 grisbi # Personal finance manager
+lensfun # database of photographic lenses and their characteristics 
