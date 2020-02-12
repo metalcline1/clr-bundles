@@ -425,3 +425,4 @@ libgsf # GNOME Structured File library
 grisbi # Personal finance manager
 lensfun # database of photographic lenses and their characteristics
 fortune-mod # No detailed summary available
+SVT-HEVC # SVT (Scalable Video Technology) for HEVC encoder library
