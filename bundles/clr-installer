@@ -27,6 +27,7 @@ cryptsetup-config
 cryptsetup-lib
 dosfstools-bin
 e2fsprogs-extras
+f2fs-tools-bin
 glibc-utils
 gptfdisk-bin
 iputils
