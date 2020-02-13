@@ -7,7 +7,7 @@
 # Audio
 libsndfile
 libvorbis
-pulseaudio
+include(pulseaudio)
 speex
 sbc
 openal-soft
@@ -19,7 +19,7 @@ librsvg
 libsoup
 libunwind
 libusb
-openblas
+include(openblas)
 orc
 pango
 qtbase
@@ -33,4 +33,4 @@ libvdpau
 libvpx
 libwebp
 rtmpdump
-v4l-utils
+include(v4l-utils)
