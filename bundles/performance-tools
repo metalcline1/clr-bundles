@@ -20,6 +20,7 @@ glances
 gperf
 include(htop)
 ioping
+ioport
 include(iotop)
 iptraf
 latencytop
