@@ -63,6 +63,7 @@ man-db
 include(man-pages)
 mc
 include(minicom)
+mokutil
 mosh
 motd-update
 nano
