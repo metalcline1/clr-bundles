@@ -12,6 +12,9 @@ include(desktop-assets)
 include(desktop-locales)
 include(lib-imageformat)
 
+# themes + extensions
+also-add(desktop-assets-extras)
+
 # the UI should provide a basic sysadmin experience
 include(openssl)
 include(sysadmin-basic)
@@ -134,11 +137,6 @@ gnome-settings-daemon
 gnome-shell
 gnome-shell-extensions
 xdg-utils
-
-# Extensions for the default desktop experience
-dash-to-dock
-desktop-icons
-gnome-shell-impatience
 
 # Applications
 evolution-data-server

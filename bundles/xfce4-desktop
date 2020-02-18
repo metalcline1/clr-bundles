@@ -7,14 +7,12 @@
 include(fonts-basic)
 include(libX11client)
 include(which)
+also-add(desktop-assets-extras)
 Thunar
-Vertex-theme
-arc-theme
 clear-font
 clr-desktop-defaults
 elementary-xfce
 exo
-faba-icon-theme
 garcon
 gdk-pixbuf
 gnome-icon-theme
@@ -27,7 +25,6 @@ libnotify-bin
 libxfce4ui-bin
 mkfontdir
 mkfontscale
-moka-icon-theme
 powerline-fonts
 shared-mime-info
 thunar-volman

@@ -1,0 +1,22 @@
+# [TITLE]: desktop-assets-extras
+# [DESCRIPTION]: Wider set of assets for the desktop experience
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Other
+# [MAINTAINER]: Marcos Simental <marcos.simental.magana@intel.com>
+clr-desktop-defaults-extras
+# extensions
+dash-to-dock
+desktop-icons
+gnome-shell-impatience
+# theming
+Qogir-theme
+Vertex-theme
+arc-theme
+faba-icon-theme
+materia-theme
+moka-icon-theme
+paper-icon-theme
+papirus-icon-theme
+plata-theme
+vimix-icon-theme

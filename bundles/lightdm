@@ -7,11 +7,11 @@
 
 include(libX11client)
 include(libglib)
+also-add(desktop-assets-extras)
 
 # start of custom additions (edits outside this area will be removed automatically)
 accountsservice
 adwaita-icon-theme
-arc-theme
 at-spi2-core
 cantarell-fonts
 clear-font
@@ -22,10 +22,8 @@ include(polkit)
 include(x11-server)
 liberation-fonts
 lightdm-gtk-greeter
-paper-icon-theme
 powerline-fonts
 terminus-font
-Vertex-theme
 xcursor-themes
 # end of custom additions
 

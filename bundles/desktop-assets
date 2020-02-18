@@ -10,19 +10,6 @@ include(fonts-basic)
 # Shared styling assets (intended for all supported styles)
 clr-wallpapers
 
-# Material style theming assets
-materia-theme
-paper-icon-theme
-papirus-icon-theme
-plata-theme
-Qogir-theme
-vimix-icon-theme
-
-# Arc style (current default)
-arc-theme
-faba-icon-theme
-moka-icon-theme
-
 # Base fonts
 cantarell-fonts
 clear-font
