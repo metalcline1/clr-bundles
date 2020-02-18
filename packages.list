@@ -427,3 +427,4 @@ lensfun # database of photographic lenses and their characteristics
 fortune-mod # No detailed summary available
 SVT-HEVC # SVT (Scalable Video Technology) for HEVC encoder library
 postgresql12 # Object-relational SQL database, version 12.x
+vifm # A filemanager for the console with VIM like keybindings and control.
