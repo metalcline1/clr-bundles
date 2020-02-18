@@ -25,6 +25,7 @@ kglobalaccel-lib
 kguiaddons-lib
 kirigami2-lib
 kpackage-lib
+kquickcharts-lib
 libassuan-lib
 libxslt-lib
 phonon-lib
