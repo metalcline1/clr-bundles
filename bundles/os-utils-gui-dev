@@ -209,7 +209,6 @@ gmp-lib32
 gnome-common-dev
 gnome-icon-theme-dev
 include(devpkg-gnome-online-accounts)
-gnome-shell
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
@@ -236,13 +235,11 @@ gst-plugins-base
 include(devpkg-gst-plugins-base)
 include(devpkg-gstreamer)
 gstreamer-dev32
-gtk+
 gtk+-bin
 gtk+-dev
 gtk+-dev32
 gtk-doc
 include(devpkg-gtk-doc)
-gtk3
 include(devpkg-gtk3)
 gtk3-dev32
 include(devpkg-gtkmm3)
@@ -264,7 +261,6 @@ icon-naming-utils-dev
 include(devpkg-icu4c)
 icu4c-dev32
 igt-gpu-tools-dev
-include(inkscape)
 intel-gmmlib-dev
 intel-media-driver-dev
 include(intltool)
@@ -478,7 +474,6 @@ mpfr-dev
 msmtp
 mtdev-dev
 mtdev-dev32
-murrine
 include(nasm)
 nasm-bin
 include(devpkg-ncurses)
@@ -505,7 +500,6 @@ openssh
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
-optipng
 optipng-bin
 include(devpkg-opus)
 include(devpkg-orc)

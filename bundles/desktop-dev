@@ -338,7 +338,6 @@ gtk+-dev
 gtk+-dev32
 gtk-doc
 include(devpkg-gtk-doc)
-gtk3
 gtk3-bin
 include(devpkg-gtk3)
 gtk3-dev32
@@ -369,7 +368,6 @@ idna-python
 igt-gpu-tools-dev
 ilmbase-dev
 imagescan
-include(inkscape)
 intel-gmmlib-dev
 intel-media-driver-dev
 include(intltool)
@@ -631,7 +629,6 @@ include(devpkg-mpg123)
 msmtp
 mtdev-dev
 mtdev-dev32
-murrine
 mutter
 mutter-data
 include(devpkg-mutter)
@@ -682,7 +679,6 @@ include(openssl)
 include(devpkg-openssl)
 openssl-dev32
 openssl-lib32
-optipng
 include(devpkg-opus)
 include(devpkg-orc)
 orc-dev32
