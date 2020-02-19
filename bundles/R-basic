@@ -33,3 +33,8 @@ include(less)
 # R-MASS
 # R-Matrix
 # R-survival
+
+#
+# broadly useful R utilities
+#
+R-languageserver
