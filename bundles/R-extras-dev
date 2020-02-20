@@ -170,6 +170,7 @@ R-cmprsk
 R-cobs
 R-coda
 R-coin
+R-collections
 R-colorspace
 R-colourpicker
 R-combinat
@@ -571,7 +572,6 @@ R-stargazer
 R-startupmsg
 R-statmod
 R-statnet.common
-R-stringdist
 R-stringi
 R-stringr
 R-strucchange
