@@ -46,7 +46,6 @@ acl-dev32
 include(acpica-unix2)
 include(devpkg-alsa-lib)
 apache-ant
-apache-maven
 appdirs
 include(devpkg-apr)
 asciidoc
@@ -254,7 +253,6 @@ include(devpkg-gperftools)
 include(gpgme)
 gpgme-dev
 gpm-dev
-gradle
 include(devpkg-graphite)
 graphite-dev32
 include(graphviz)

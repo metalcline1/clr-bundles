@@ -34,7 +34,6 @@ include(devpkg-acl)
 acl-dev32
 include(acpica-unix2)
 apache-ant
-apache-maven
 appdirs
 asciidoc
 include(devpkg-at-spi2-atk)
@@ -200,7 +199,6 @@ google-auth-httplib2
 include(devpkg-googletest)
 gperf
 include(devpkg-gperftools)
-gradle
 include(devpkg-graphite)
 graphite-dev32
 include(graphviz)
