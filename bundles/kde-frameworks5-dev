@@ -35,7 +35,6 @@ acl-dev32
 include(devpkg-alsa-lib)
 alsa-lib-dev32
 apache-ant
-apache-maven
 appdirs
 appstream-dev
 appstream-glib
@@ -549,6 +548,7 @@ sbc-dev32
 sed
 setuptools
 setuptools-python
+setuptools_scm
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)

@@ -587,6 +587,7 @@ R-tensorA
 R-tensorflow
 R-tesseract
 R-testthat
+R-texreg
 R-tfruns
 R-threejs
 R-tibble
@@ -654,7 +655,6 @@ acl-dev32
 include(devpkg-alsa-lib)
 alsa-lib-dev32
 apache-ant
-apache-maven
 appdirs
 appstream-glib
 armadillo
@@ -1297,6 +1297,7 @@ sbc-dev32
 sed
 setuptools
 setuptools-python
+setuptools_scm
 shadow
 shared-mime-info
 include(devpkg-shared-mime-info)

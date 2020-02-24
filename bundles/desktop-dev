@@ -911,6 +911,7 @@ sbc-dev32
 sed
 setuptools
 setuptools-python
+setuptools_scm
 sg3_utils-dev
 shadow
 shared-mime-info

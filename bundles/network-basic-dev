@@ -410,6 +410,7 @@ ruby
 sed
 setuptools
 setuptools-python
+setuptools_scm
 shadow
 shared-mime-info
 six
