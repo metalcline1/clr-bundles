@@ -303,7 +303,7 @@ include(ghostscript)
 ghostscript-dev
 giflib-dev
 include(git)
-gitdb2
+gitdb
 include(gjs)
 include(devpkg-glew)
 glib-bin
@@ -706,7 +706,6 @@ nodejs
 nodejs-dev
 nose
 nose-python
-nosexcover
 npth-dev
 include(devpkg-nspr)
 nss-altfiles
@@ -1063,7 +1062,6 @@ sip
 sip-dev
 six
 slang-dev
-smmap2
 snappy-dev
 snowballstemmer
 solid-dev
