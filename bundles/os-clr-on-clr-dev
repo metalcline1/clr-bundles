@@ -706,6 +706,8 @@ nodejs
 nodejs-dev
 nose
 nose-python
+nosexcover
+nosexcover-python
 npth-dev
 include(devpkg-nspr)
 nss-altfiles
@@ -1062,6 +1064,7 @@ sip
 sip-dev
 six
 slang-dev
+smmap
 snappy-dev
 snowballstemmer
 solid-dev
