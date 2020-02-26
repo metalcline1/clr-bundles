@@ -13,3 +13,4 @@ include(libX11client)
 
 # main package
 firewalld
+nftables
