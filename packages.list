@@ -431,3 +431,4 @@ vifm # A filemanager for the console with VIM like keybindings and control.
 qt5ct # Qt 5 configuration tool independent of desktops
 rlwrap # Another readline wrapper
 pcs # No detailed summary available
+npb # NAS Parallel Benchmarks 
