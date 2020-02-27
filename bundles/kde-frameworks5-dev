@@ -102,6 +102,7 @@ include(devpkg-curl)
 curl-dev32
 include(devpkg-cyrus-sasl)
 datefudge
+dav1d-dev
 db
 dbus-broker
 include(devpkg-dbus)

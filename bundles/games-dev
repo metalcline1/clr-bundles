@@ -521,10 +521,10 @@ include(patch)
 patchelf
 pathlib2
 pbr
-pbr-python
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
+pep517
 perl
 perl-App-cpanminus-perl
 perl-B-Hooks-EndOfScope-perl
@@ -687,7 +687,6 @@ pytest
 pytest-python
 pytest-runner
 pytest-timeout
-python-mock
 python-mock-python
 python3
 python3-core
