@@ -22,11 +22,12 @@ Bundles must have a `STATUS` set, which must be of the following types:
 - Deprecated
 - Pending-Delete
 
-Whereas WIP is potentially not functional, Active is functional and has tests
-to validate functionality. Deprecated is going to be replaced and removed, whereas
-Pending-Delete is going to be removed. Generally, if something is Deprecated
-after a format bump that includes its replacement has occured the bundle
-will change to Pending-Delete.
+Whereas WIP is potentially not functional, Active is expected to be functional
+and may have tests to validate functionality. Deprecated means preparation for
+removal in two format bumps and Pending-Delete means removal is imminent in the
+next format bump.  Generally, if a bundle becomes Deprecated, it includes its
+replacement.  After a format bump, Deprecated bundles will change to
+Pending-Delete.
 
 ## Bundle tags
 
