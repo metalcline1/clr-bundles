@@ -1,7 +1,7 @@
 # [TITLE]: clr-user-bundles
 # [DESCRIPTION]: Manage third-party bundles.
-# [STATUS]: Active
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]: Other
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-clr-user-bundles
+filesystem
