@@ -4,5 +4,4 @@
 # [CAPABILITIES]:
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Mark Horn <mark.d.horn@intel.com>
-
-include(glibc-locale)
+filesystem
