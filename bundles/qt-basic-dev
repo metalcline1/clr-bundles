@@ -59,7 +59,6 @@ buildreq-gnome
 buildreq-golang
 buildreq-kde
 buildreq-meson
-buildreq-mvn
 buildreq-qmake
 buildreq-scons
 bzip2
@@ -176,7 +175,6 @@ gobject-introspection
 include(devpkg-gobject-introspection)
 include(devpkg-googletest)
 gperf
-gradle
 graphene-dev
 include(devpkg-graphite)
 graphite-dev32

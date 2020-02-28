@@ -70,7 +70,6 @@ buildreq-distutils3
 buildreq-gnome
 buildreq-golang
 buildreq-meson
-buildreq-mvn
 buildreq-qmake
 buildreq-scons
 bzip2
