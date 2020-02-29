@@ -431,4 +431,6 @@ vifm # A filemanager for the console with VIM like keybindings and control.
 qt5ct # Qt 5 configuration tool independent of desktops
 rlwrap # Another readline wrapper
 pcs # No detailed summary available
-npb # NAS Parallel Benchmarks 
+npb # NAS Parallel Benchmarks
+lutris # Install and play any video game easily
+scummvm # Allows you to run certain classic graphical point-and-click adventure games.

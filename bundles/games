@@ -17,9 +17,8 @@ also-add(extremetuxracer)
 also-add(minetest)
 also-add(supertuxkart)
 also-add(flare)
-
-lutris
-scummvm
+also-add(lutris)
+also-add(scummvm)
 
 # 32 bit client support for 32 bit games
 
