@@ -211,6 +211,7 @@ dhcp
 include(diffutils)
 distlib
 distro
+dnf-plugins-core
 dnsmasq
 include(docbook-utils)
 docbook-xml
@@ -350,7 +351,6 @@ include(devpkg-gperftools)
 include(gpgme)
 gpgme-dev
 gpm-dev
-gradle
 graphene-dev
 include(devpkg-graphite)
 graphite-dev32
@@ -398,6 +398,7 @@ idna-python
 imagesize
 importlib_metadata
 influxdb
+iniparse
 intel-ipsec-mb
 intel-ipsec-mb-dev
 include(intltool)
@@ -518,6 +519,7 @@ libcroco-dev32
 include(devpkg-libdatrie)
 libdatrie-dev32
 libdbusmenu-qt-dev
+libdnf
 include(devpkg-libdrm)
 libdrm-dev32
 include(devpkg-libepoxy)
@@ -706,8 +708,6 @@ nodejs
 nodejs-dev
 nose
 nose-python
-nosexcover
-nosexcover-python
 npth-dev
 include(devpkg-nspr)
 nss-altfiles
@@ -1064,7 +1064,7 @@ sip
 sip-dev
 six
 slang-dev
-smmap
+smartcols
 snappy-dev
 snowballstemmer
 solid-dev
@@ -1167,6 +1167,7 @@ include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 wcwidth
 wcwidth-python
+webencodings
 include(wget)
 wheel
 include(which)

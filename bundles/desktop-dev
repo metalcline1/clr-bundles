@@ -994,6 +994,7 @@ wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 wcwidth-python
+webencodings
 include(webkitgtk)
 include(devpkg-webkitgtk)
 include(which)
