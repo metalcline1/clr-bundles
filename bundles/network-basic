@@ -6,7 +6,6 @@
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
 # perl-basic and python3-basic included to avoid duplication
 include(perl-basic)
-include(python3-basic)
 
 also-add(clr-network-troubleshooter)
 also-add(curl)
@@ -24,7 +23,8 @@ also-add(wpa_supplicant)
 also-add(znc)
 
 WireGuard
-bind-utils
+bind-utils-bin
+bind-utils-man
 bmon
 bridge-utils
 connect-proxy
@@ -35,13 +35,17 @@ iptraf
 iputils
 iw
 links
-nftables
+nftables-bin
+nftables-doc
+nftables-man
 nmap-extras
 openconnect
 opensm
 openvpn
 pacrunner
-rdma-core
+rdma-core-bin
+rdma-core-doc
+rdma-core-man
 redsocks
 tcpdump
 traceroute
