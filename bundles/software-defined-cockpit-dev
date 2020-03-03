@@ -58,6 +58,7 @@ include(bison)
 bison-dev
 include(devpkg-bluez)
 include(devpkg-boost)
+buildreq-R
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
@@ -230,6 +231,7 @@ include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
 include(devpkg-lcms2)
+include(less)
 include(devpkg-libX11)
 libX11-dev32
 libX11-lib
@@ -390,6 +392,8 @@ nss-altfiles
 octave-dev
 openal-soft-dev
 openal-soft-dev32
+include(openblas)
+openblas-staticdev
 openexr-dev
 openldap-dev
 include(devpkg-openmpi)
@@ -466,9 +470,11 @@ tar
 include(devpkg-tbb)
 tcl
 tcl-dev
+tcl-staticdev
 include(texinfo)
 thin-provisioning-tools
 include(devpkg-tiff)
+tk-dev
 include(tzdata)
 include(unzip)
 util-linux
@@ -505,6 +511,7 @@ include(xz)
 include(devpkg-xz)
 xz-dev32
 include(yasm)
+include(zip)
 include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)

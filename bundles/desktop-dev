@@ -11,6 +11,7 @@ include(sysadmin-basic-dev)
 CUnit-dev
 CUnit-dev32
 Cython
+Flask
 ImageMagick
 include(devpkg-LVM2)
 include(devpkg-LibRaw)
