@@ -451,7 +451,6 @@ R-prettyunits
 R-princurve
 R-processx
 R-prodlim
-R-profdpm
 R-profileModel
 R-progress
 R-promises
@@ -587,7 +586,6 @@ R-tensorA
 R-tensorflow
 R-tesseract
 R-testthat
-R-texreg
 R-tfruns
 R-threejs
 R-tibble
