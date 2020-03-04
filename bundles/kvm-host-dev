@@ -33,6 +33,8 @@ Z3-dev32
 include(devpkg-acl)
 acl-dev32
 include(acpica-unix2)
+include(devpkg-alsa-lib)
+alsa-lib-dev32
 apache-ant
 appdirs
 asciidoc
@@ -61,6 +63,7 @@ include(binutils)
 binutils-dev
 include(bison)
 bison-dev
+include(devpkg-bluez)
 include(devpkg-boost)
 bridge-utils
 buildreq-cmake
@@ -133,9 +136,12 @@ include(devpkg-expat)
 expat-dev32
 expect
 fcgi-dev
+include(devpkg-fftw)
 file-dev
 filelock
 include(findutils)
+include(devpkg-flac)
+flac-dev32
 include(flex)
 flex-dev
 fontconfig-data
@@ -159,6 +165,7 @@ gcc8-dev
 include(gdb)
 gdb-dev
 gdbm-dev
+gdbm-dev32
 gdk-pixbuf
 include(devpkg-gdk-pixbuf)
 gdk-pixbuf-dev32
@@ -318,6 +325,8 @@ libnfnetlink-dev32
 include(devpkg-libnftnl)
 libnftnl-dev32
 include(devpkg-libnl)
+include(devpkg-libogg)
+libogg-dev32
 include(devpkg-libpcap)
 include(devpkg-libpciaccess)
 libpciaccess-dev32
@@ -330,8 +339,11 @@ libpwquality-dev
 librsvg
 include(devpkg-librsvg)
 librsvg-dev32
+include(devpkg-libsamplerate)
 include(devpkg-libseccomp)
 libseccomp-dev32
+libsndfile-dev
+libsndfile-dev32
 include(devpkg-libsoup)
 libsoup-dev32
 include(devpkg-libssh2)
@@ -343,6 +355,7 @@ libthai-dev32
 include(devpkg-libtirpc)
 libtool
 libtool-dev
+libtool-dev32
 libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
@@ -351,6 +364,8 @@ include(devpkg-libusb)
 include(devpkg-libva)
 libvdpau-dev
 include(devpkg-libvirt)
+include(devpkg-libvorbis)
+libvorbis-dev32
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
 include(devpkg-libxml2)
@@ -379,6 +394,7 @@ mpfr-dev
 mtdev-dev
 mtdev-dev32
 include(nasm)
+nasm-bin
 include(devpkg-ncurses)
 ncurses-dev32
 include(net-tools)
@@ -400,16 +416,19 @@ include(devpkg-numactl)
 numpy
 oath-toolkit
 include(devpkg-oath-toolkit)
+octave-dev
 open-iscsi
 opencl-headers-dev
 openjdk11
 openjdk11-dev
 openldap-dev
+include(devpkg-openmpi)
 openssh
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
 include(devpkg-orc)
+orc-dev32
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
@@ -450,6 +469,7 @@ include(procps-ng)
 procps-ng-bin
 protobuf-dev
 psutil
+include(devpkg-pulseaudio)
 py
 pycodestyle
 pycparser
@@ -467,8 +487,11 @@ readline-dev32
 requests
 include(devpkg-rest)
 rest-dev32
+rtkit
 ruby
 sassc
+sbc-dev
+sbc-dev32
 scikit-learn
 scipy
 sed
@@ -481,6 +504,8 @@ include(devpkg-shared-mime-info)
 singledispatch
 six
 snappy-dev
+include(devpkg-speex)
+speexdsp-dev
 spice
 spice-dev
 spice-protocol

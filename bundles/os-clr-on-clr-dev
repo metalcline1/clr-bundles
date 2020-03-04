@@ -27,7 +27,6 @@ Cython
 Django
 Flask
 Jinja2
-Jinja2-python
 LVM2
 include(devpkg-LVM2)
 LVM2-extras
@@ -39,7 +38,6 @@ Mako
 Mako-python
 Markdown
 MarkupSafe
-MarkupSafe-python
 MarkupSafe-python3
 ModemManager-dev
 ModemManager-dev32
@@ -48,7 +46,6 @@ Pillow
 PyJWT
 PyQt5
 PySocks
-PyYAML
 Pygments
 R
 include(devpkg-R)
@@ -63,6 +60,7 @@ Vulkan-Loader-dev
 Vulkan-Loader-dev32
 Vulkan-Tools
 Werkzeug
+Werkzeug-python
 Whoosh
 Z3-dev
 Z3-dev32
@@ -81,7 +79,6 @@ include(devpkg-apr)
 include(devpkg-apr-util)
 argcomplete
 argon2-dev
-argon2_cffi
 asciidoc
 asn1crypto-python
 include(aspell)
@@ -159,8 +156,10 @@ chardet
 check
 check-dev
 check-dev32
+check-manifest
 cheroot
 clear-font
+click
 clr-avx-tools
 clr-hardware-files
 clr-python-timestamp
@@ -416,7 +415,10 @@ include(devpkg-iso-codes)
 iso8601
 isodate
 isort
+itsdangerous
+itsdangerous-python
 include(devpkg-jansson)
+jarn.viewdoc
 jemalloc-dev
 include(joe)
 include(devpkg-json-c)
@@ -723,6 +725,7 @@ oath-toolkit
 include(devpkg-oath-toolkit)
 ocl-icd-dev
 octave-dev
+olefile
 onig-dev
 open-iscsi
 open-isns-dev
@@ -768,6 +771,7 @@ include(devpkg-pcre2)
 pcsc-lite
 pcsc-lite-dev
 pecan
+pep517
 pep8
 pep8-python
 perl
@@ -971,6 +975,7 @@ include(pygobject)
 pylint
 pyparsing
 pyparsing-python
+pyroma
 pyroute2
 pytest
 pytest-python
@@ -979,7 +984,6 @@ pytest-timeout
 pytest-xdist
 python-dateutil
 python-future
-python-memcached
 python-mimeparse
 python-mock
 python-mock-python
@@ -1051,7 +1055,6 @@ sbsigntools
 scikit-learn
 scipy
 sed
-selenium
 serf-dev
 setuptools
 setuptools-python
@@ -1090,7 +1093,6 @@ spice-protocol-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
-sqlparse
 startup-notification
 include(devpkg-startup-notification)
 stoken-dev
@@ -1206,6 +1208,7 @@ zipp
 zlib
 include(devpkg-zlib)
 zlib-dev32
+zope.event
 zope.interface
 include(devpkg-zstd)
 zstd-dev32

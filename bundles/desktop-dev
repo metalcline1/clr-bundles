@@ -8,11 +8,13 @@ include(desktop)
 include(dev-utils)
 include(os-core-dev)
 include(sysadmin-basic-dev)
+include(Babel)
 CUnit-dev
 CUnit-dev32
 Cython
 Flask
 ImageMagick
+Jinja2
 include(devpkg-LVM2)
 include(devpkg-LibRaw)
 Linux-PAM-dev
@@ -21,6 +23,7 @@ include(devpkg-LuaJIT)
 Mako
 Mako-python
 Markdown
+MarkupSafe
 ModemManager-dev
 ModemManager-dev32
 include(NetworkManager)
@@ -29,6 +32,7 @@ PackageKit-dev
 Pillow
 PyQt5
 PySocks
+Pygments
 include(devpkg-R)
 include(devpkg-SDL)
 SDL-dev32
@@ -43,6 +47,8 @@ Vulkan-Headers-dev
 Vulkan-Loader-dev
 Vulkan-Loader-dev32
 Vulkan-Tools
+Werkzeug
+Werkzeug-python
 Z3-dev
 Z3-dev32
 accountsservice-dev
@@ -60,6 +66,7 @@ asn1crypto-python
 include(aspell)
 aspell-dev
 aspell-en
+astroid
 include(devpkg-at-spi2-atk)
 at-spi2-atk-dev32
 include(devpkg-at-spi2-core)
@@ -120,9 +127,11 @@ chardet
 check
 check-dev
 check-dev32
+check-manifest
 include(devpkg-cheese)
 chrpath
 clear-font
+click
 clr-bundle-icons
 clr-bundle-screenshots
 clr-hardware-files
@@ -134,6 +143,7 @@ cmake
 cmocka-dev
 include(devpkg-cmrt)
 include(devpkg-cogl)
+colorama
 colord
 include(devpkg-colord)
 colord-gtk-dev
@@ -182,6 +192,7 @@ distlib
 dnsmasq
 include(docbook-utils)
 docbook-xml
+docopt
 include(docutils)
 double-conversion-dev
 include(doxygen)
@@ -369,6 +380,7 @@ idna-python
 igt-gpu-tools-dev
 ilmbase-dev
 imagescan
+importlib_metadata
 include(inkscape)
 intel-gmmlib-dev
 intel-media-driver-dev
@@ -384,8 +396,12 @@ ipython
 include(devpkg-iso-codes)
 iso8601
 isodate
+isort
+itsdangerous
+itsdangerous-python
 itstool
 include(devpkg-jansson)
+jarn.viewdoc
 jemalloc-dev
 include(devpkg-json-c)
 json-c-dev32
@@ -399,6 +415,7 @@ include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
 kyotocabinet-dev
+lazy-object-proxy
 include(devpkg-lcms2)
 ldb-dev
 ldb-extras
@@ -599,6 +616,7 @@ linux-libc-headers
 include(llvm)
 llvm-dev32
 lmdb-dev
+logilab-common
 include(devpkg-lua)
 lxml
 include(devpkg-lz4)
@@ -609,6 +627,7 @@ m4
 include(make)
 man-db
 include(devpkg-mariadb)
+mccabe
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
@@ -658,6 +677,7 @@ include(devpkg-newt)
 include(devpkg-nghttp2)
 nghttp2-dev32
 nose
+nose-python
 not-ffmpeg-dev
 include(devpkg-nspr)
 nss-altfiles
@@ -667,6 +687,7 @@ include(devpkg-ntfs-3g)
 ntlm-auth
 numpy
 octave-dev
+olefile
 onig-dev
 openal-soft-dev
 openal-soft-dev32
@@ -707,6 +728,7 @@ include(devpkg-pciutils)
 include(devpkg-pcre)
 pcre-dev32
 include(devpkg-pcre2)
+pep517
 perl
 perl-App-cpanminus-perl
 perl-B-Hooks-EndOfScope-perl
@@ -839,6 +861,7 @@ php
 pigz
 pip
 include(devpkg-pipewire)
+pipreqs
 include(devpkg-pixman)
 pixman-dev32
 pkg-config
@@ -869,15 +892,21 @@ pyaml
 pyasn1
 pycairo
 pycairo-dev
+pycodestyle
 pycparser
 pycparser-python
+pyflakes
 include(pygobject)
 include(devpkg-pygobject)
 pygobject-python
+pylint
 pyparsing
 pyparsing-python
+pyroma
 pytest
 pytest-python
+pytest-runner
+pytest-timeout
 python-mock-python
 python-pocketlint
 python-polib
@@ -916,6 +945,7 @@ sed
 setuptools
 setuptools-python
 setuptools_scm
+setuptools_scm-python
 sg3_utils-dev
 shadow
 shared-mime-info
@@ -959,10 +989,12 @@ include(texinfo)
 thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
+toml
 tornado
 tox
 tpm2-tss-dev
 tracker-dev
+typed_ast
 include(tzdata)
 udisks2-dev
 include(devpkg-uhttpmock)
@@ -1000,6 +1032,7 @@ include(webkitgtk)
 include(devpkg-webkitgtk)
 include(which)
 include(devpkg-woff2)
+wrapt
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
@@ -1036,14 +1069,17 @@ include(devpkg-xz)
 xz-dev32
 yajl-dev
 yaml-dev
+yarg
 include(yasm)
 yelp-dev
 yelp-xsl
 yelp-xsl-dev
 include(zenity)
+zipp
 zlib
 include(devpkg-zlib)
 zlib-dev32
+zope.event
 zope.interface
 include(devpkg-zstd)
 zstd-dev32
