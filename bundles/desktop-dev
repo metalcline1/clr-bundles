@@ -49,21 +49,18 @@ Vulkan-Loader-dev32
 Vulkan-Tools
 Werkzeug
 Werkzeug-python
-Whoosh
 Z3-dev
 Z3-dev32
 accountsservice-dev
 include(devpkg-acl)
 acl-dev32
 adwaita-icon-theme-dev
-alabaster
 include(devpkg-alsa-lib)
 alsa-lib-dev32
 appdirs
 appstream-glib
 include(devpkg-appstream-glib)
 include(devpkg-apr)
-argcomplete
 asciidoc
 asn1crypto-python
 include(aspell)
@@ -77,7 +74,6 @@ at-spi2-core-dev32
 include(devpkg-atk)
 atk-dev32
 include(devpkg-atkmm)
-atomicwrites
 include(devpkg-attr)
 attr-dev32
 attrs
@@ -198,7 +194,6 @@ include(docbook-utils)
 docbook-xml
 docopt
 include(docutils)
-docutils-python
 double-conversion-dev
 include(doxygen)
 e2fsprogs
@@ -215,7 +210,6 @@ include(devpkg-enchant)
 eog-dev
 include(devpkg-evolution-data-server)
 include(devpkg-evolution)
-execnet
 exempi-dev
 include(devpkg-exiv2)
 include(devpkg-expat)
@@ -386,7 +380,6 @@ idna-python
 igt-gpu-tools-dev
 ilmbase-dev
 imagescan
-imagesize
 importlib_metadata
 include(inkscape)
 intel-gmmlib-dev
@@ -647,7 +640,6 @@ mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 mock
 mod_perl-perl
-more-itertools
 more-itertools-python
 mozjs60
 include(devpkg-mozjs60)
@@ -664,7 +656,6 @@ mutter-data
 include(devpkg-mutter)
 mypaint-brushes
 mypaint-brushes-dev
-mypy
 include(nasm)
 nasm-bin
 include(devpkg-nautilus)
@@ -866,7 +857,6 @@ perl-libwww-perl-perl
 perl-namespace-autoclean-perl
 perl-namespace-clean-perl
 perl-perl
-pexpect
 php
 pigz
 pip
@@ -917,8 +907,6 @@ pytest
 pytest-python
 pytest-runner
 pytest-timeout
-pytest-xdist
-python-future
 python-mock-python
 python-pocketlint
 python-polib
@@ -936,7 +924,6 @@ include(devpkg-qtdeclarative)
 include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32
-recommonmark
 requests
 requests-toolbelt
 requests-toolbelt-python
@@ -966,17 +953,9 @@ include(devpkg-shared-mime-info)
 sip
 six
 slang-dev
-snowballstemmer
 source-highlight
 include(devpkg-speex)
 speexdsp-dev
-sphinxcontrib-applehelp
-sphinxcontrib-devhelp
-sphinxcontrib-htmlhelp
-sphinxcontrib-jsmath
-sphinxcontrib-qthelp
-sphinxcontrib-serializinghtml
-sphinxcontrib-websupport
 spice-dev
 spice-protocol-dev
 sqlite-autoconf
@@ -1016,7 +995,6 @@ tox
 tpm2-tss-dev
 tracker-dev
 typed_ast
-typing
 include(tzdata)
 udisks2-dev
 include(devpkg-uhttpmock)
@@ -1048,7 +1026,6 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
-wcwidth
 wcwidth-python
 webencodings
 include(webkitgtk)
