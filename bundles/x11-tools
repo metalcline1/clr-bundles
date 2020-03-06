@@ -10,7 +10,7 @@ include(perl-basic)
 evtest
 numlockx
 setxkbmap
-include(x11vnc)
+also-add(x11vnc)
 xauth
 xclip
 xdotool
