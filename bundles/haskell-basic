@@ -7,7 +7,7 @@
 # stack ends up using gcc, make, xz, perl, libgmp, libffi and zlib
 include(c-basic)
 include(devpkg-zlib)
-include(devpkg-numa)
+include(devpkg-numactl)
 include(git)
 include(make)
 include(p11-kit)
