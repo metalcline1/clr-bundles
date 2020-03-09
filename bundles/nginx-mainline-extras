@@ -11,6 +11,7 @@ include(nginx-mainline)
 lua-nginx-module
 memc-nginx-module
 nginx_cookie_flag_module
+nginx-rtmp-module
 nginx-upload-module
 ngx_brotli
 ngx-fancyindex
