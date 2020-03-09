@@ -177,7 +177,6 @@ include(devpkg-p11-kit)
 p11-kit-dev32
 include(patch)
 include(devpkg-pcre2)
-perl-App-cpanminus-perl
 perl-B-Hooks-EndOfScope-perl
 perl-Business-ISBN-Data-perl
 perl-CGI-perl

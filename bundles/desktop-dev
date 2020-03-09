@@ -730,7 +730,6 @@ pcre-dev32
 include(devpkg-pcre2)
 pep517
 perl
-perl-App-cpanminus-perl
 perl-B-Hooks-EndOfScope-perl
 perl-Business-ISBN-Data-perl
 perl-CGI-perl

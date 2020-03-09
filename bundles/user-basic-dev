@@ -552,7 +552,6 @@ include(devpkg-pcre2)
 pcsc-lite-dev
 pecan
 perl
-perl-App-cpanminus-perl
 perl-B-Hooks-EndOfScope-perl
 perl-Business-ISBN-Data-perl
 perl-CGI-perl
