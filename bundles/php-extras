@@ -36,6 +36,7 @@ php-krb5
 php-lua
 php-lzf
 php-mailparse
+php-memcached
 php-Molten
 php-mongodb
 php-msgpack
