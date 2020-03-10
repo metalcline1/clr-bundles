@@ -971,7 +971,6 @@ pycparser-python
 pyflakes
 pyflakes-python
 include(pygobject)
-pylint
 pyparsing
 pyparsing-python
 pyroma

@@ -66,7 +66,6 @@ asn1crypto-python
 include(aspell)
 aspell-dev
 aspell-en
-astroid
 include(devpkg-at-spi2-atk)
 at-spi2-atk-dev32
 include(devpkg-at-spi2-core)
@@ -192,7 +191,6 @@ distlib
 dnsmasq
 include(docbook-utils)
 docbook-xml
-docopt
 include(docutils)
 double-conversion-dev
 include(doxygen)
@@ -380,7 +378,6 @@ idna-python
 igt-gpu-tools-dev
 ilmbase-dev
 imagescan
-importlib_metadata
 include(inkscape)
 intel-gmmlib-dev
 intel-media-driver-dev
@@ -396,7 +393,6 @@ ipython
 include(devpkg-iso-codes)
 iso8601
 isodate
-isort
 itsdangerous
 itsdangerous-python
 itstool
@@ -415,7 +411,6 @@ include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
 kyotocabinet-dev
-lazy-object-proxy
 include(devpkg-lcms2)
 ldb-dev
 ldb-extras
@@ -616,7 +611,6 @@ linux-libc-headers
 include(llvm)
 llvm-dev32
 lmdb-dev
-logilab-common
 include(devpkg-lua)
 lxml
 include(devpkg-lz4)
@@ -627,7 +621,6 @@ m4
 include(make)
 man-db
 include(devpkg-mariadb)
-mccabe
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32
@@ -860,7 +853,6 @@ php
 pigz
 pip
 include(devpkg-pipewire)
-pipreqs
 include(devpkg-pixman)
 pixman-dev32
 pkg-config
@@ -898,14 +890,11 @@ pyflakes
 include(pygobject)
 include(devpkg-pygobject)
 pygobject-python
-pylint
 pyparsing
 pyparsing-python
 pyroma
 pytest
 pytest-python
-pytest-runner
-pytest-timeout
 python-mock-python
 python-pocketlint
 python-polib
@@ -944,7 +933,6 @@ sed
 setuptools
 setuptools-python
 setuptools_scm
-setuptools_scm-python
 sg3_utils-dev
 shadow
 shared-mime-info
@@ -993,7 +981,6 @@ tornado
 tox
 tpm2-tss-dev
 tracker-dev
-typed_ast
 include(tzdata)
 udisks2-dev
 include(devpkg-uhttpmock)
@@ -1031,7 +1018,6 @@ include(webkitgtk)
 include(devpkg-webkitgtk)
 include(which)
 include(devpkg-woff2)
-wrapt
 xauth
 xcb-proto
 include(devpkg-xcb-proto)
@@ -1068,13 +1054,11 @@ include(devpkg-xz)
 xz-dev32
 yajl-dev
 yaml-dev
-yarg
 include(yasm)
 yelp-dev
 yelp-xsl
 yelp-xsl-dev
 include(zenity)
-zipp
 zlib
 include(devpkg-zlib)
 zlib-dev32
