@@ -22,6 +22,7 @@ bind-utils
 btrfs-progs
 clr-installer
 cpio-bin
+cracklib-bin
 cryptsetup-bin
 cryptsetup-config
 cryptsetup-lib
