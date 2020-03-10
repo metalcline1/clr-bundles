@@ -13,7 +13,7 @@ include(desktop-locales)
 include(lib-imageformat)
 
 # themes + extensions
-include(desktop-assets-extras)
+also-add(desktop-assets-extras)
 
 # the UI should provide a basic sysadmin experience
 include(openssl)
