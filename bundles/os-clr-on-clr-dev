@@ -24,7 +24,6 @@ CUnit-dev32
 Cheetah3
 CherryPy
 Cython
-Django
 Flask
 Jinja2
 LVM2
@@ -85,7 +84,6 @@ include(aspell)
 aspell-dev
 aspell-en
 assimp-dev
-astroid
 include(devpkg-at-spi2-atk)
 at-spi2-atk-dev32
 include(devpkg-at-spi2-core)
@@ -214,13 +212,11 @@ dnf-plugins-core
 dnsmasq
 include(docbook-utils)
 docbook-xml
-docopt
 include(docutils)
 docutils-python
 include(dosfstools)
 double-conversion-dev
 include(doxygen)
-dpcontracts
 include(devpkg-dpdk)
 e2fsprogs
 e2fsprogs-data
@@ -470,7 +466,6 @@ kwallet-dev
 kwidgetsaddons-dev
 kwindowsystem-dev
 kxmlgui-dev
-lark-parser
 lazy-object-proxy
 include(devpkg-lcms2)
 ldb-dev
@@ -646,7 +641,6 @@ linux-libc-headers
 include(llvm)
 llvm-dev32
 lmdb-dev
-logilab-common
 lua
 include(devpkg-lua)
 lxml
@@ -754,7 +748,6 @@ p11-kit-dev32
 packaging
 packaging-python
 include(devpkg-pacrunner)
-pandas
 include(pandoc)
 include(devpkg-pango)
 pango-dev32
@@ -923,7 +916,6 @@ php-dev
 pigz
 pinentry
 pip
-pipreqs
 include(devpkg-pixman)
 pixman-dev32
 include(devpkg-pkcs11-helper)
@@ -978,7 +970,6 @@ pyroute2
 pytest
 pytest-python
 pytest-runner
-pytest-timeout
 pytest-xdist
 python-dateutil
 python-future
@@ -1073,7 +1064,6 @@ snappy-dev
 snowballstemmer
 solid-dev
 sonnet-dev
-sortedcontainers
 source-highlight
 include(devpkg-speex)
 speexdsp-dev
@@ -1172,7 +1162,6 @@ wcwidth
 wcwidth-python
 webencodings
 include(wget)
-wheel
 include(which)
 include(devpkg-woff2)
 wrapt
@@ -1199,7 +1188,6 @@ xz-dev32
 yajl-dev
 yajl-lib
 yaml-dev
-yarg
 include(yasm)
 include(zip)
 zipp
