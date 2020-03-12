@@ -214,6 +214,7 @@ groff
 grpc
 grpcio
 gsettings-desktop-schemas
+include(devpkg-gsl)
 gtk-doc
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
@@ -528,6 +529,7 @@ tcl-dev
 tempora
 include(texinfo)
 thin-provisioning-tools
+include(devpkg-tiff)
 tk-dev
 tox
 tox-python
