@@ -16,7 +16,6 @@ include(devpkg-R)
 #
 # Required for performance reasons
 #
-libgfortran-avx
 glibc-lib-avx2
 gcc-libs-math
 

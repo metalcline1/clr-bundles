@@ -356,7 +356,6 @@ include(devpkg-libgcrypt)
 libgcrypt-dev32
 include(devpkg-libgd)
 include(devpkg-libgdata)
-libgfortran-avx
 libgit2-dev
 include(devpkg-libgpg-error)
 libgpg-error-dev32

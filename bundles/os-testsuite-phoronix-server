@@ -49,7 +49,6 @@ libaio-dev
 also-add(devpkg-libassuan)
 also-add(devpkg-libevent)
 also-add(devpkg-libgcrypt)
-libgfortran-avx
 also-add(devpkg-libgpg-error)
 also-add(devpkg-libjpeg-turbo)
 libksba-dev

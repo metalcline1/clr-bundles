@@ -33,7 +33,6 @@ glibc-lib-avx2
 intelhex
 jdcal
 kernel-config-checker
-libgfortran-avx
 lxml
 MonkeyType
 mypy

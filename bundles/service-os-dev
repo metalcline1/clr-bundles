@@ -161,7 +161,6 @@ include(devpkg-libffi)
 libffi-dev32
 include(devpkg-libgcrypt)
 libgcrypt-dev32
-libgfortran-avx
 include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras
