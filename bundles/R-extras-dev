@@ -89,6 +89,7 @@ R-RandomFieldsUtils
 R-Rcpp
 R-RcppArmadillo
 R-RcppEigen
+R-RcppParallel
 R-RcppProgress
 R-RcppZiggurat
 R-Rdpack
@@ -263,7 +264,6 @@ R-furrr
 R-futile.options
 R-future
 R-gam
-R-gamm4
 R-gbRd
 R-gbm
 R-gclus
@@ -498,6 +498,7 @@ R-reticulate
 R-rex
 R-rgdal
 R-rgenoud
+R-rgeos
 R-rgl
 R-rhandsontable
 R-rhub
