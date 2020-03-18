@@ -12,6 +12,7 @@ include(sudo)
 include(Sphinx)
 
 # common requirements
+diffstat
 include(make)
 include(plzip)
 six
