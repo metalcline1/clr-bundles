@@ -311,6 +311,7 @@ R-inline
 R-inum
 R-invgamma
 R-ipred
+R-isoband
 R-iterators
 R-janitor
 R-joineR
@@ -711,7 +712,6 @@ clr-R-helpers
 clr-rpm-config
 include(devpkg-clutter)
 cmake
-include(devpkg-colord)
 contextlib2
 coreutils
 cppunit-dev
@@ -1316,6 +1316,7 @@ systemd-dev32
 systemd-extras
 systemd-lib
 tar
+include(devpkg-tbb)
 tcl
 tcl-dev
 tcl-staticdev

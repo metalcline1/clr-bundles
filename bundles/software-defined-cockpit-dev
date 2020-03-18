@@ -81,7 +81,6 @@ clr-rpm-config
 include(devpkg-clutter)
 cmake
 cmocka-dev
-include(devpkg-colord)
 include(devpkg-compat-fuse-soname2)
 coreutils
 cppcheck

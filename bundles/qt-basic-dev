@@ -75,7 +75,6 @@ clear-font
 clr-rpm-config
 include(devpkg-clutter)
 cmake
-include(devpkg-colord)
 contextlib2
 coreutils
 cracklib-dev

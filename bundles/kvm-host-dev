@@ -93,7 +93,6 @@ clr-rpm-config
 cmake
 cmd2
 colorama
-include(devpkg-colord)
 include(devpkg-compat-fuse-soname2)
 contextlib2
 coreutils

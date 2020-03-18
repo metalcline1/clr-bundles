@@ -46,7 +46,7 @@ libabigail
 also-add(libarchive)
 libarchive-c
 include(devpkg-libarchive)
-libdeps
+include(libdeps)
 include(devpkg-libdrm)
 include(devpkg-libva)
 include(devpkg-libxcb)

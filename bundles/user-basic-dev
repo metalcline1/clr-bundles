@@ -115,7 +115,6 @@ cmake
 cmd2
 cmocka-dev
 colorama
-include(devpkg-colord)
 include(devpkg-compat-fuse-soname2)
 confuse-dev
 contextlib2

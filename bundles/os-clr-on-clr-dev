@@ -167,7 +167,6 @@ cmake
 cmd2
 cmocka-dev
 colorama
-include(devpkg-colord)
 commonmark
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
