@@ -436,4 +436,4 @@ lutris # Install and play any video game easily
 scummvm # Allows you to run certain classic graphical point-and-click adventure games.
 openshot-qt # No detailed summary available
 rr # Lightweight tool for recording and replaying execution of applications (trees of processes and threads)
-libdeps # No detailed summary available 
+libdeps # Find out why a binary pulls in libraries
