@@ -13,6 +13,7 @@ include(devpkg-glib)
 include(libglib)
 include(devpkg-libX11)
 include(devpkg-mesa)
+include(devpkg-pango)
 include(devpkg-wayland)
 
 cogl-dev
