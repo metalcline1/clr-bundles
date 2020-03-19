@@ -203,6 +203,7 @@ libtool-dev
 libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
+include(devpkg-libuv)
 include(devpkg-libxkbcommon)
 libxkbcommon-dev32
 include(devpkg-libxml2)
@@ -308,6 +309,7 @@ perl-HTTP-Server-Simple-perl
 perl-IO-HTML-perl
 perl-IO-Interactive-Tiny-perl
 perl-IO-Socket-SSL-perl
+perl-IPC-Run3-perl
 perl-Importer-perl
 perl-JSON-MaybeXS-perl
 perl-LWP-MediaTypes

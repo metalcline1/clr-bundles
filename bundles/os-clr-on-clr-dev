@@ -979,6 +979,7 @@ python-subunit
 python3
 python3-core
 python3-dev
+python3-staticdev
 pytz
 qemu
 qhull-dev
