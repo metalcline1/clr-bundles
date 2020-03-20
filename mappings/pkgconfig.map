@@ -498,7 +498,6 @@ pkgconfig(nettle)	devpkg-nettle
 pkgconfig(nspr)	devpkg-nspr
 pkgconfig(nss)	devpkg-nss
 pkgconfig(numa)	devpkg-numactl
-pkgconfig(oauth)	devpkg-liboauth
 pkgconfig(ogg)	devpkg-libogg
 pkgconfig(ompi)	devpkg-openmpi
 pkgconfig(opencv)	devpkg-opencv

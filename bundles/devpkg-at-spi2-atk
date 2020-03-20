@@ -7,6 +7,8 @@
 
 include(devpkg-base)
 include(devpkg-at-spi2-core)
+include(devpkg-atk)
+include(devpkg-dbus)
 include(devpkg-glib)
 include(libglib)
 
