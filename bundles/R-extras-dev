@@ -1316,6 +1316,7 @@ systemd-dev32
 systemd-extras
 systemd-lib
 tar
+tbb
 include(devpkg-tbb)
 tcl
 tcl-dev
