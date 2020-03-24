@@ -26,6 +26,7 @@ qtbase
 qtdeclarative
 qtwayland
 qtx11extras
+SDL2
 # Video
 Vulkan-Loader
 libtheora
