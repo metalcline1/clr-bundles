@@ -5,5 +5,4 @@
 # [TAGS]: Programming Languages, Developer Tools, Python
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
 include(p11-kit)
-include(python2-basic)
 include(python3-basic)
