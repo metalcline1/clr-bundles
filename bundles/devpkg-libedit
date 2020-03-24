@@ -1,0 +1,10 @@
+# [TITLE]: devpkg-libedit
+# [DESCRIPTION]: All content for pkgconfig file libedit.pc.
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Developer Tools
+# [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
+
+include(devpkg-base)
+
+libedit-dev
