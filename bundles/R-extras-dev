@@ -1024,7 +1024,6 @@ lz4-dev32
 lzo-dev
 m4
 include(make)
-makedepend
 include(devpkg-mariadb)
 include(devpkg-mediasdk)
 include(devpkg-mesa)

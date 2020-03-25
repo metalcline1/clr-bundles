@@ -280,7 +280,6 @@ lz4-dev32
 lzo-dev
 m4
 include(make)
-makedepend
 man-db
 include(devpkg-mesa)
 mesa-dev32
@@ -311,7 +310,6 @@ include(devpkg-numactl)
 onig-dev
 include(openblas)
 opencl-headers-dev
-openjdk
 include(devpkg-openmpi)
 include(openssl)
 include(devpkg-openssl)
@@ -528,7 +526,6 @@ util-linux-dev32
 util-linux-extras
 include(devpkg-util-macros)
 util-macros-dev32
-vala
 include(valgrind)
 valgrind-dev
 vim

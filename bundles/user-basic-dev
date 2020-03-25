@@ -451,7 +451,6 @@ lz4-dev32
 lzo-dev
 m4
 include(make)
-makedepend
 man-db
 mccabe
 include(devpkg-mesa)
@@ -497,7 +496,6 @@ open-iscsi
 open-isns-dev
 include(openblas)
 opencl-headers-dev
-openjdk
 openjdk11
 openjdk11-dev
 openldap-dev

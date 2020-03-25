@@ -649,7 +649,6 @@ lzlib-dev
 lzo-dev
 m4
 include(make)
-makedepend
 man-db
 include(devpkg-mariadb)
 mccabe
