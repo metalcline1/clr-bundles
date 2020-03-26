@@ -144,7 +144,6 @@ ca-certs
 cached-property
 include(devpkg-cairo)
 cairo-dev32
-include(ccache)
 ccid
 ceph-dev
 certifi
@@ -1136,7 +1135,7 @@ include(unzip)
 urllib3
 include(devpkg-usbredir)
 include(devpkg-userspace-rcu)
-usrbinjava
+usrbinpython
 usrbinvi
 util-linux
 util-linux-bin
