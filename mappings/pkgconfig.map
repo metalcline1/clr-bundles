@@ -269,6 +269,7 @@ pkgconfig(libedata-book-1.2)	devpkg-evolution-data-server
 pkgconfig(libedata-cal-2.0)	devpkg-evolution-data-server
 pkgconfig(libedataserver-1.2)	devpkg-evolution-data-server
 pkgconfig(libedataserverui-1.2)	devpkg-evolution-data-server
+pkgconfig(libedit)	devpkg-libedit
 pkgconfig(libelf)	devpkg-elfutils
 pkgconfig(libemail-engine)	devpkg-evolution
 pkgconfig(libevdev)	devpkg-libevdev
