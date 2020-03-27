@@ -667,6 +667,7 @@ mkfontscale-bin
 mobile-broadband-provider-info
 mock
 mod_perl-perl
+include(modules)
 more-itertools
 more-itertools-python
 include(devpkg-mozjs60)

@@ -20,6 +20,7 @@ autogen
 automake
 automake-dev
 bash-completion-dev
+bats
 include(binutils)
 include(bison)
 bison-dev
@@ -48,6 +49,7 @@ include(devpkg-e2fsprogs)
 include(devpkg-elfutils)
 expect
 file-dev
+include(findutils)
 include(flex)
 flex-dev
 include(devpkg-fuse)
@@ -109,6 +111,7 @@ include(devpkg-libcap-ng)
 libcap-ng-dev32
 include(devpkg-libcgroup)
 include(devpkg-libffi)
+libffi-dev32
 include(devpkg-libgcrypt)
 libgcrypt-dev32
 include(devpkg-libgpg-error)
@@ -127,6 +130,8 @@ libpwquality-dev
 include(devpkg-libseccomp)
 libseccomp-dev32
 libstdc++
+include(devpkg-libtasn1)
+libtasn1-dev32
 include(devpkg-libtirpc)
 libtool
 libtool-dev
@@ -153,10 +158,13 @@ include(openssl)
 include(devpkg-openssl)
 openssl-dev32
 include(p11-kit)
+p11-kit-dev32
 include(patch)
 include(devpkg-pcre)
 include(devpkg-pcre2)
+perl-Test-Simple-perl
 perl-XML-Parser-perl
+perl-perl
 pigz
 pkg-config
 pkg-config-dev
@@ -184,6 +192,7 @@ include(texinfo)
 thin-provisioning-tools
 include(unzip)
 util-linux
+util-linux-bin
 include(devpkg-util-linux)
 util-linux-dev32
 util-linux-extras

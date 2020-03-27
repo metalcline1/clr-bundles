@@ -1034,6 +1034,7 @@ mkfontdir
 mkfontdir-bin
 mkfontscale-bin
 mod_perl-perl
+include(modules)
 mpc-dev
 mpfr-dev
 msmtp
