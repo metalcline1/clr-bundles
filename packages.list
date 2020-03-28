@@ -437,3 +437,4 @@ scummvm # Allows you to run certain classic graphical point-and-click adventure 
 openshot-qt # No detailed summary available
 rr # Lightweight tool for recording and replaying execution of applications (trees of processes and threads)
 libdeps # Find out why a binary pulls in libraries
+iio-sensor-proxy # IIO sensors to D-Bus proxy
