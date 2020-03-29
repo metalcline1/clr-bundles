@@ -214,7 +214,6 @@ openssl-dev32
 openssl-lib32
 include(devpkg-openvswitch)
 include(p11-kit)
-p11-kit-dev32
 packaging
 include(patch)
 patchelf
