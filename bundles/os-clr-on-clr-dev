@@ -70,7 +70,6 @@ alabaster
 include(devpkg-alsa-lib)
 alsa-lib-dev32
 apache-ant
-apache-maven
 appdirs
 appstream-dev
 appstream-glib
@@ -134,7 +133,6 @@ buildreq-gnome
 buildreq-golang
 buildreq-kde
 buildreq-meson
-buildreq-mvn
 buildreq-qmake
 buildreq-scons
 bzip2
