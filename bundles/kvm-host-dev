@@ -127,7 +127,6 @@ e2fsprogs-dev32
 e2fsprogs-extras
 ebtables
 ebtables-dev
-include(elasticsearch)
 include(devpkg-elfutils)
 elfutils-dev32
 emacs

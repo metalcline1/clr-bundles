@@ -225,7 +225,6 @@ ebtables
 ed
 efivar-dev
 include(devpkg-eigen)
-include(elasticsearch)
 elfutils
 include(devpkg-elfutils)
 elfutils-dev32

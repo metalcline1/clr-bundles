@@ -155,7 +155,6 @@ e2fsprogs-extras
 ebtables
 ed
 efivar-dev
-include(elasticsearch)
 elfutils
 include(devpkg-elfutils)
 elfutils-dev32
