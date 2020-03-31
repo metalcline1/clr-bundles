@@ -166,6 +166,7 @@ gweather-3.0
 harfbuzz
 hwloc
 icu-i18n
+ImageMagick
 jack
 jansson
 json-c
