@@ -1,3 +1,4 @@
+pkgconfig(ImageMagick)	devpkg-ImageMagick
 pkgconfig(Qt5Core)	devpkg-qtbase
 pkgconfig(Qt5Gui)	devpkg-qtbase
 pkgconfig(Qt5Network)	devpkg-qtbase
