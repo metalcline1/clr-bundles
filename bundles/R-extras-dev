@@ -12,7 +12,7 @@ CGAL-dev
 CUnit-dev
 CUnit-dev32
 Cython
-ImageMagick-dev
+include(devpkg-ImageMagick)
 JAGS-dev
 Jinja2
 include(devpkg-LVM2)
@@ -305,7 +305,6 @@ R-httr
 R-hunspell
 R-hypergeo
 R-igraph
-R-import
 R-ini
 R-inline
 R-inum
