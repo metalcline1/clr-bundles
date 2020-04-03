@@ -4,9 +4,7 @@
 # [CAPABILITIES]: TAP testing, HTTP requests, PTY automation, and various file utilities
 # [TAGS]: Developer Tools
 # [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
-include(acl)
 include(binutils)
-include(cpio)
 include(curl)
 include(diffutils)
 include(file)
@@ -17,7 +15,6 @@ include(perl-basic)
 include(rsync)
 include(sudo)
 
-attr
 bats
 expect
 glibc-bin
