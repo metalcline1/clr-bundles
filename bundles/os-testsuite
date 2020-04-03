@@ -22,4 +22,3 @@ attr
 bats
 expect
 glibc-bin
-include(socat)
