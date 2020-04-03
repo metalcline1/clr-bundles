@@ -12,7 +12,6 @@ include(git)
 include(openssh-server)
 include(parallel)
 include(perl-basic)
-include(rsync)
 include(sudo)
 
 bats
