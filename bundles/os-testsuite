@@ -22,7 +22,4 @@ attr
 bats
 expect
 glibc-bin
-perl
-perl-YAML-Tiny
 include(socat)
-tpm2-simulator
