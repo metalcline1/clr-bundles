@@ -3,7 +3,7 @@
 # [STATUS]: Active
 # [CAPABILITIES]: TAP testing, HTTP requests, PTY automation, and various file utilities
 # [TAGS]: Developer Tools
-# [MAINTAINER]: Victor Rodriguez <victor.rodriguez.bahena@intel.com>
+# [MAINTAINER]: George T Kramer <george.t.kramer@intel.com>
 include(binutils)
 include(curl)
 include(diffutils)
