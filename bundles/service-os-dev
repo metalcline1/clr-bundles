@@ -216,6 +216,7 @@ include(devpkg-openvswitch)
 include(p11-kit)
 p11-kit-dev32
 packaging
+include(pandoc)
 include(patch)
 patchelf
 pathlib2
