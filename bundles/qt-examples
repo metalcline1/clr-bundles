@@ -1,0 +1,42 @@
+# [TITLE]: qt-examples
+# [DESCRIPTION]: Examples programs for Qt
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Programming Languages
+# [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
+include(qt-basic)
+include(qt-webengine)
+include(devpkg-Qt5Core)
+include(devpkg-Qt5Svg)
+include(devpkg-Qt5UiTools)
+include(devpkg-Qt5WebEngine)
+include(devpkg-Qt5Widgets)
+
+qt3d-examples
+qtbase-examples
+qtcanvas3d-examples
+qtcharts-examples
+qtconnectivity-examples
+qtdatavis3d-examples
+qtdeclarative-examples
+qtgamepad-examples
+qtlocation-examples
+qtmqtt-examples
+qtmultimedia-examples
+qtnetworkauth-examples
+qtquickcontrols2-examples
+qtquickcontrols-examples
+qtremoteobjects-examples
+qtscript-examples
+qtscxml-examples
+qtsensors-examples
+qtserialbus-examples
+qtserialport-examples
+qtspeech-examples
+qtsvg-examples
+qttools-examples
+qtvirtualkeyboard-examples
+qtwebchannel-examples
+qtwebengine-examples
+qtwebsockets-examples
+qtxmlpatterns-examples
