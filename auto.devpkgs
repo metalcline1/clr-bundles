@@ -447,6 +447,7 @@ LLVMSPIRVLib
 lttng-ust
 lua
 luajit
+md4c
 mozjs-52
 mozjs-60
 mpv
