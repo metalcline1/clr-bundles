@@ -1023,6 +1023,7 @@ lzo-dev
 m4
 include(make)
 include(devpkg-mariadb)
+md4c-dev
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32

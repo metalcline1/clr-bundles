@@ -417,6 +417,7 @@ lzo-dev
 m4
 include(make)
 include(devpkg-mariadb)
+md4c-dev
 media-player-info
 include(devpkg-mediasdk)
 include(devpkg-mesa)
