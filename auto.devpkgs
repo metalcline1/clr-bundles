@@ -464,7 +464,6 @@ pygobject-3.0
 Qt5Core
 Qt5Svg
 Qt5UiTools
-Qt5WebEngine
 Qt5Widgets
 readline
 samplerate
