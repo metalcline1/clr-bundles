@@ -10,7 +10,6 @@ mesa-dev
 
 qt3d-dev
 qtbase-dev
-qtcanvas3d-dev
 qtcharts-dev
 qtconnectivity-dev
 qtdatavis3d-dev
@@ -21,7 +20,6 @@ qtmqtt-dev
 qtmultimedia-dev
 qtnetworkauth-dev
 qtquickcontrols2-dev
-qtquickcontrols-dev
 qtremoteobjects-dev
 qtscript-dev
 qtscxml-dev
