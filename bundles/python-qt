@@ -5,6 +5,7 @@
 # [TAGS]: Programming Languages
 # [MAINTAINER]: Kevron Rees <kevron.m.rees@intel.com>
 include(qt-basic)
+include(libb-qt5webengine)
 
 pyotherside
 pyside2-setup
