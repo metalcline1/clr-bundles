@@ -1,0 +1,37 @@
+# [TITLE]: qt5-dev
+# [DESCRIPTION]: Development files for Qt 5
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Programming Languages
+# [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
+include(qt-basic)
+mesa-dev
+
+qt3d-dev
+qtbase-dev
+qtcanvas3d-dev
+qtcharts-dev
+qtconnectivity-dev
+qtdatavis3d-dev
+qtdeclarative-dev
+qtgamepad-dev
+qtlocation-dev
+qtmqtt-dev
+qtmultimedia-dev
+qtnetworkauth-dev
+qtquickcontrols2-dev
+qtquickcontrols-dev
+qtremoteobjects-dev
+qtscript-dev
+qtscxml-dev
+qtsensors-dev
+qtserialbus-dev
+qtserialport-dev
+qtspeech-dev
+qtsvg-dev
+qttools-dev
+qtvirtualkeyboard-dev
+qtwebchannel-dev
+qtwebengine-dev
+qtwebsockets-dev
+qtxmlpatterns-dev

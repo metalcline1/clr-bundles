@@ -1,16 +1,10 @@
-# [TITLE]: qt-examples
+# [TITLE]: qt5-examples
 # [DESCRIPTION]: Examples programs for Qt
 # [STATUS]: Active
 # [CAPABILITIES]:
 # [TAGS]: Programming Languages
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
-include(qt-basic)
-include(qt-webengine)
-include(devpkg-Qt5Core)
-include(devpkg-Qt5Svg)
-include(devpkg-Qt5UiTools)
-include(devpkg-Qt5WebEngine)
-include(devpkg-Qt5Widgets)
+include(qt5-dev)
 
 qt3d-examples
 qtbase-examples
