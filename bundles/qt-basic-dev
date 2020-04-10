@@ -337,7 +337,7 @@ lz4-dev32
 m4
 include(make)
 include(devpkg-mariadb)
-md4c-dev
+include(devpkg-md4c)
 include(devpkg-mesa)
 mesa-dev32
 mingw-gcc

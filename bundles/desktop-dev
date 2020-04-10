@@ -619,7 +619,7 @@ m4
 include(make)
 man-db
 include(devpkg-mariadb)
-md4c-dev
+include(devpkg-md4c)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32

@@ -645,7 +645,7 @@ man-db
 include(devpkg-mariadb)
 mccabe
 mccabe-python
-md4c-dev
+include(devpkg-md4c)
 media-player-info
 memkind-dev
 include(devpkg-mesa)

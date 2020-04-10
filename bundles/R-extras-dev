@@ -162,7 +162,6 @@ R-circlize
 R-classInt
 R-cli
 R-clipr
-R-clisymbols
 R-clue
 R-clustMixType
 R-clusterGeneration
@@ -1023,7 +1022,7 @@ lzo-dev
 m4
 include(make)
 include(devpkg-mariadb)
-md4c-dev
+include(devpkg-md4c)
 include(devpkg-mediasdk)
 include(devpkg-mesa)
 mesa-dev32

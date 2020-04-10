@@ -6,16 +6,16 @@
 # [MAINTAINER]: Thiago Macieira <thiago.macieira@intel.com>
 include(qt-basic)
 include(lib-qt5webengine)
-mesa-dev
+include(devpkg-mesa)
 
-qt3d-dev
-qtbase-dev
+include(devpkg-qt3d)
+include(devpkg-qtbase)
 qtcharts-dev
 qtconnectivity-dev
 qtdatavis3d-dev
-qtdeclarative-dev
+include(devpkg-qtdeclarative)
 qtgamepad-dev
-qtlocation-dev
+include(devpkg-qtlocation)
 qtmqtt-dev
 qtmultimedia-dev
 qtnetworkauth-dev
@@ -27,10 +27,10 @@ qtsensors-dev
 qtserialbus-dev
 qtserialport-dev
 qtspeech-dev
-qtsvg-dev
-qttools-dev
+include(devpkg-qtsvg)
+include(devpkg-qttools)
 qtvirtualkeyboard-dev
-qtwebchannel-dev
-qtwebengine-dev
+include(devpkg-qtwebchannel)
+include(devpkg-qtwebengine)
 qtwebsockets-dev
 qtxmlpatterns-dev
