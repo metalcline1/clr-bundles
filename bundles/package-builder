@@ -12,6 +12,7 @@ include(sudo)
 include(Sphinx)
 
 # common requirements
+include(cpio)
 diffstat
 include(make)
 include(plzip)
