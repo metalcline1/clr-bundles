@@ -2,15 +2,8 @@ pkgconfig(ImageMagick)	devpkg-ImageMagick
 pkgconfig(Qt5Core)	devpkg-qtbase
 pkgconfig(Qt5Gui)	devpkg-qtbase
 pkgconfig(Qt5Network)	devpkg-qtbase
-pkgconfig(Qt5Positioning)	devpkg-qtlocation
-pkgconfig(Qt5Qml)	devpkg-qtdeclarative
-pkgconfig(Qt5QmlModels)	devpkg-qtdeclarative
-pkgconfig(Qt5Quick)	devpkg-qtdeclarative
 pkgconfig(Qt5Svg)	devpkg-qtsvg
 pkgconfig(Qt5UiTools)	devpkg-qttools
-pkgconfig(Qt5WebChannel)	devpkg-qtwebchannel
-pkgconfig(Qt5WebEngine)	devpkg-qtwebengine
-pkgconfig(Qt5WebEngineCore)	devpkg-qtwebengine
 pkgconfig(Qt5Widgets)	devpkg-qtbase
 pkgconfig(SDL2_gfx)	devpkg-SDL2_gfx
 pkgconfig(SDL2_image)	devpkg-SDL2_image
@@ -487,6 +480,7 @@ pkgconfig(libzstd)	devpkg-zstd
 pkgconfig(lttng-ust)	devpkg-lttng-ust
 pkgconfig(lua)	devpkg-lua
 pkgconfig(luajit)	devpkg-LuaJIT
+pkgconfig(md4c)	devpkg-md4c
 pkgconfig(mit-krb5)	devpkg-krb5
 pkgconfig(mit-krb5-gssapi)	devpkg-krb5
 pkgconfig(mount)	devpkg-util-linux
