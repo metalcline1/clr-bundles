@@ -484,7 +484,6 @@ pkgconfig(md4c)	devpkg-md4c
 pkgconfig(mit-krb5)	devpkg-krb5
 pkgconfig(mit-krb5-gssapi)	devpkg-krb5
 pkgconfig(mount)	devpkg-util-linux
-pkgconfig(mozjs-52)	devpkg-mozjs52
 pkgconfig(mozjs-60)	devpkg-mozjs60
 pkgconfig(mutter-clutter-5)	devpkg-mutter
 pkgconfig(mutter-cogl-5)	devpkg-mutter
