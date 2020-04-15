@@ -438,3 +438,4 @@ openshot-qt # No detailed summary available
 rr # Lightweight tool for recording and replaying execution of applications (trees of processes and threads)
 libdeps # Find out why a binary pulls in libraries
 iio-sensor-proxy # IIO sensors to D-Bus proxy
+LibreCAD # 2D CAD program that can read DXF and DWG files and can write DXF, PDF and SVG files.
