@@ -649,7 +649,6 @@ setuptools-python
 setuptools_scm
 shadow
 shared-mime-info
-include(devpkg-shared-mime-info)
 six
 slang-dev
 include(devpkg-speex)
