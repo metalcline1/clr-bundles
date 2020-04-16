@@ -11,6 +11,7 @@ include(python3-basic)
 include(libglib)
 include(Sphinx)
 
+ipykernel
 jupyter
 jupyterlab
 jupyterlab_launcher
