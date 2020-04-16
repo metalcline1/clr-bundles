@@ -93,7 +93,6 @@ NetworkManager-openconnect
 NetworkManager-vpnc
 dconf
 #groupcheck
-PackageKit
 include(polkit)
 include(pulseaudio)
 openconnect
