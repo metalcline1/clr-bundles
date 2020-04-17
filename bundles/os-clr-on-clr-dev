@@ -663,7 +663,6 @@ mock
 mod_perl-perl
 include(modules)
 more-itertools
-more-itertools-python
 include(devpkg-mozjs60)
 mpc-dev
 mpfr-dev
@@ -737,7 +736,6 @@ include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
 packaging
-packaging-python
 include(devpkg-pacrunner)
 include(pandoc)
 include(devpkg-pango)
@@ -955,18 +953,15 @@ pyflakes
 pyflakes-python
 include(pygobject)
 pyparsing
-pyparsing-python
 pyroma
 pyroute2
 pytest
-pytest-python
 pytest-runner
 pytest-xdist
 python-dateutil
 python-future
 python-mimeparse
 python-mock
-python-mock-python
 python-multilib
 python-subunit
 python3
@@ -1150,7 +1145,6 @@ wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 wcwidth
-wcwidth-python
 webencodings
 include(wget)
 include(which)

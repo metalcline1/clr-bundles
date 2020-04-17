@@ -632,7 +632,6 @@ mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 mock
 mod_perl-perl
-more-itertools-python
 mozjs60
 include(devpkg-mozjs60)
 mozjs60-lib
@@ -702,7 +701,6 @@ include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
 packaging
-packaging-python
 include(devpkg-pacrunner)
 include(pandoc)
 include(devpkg-pango)
@@ -888,11 +886,8 @@ include(pygobject)
 include(devpkg-pygobject)
 pygobject-python
 pyparsing
-pyparsing-python
 pyroma
 pytest
-pytest-python
-python-mock-python
 python-pocketlint
 python-polib
 python3
@@ -1009,7 +1004,6 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
-wcwidth-python
 webencodings
 include(webkitgtk)
 include(devpkg-webkitgtk)
