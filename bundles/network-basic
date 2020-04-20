@@ -31,7 +31,7 @@ connect-proxy
 conntrack-tools
 ebtables
 ipset
-iptraf
+iptraf-ng
 iputils
 iw
 links

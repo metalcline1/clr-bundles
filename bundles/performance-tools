@@ -22,7 +22,7 @@ include(htop)
 ioping
 ioport
 include(iotop)
-iptraf
+iptraf-ng
 latencytop
 linux-extra
 include(linux-tools)
