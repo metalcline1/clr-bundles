@@ -16,7 +16,6 @@ dask
 ipython
 matplotlib
 nose
-numba
 numpy
 scipy
 sympy
@@ -35,7 +34,6 @@ seaborn
 
 # misc tools to support the above
 asv
-llvmlite
 plotly
 
 
