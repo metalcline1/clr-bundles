@@ -26,8 +26,15 @@ pytest-repeat
 pytest-rerunfailures
 pytest-runner
 pytest-sugar
+pytest-tap
 pytest-timeout
 pytest-xdist
 python-mock
 traceback2
 unittest2
+
+
+#
+# Helpers for tests
+#
+beautifulsoup4
