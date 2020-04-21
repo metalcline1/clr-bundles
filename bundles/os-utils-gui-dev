@@ -660,7 +660,6 @@ polkit-dev
 include(devpkg-popt)
 include(procps-ng)
 procps-ng-bin
-protobuf-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
 py
@@ -709,12 +708,10 @@ sqlite-autoconf-dev32
 include(devpkg-startup-notification)
 stoken-dev
 include(strace)
-include(subversion)
 swig
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32
-systemd-extras
 systemd-lib
 include(devpkg-talloc)
 talloc-extras

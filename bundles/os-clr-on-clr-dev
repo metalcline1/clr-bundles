@@ -1078,7 +1078,6 @@ systemd
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32
-systemd-extras
 systemd-lib
 talloc
 include(devpkg-talloc)

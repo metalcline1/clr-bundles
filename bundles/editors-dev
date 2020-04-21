@@ -52,7 +52,6 @@ slang-dev
 include(strace)
 systemd-bin
 include(devpkg-systemd)
-systemd-extras
 systemd-lib
 tar
 include(unzip)

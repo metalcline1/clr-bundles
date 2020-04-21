@@ -943,14 +943,12 @@ sqlite-autoconf-dev32
 include(devpkg-startup-notification)
 stoken-dev
 include(strace)
-include(subversion)
 swig
 sysprof-dev
 sysprof-staticdev
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32
-systemd-extras
 systemd-lib
 include(devpkg-taglib)
 include(devpkg-talloc)

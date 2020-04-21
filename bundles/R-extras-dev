@@ -210,7 +210,6 @@ R-doRNG
 R-dotCall64
 R-dplyr
 R-drc
-R-dtplyr
 R-dygraphs
 R-dynamicTreeCut
 R-e1071
@@ -625,7 +624,6 @@ R-xfun
 R-xml2
 R-xmlparsedata
 R-xopen
-R-xptr
 R-xtable
 R-xts
 R-yaml
@@ -1308,7 +1306,6 @@ swig
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32
-systemd-extras
 systemd-lib
 tar
 tbb

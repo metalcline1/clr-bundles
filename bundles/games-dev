@@ -617,7 +617,6 @@ ppp
 ppp-dev
 include(procps-ng)
 procps-ng-bin
-protobuf-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
 py
@@ -658,12 +657,10 @@ include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 stoken-dev
 include(strace)
-include(subversion)
 swig
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32
-systemd-extras
 systemd-lib
 systemd-lib32
 include(devpkg-taglib)

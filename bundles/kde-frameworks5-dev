@@ -88,7 +88,6 @@ check-dev32
 clear-font
 clr-rpm-config
 include(devpkg-clutter)
-cmake
 include(devpkg-compat-enchant-soname1)
 contextlib2
 coreutils
@@ -560,12 +559,10 @@ sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 include(strace)
-include(subversion)
 swig
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32
-systemd-extras
 systemd-lib
 include(devpkg-taglib)
 tar

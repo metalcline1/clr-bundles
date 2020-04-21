@@ -465,7 +465,6 @@ portend
 prettytable
 include(procps-ng)
 procps-ng-bin
-protobuf-dev
 psutil
 include(devpkg-pulseaudio)
 py
@@ -511,13 +510,11 @@ sqlite-autoconf
 include(devpkg-sqlite-autoconf)
 sqlite-autoconf-dev32
 include(strace)
-include(subversion)
 swig
 systemd
 systemd-bin
 include(devpkg-systemd)
 systemd-dev32
-systemd-extras
 systemd-lib
 tar
 tcl
