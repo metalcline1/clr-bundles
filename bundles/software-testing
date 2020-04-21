@@ -27,7 +27,7 @@ pytest-sugar
 pytest-timeout
 pytest-xdist
 python-mock
-python-tappy
+tap.py
 testpath
 testrepository
 testresources

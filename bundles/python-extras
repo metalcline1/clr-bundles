@@ -48,7 +48,7 @@ pytest-tap
 python-dateutil
 python-distutils-extra
 python-tabulate
-python-tappy
+tap.py
 include(python3-tcl)
 python-zeep
 python-zstandard
