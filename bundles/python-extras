@@ -44,6 +44,7 @@ pytest
 pytest-cov
 pytest-repeat
 pytest-rerunfailures
+pytest-tap
 python-dateutil
 python-distutils-extra
 python-tabulate
