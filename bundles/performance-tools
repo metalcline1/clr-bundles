@@ -37,6 +37,7 @@ numatop
 open-lldp
 pm-graph
 include(powertop)
+powerstat
 include(procps-ng)
 psstop
 #
