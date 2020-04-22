@@ -441,3 +441,4 @@ iio-sensor-proxy # IIO sensors to D-Bus proxy
 LibreCAD # 2D CAD program that can read DXF and DWG files and can write DXF, PDF and SVG files.
 gmsh # A three-dimensional finite element mesh generator.
 fsearch # A gtk3 based file search tool.
+gnome-desktop-testing # Test runner for GNOME-style installed tests
