@@ -316,6 +316,7 @@ include(devpkg-libassuan)
 libatasmart
 include(devpkg-libatasmart)
 libatomic_ops-dev
+libatomic_ops-dev32
 libavtp-dev
 libblockdev
 libblockdev-dev
@@ -396,7 +397,6 @@ libpng-dev32
 include(devpkg-libpsl)
 libpsl-dev32
 include(devpkg-libpthread-stubs)
-libpthread-stubs-dev32
 libpwquality-dev
 librsvg
 include(devpkg-librsvg)

@@ -205,6 +205,7 @@ libabigail
 libaio-dev
 include(devpkg-libarchive)
 libatomic_ops-dev
+libatomic_ops-dev32
 libc6
 libc6-dev
 libcap
@@ -247,7 +248,6 @@ include(devpkg-libpipeline)
 include(devpkg-libpng)
 libpng-dev32
 include(devpkg-libpthread-stubs)
-libpthread-stubs-dev32
 libpwquality-dev
 include(devpkg-libseccomp)
 libseccomp-dev32

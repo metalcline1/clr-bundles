@@ -292,6 +292,8 @@ libXxf86dga-dev
 include(devpkg-libXxf86misc)
 libabigail
 libaio-dev
+libatomic_ops-dev
+libatomic_ops-dev32
 libc6
 libc6-dev
 include(devpkg-libcanberra)

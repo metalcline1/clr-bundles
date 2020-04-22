@@ -334,6 +334,7 @@ libaio-dev
 include(devpkg-libarchive)
 include(devpkg-libassuan)
 libatomic_ops-dev
+libatomic_ops-dev32
 libc6
 libc6-dev
 libcacard-dev
@@ -395,7 +396,6 @@ include(devpkg-libpng)
 libpng-dev32
 libpsl-dev32
 include(devpkg-libpthread-stubs)
-libpthread-stubs-dev32
 libpwquality-dev
 librsvg
 include(devpkg-librsvg)
