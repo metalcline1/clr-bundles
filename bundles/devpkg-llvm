@@ -8,3 +8,4 @@
 include(devpkg-base)
 
 llvm-dev
+llvm-staticdev
