@@ -16,7 +16,6 @@ include(devpkg-LVM2)
 Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
-include(devpkg-R)
 include(devpkg-SDL)
 include(Sphinx)
 Thunar-dev

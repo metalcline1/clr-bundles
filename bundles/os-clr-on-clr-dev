@@ -47,7 +47,6 @@ PyQt5
 PySocks
 Pygments
 R
-include(devpkg-R)
 Routes
 include(devpkg-SDL)
 SFCGAL-dev

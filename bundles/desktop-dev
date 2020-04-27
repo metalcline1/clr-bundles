@@ -33,7 +33,6 @@ Pillow
 PyQt5
 PySocks
 Pygments
-include(devpkg-R)
 include(devpkg-SDL)
 SDL-dev32
 include(devpkg-SDL2)
