@@ -38,9 +38,7 @@ gdk-pixbuf
 geoclue
 geocode-glib
 include(gjs)
-glib-bin
-glib-config
-glib-networking
+glib
 gsettings-desktop-schemas
 gtk+
 gtk3
