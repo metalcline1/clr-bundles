@@ -226,7 +226,6 @@ flex-dev
 fltk-dev
 include(devpkg-font-util)
 font-util-dev32
-fontconfig
 fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
@@ -240,7 +239,6 @@ fribidi-dev32
 include(devpkg-fuse)
 include(devpkg-fwupd)
 gawk
-gcab
 include(devpkg-gcab)
 gcc
 gcc-dev
@@ -273,7 +271,6 @@ include(git)
 include(gjs)
 include(devpkg-gjs)
 include(devpkg-glew)
-glib
 glib-bin
 include(devpkg-glib)
 glib-dev32
@@ -556,7 +553,6 @@ libseccomp-dev32
 include(devpkg-libsecret)
 libsigc++-dev
 libskk-dev
-include(devpkg-libsmbios)
 libsndfile-dev
 libsndfile-dev32
 include(devpkg-libsoup)
