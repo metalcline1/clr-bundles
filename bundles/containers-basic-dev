@@ -47,7 +47,6 @@ clr-rpm-config
 conmon
 coreutils
 cracklib-dev
-cri-containerd-dev
 include(devpkg-cryptsetup)
 ctags
 include(devpkg-curl)

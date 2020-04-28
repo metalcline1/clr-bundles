@@ -16,7 +16,6 @@ bridge-utils
 cni
 cni-plugins
 containerd
-cri-containerd
 cri-o
 cri-tools
 docker
