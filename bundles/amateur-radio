@@ -26,6 +26,7 @@ hamlib
 librtlsdr
 minimodem
 multimon-ng
+qsstv
 soundmodem
 wsjtx
 xastir
