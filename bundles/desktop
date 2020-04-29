@@ -12,9 +12,6 @@ include(desktop-assets)
 include(desktop-locales)
 include(lib-imageformat)
 
-# themes + extensions
-also-add(desktop-assets-extras)
-
 # the UI should provide a basic sysadmin experience
 include(openssl)
 include(sysadmin-basic)

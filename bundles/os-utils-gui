@@ -23,7 +23,6 @@ include(x11-server)
 also-add(emacs-x11)
 include(xfce4-desktop)
 include(lib-imageformat)
-also-add(desktop-assets-extras)
 
 FreeRDP
 Thunar

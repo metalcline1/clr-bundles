@@ -7,7 +7,6 @@
 include(fonts-basic)
 include(libX11client)
 include(which)
-also-add(desktop-assets-extras)
 Thunar
 clear-font
 clr-desktop-defaults
