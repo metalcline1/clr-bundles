@@ -392,7 +392,6 @@ perl-IPC-Run-perl
 perl-Test-Simple-perl
 perl-XML-Parser-perl
 perl-perl
-php
 pigz
 pip
 include(devpkg-pixman)

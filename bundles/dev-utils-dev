@@ -16,6 +16,7 @@ Linux-PAM-dev32
 Pygments
 include(devpkg-SDL)
 include(Sphinx)
+VTK-dev
 Vulkan-Headers-dev
 Vulkan-Loader-dev
 Vulkan-Tools
@@ -25,6 +26,7 @@ include(devpkg-acl)
 acl-dev32
 include(devpkg-alsa-lib)
 appdirs
+armadillo-data
 asciidoc
 include(devpkg-attr)
 attr-dev32

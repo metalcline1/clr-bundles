@@ -33,6 +33,7 @@ Routes
 include(devpkg-SDL)
 include(Sphinx)
 Sphinx-python
+VTK-dev
 Vulkan-Headers-dev
 Vulkan-Loader-dev
 Vulkan-Loader-dev32
@@ -48,6 +49,7 @@ alsa-lib-dev32
 apache-ant
 appdirs
 include(devpkg-apr)
+armadillo-data
 asciidoc
 include(aspell)
 include(devpkg-at-spi2-atk)
@@ -656,7 +658,6 @@ perl-libwww-perl-perl
 perl-namespace-autoclean-perl
 perl-namespace-clean-perl
 perl-perl
-php
 php-dev
 pigz
 pip

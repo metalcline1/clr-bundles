@@ -486,7 +486,6 @@ perl-URI-Escape-XS
 perl-XML-Parser-perl
 perl-perl
 phonon-dev
-php
 pigz
 pip
 include(devpkg-pixman)

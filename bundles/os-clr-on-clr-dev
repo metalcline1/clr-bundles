@@ -52,6 +52,7 @@ include(devpkg-SDL)
 SFCGAL-dev
 include(Sphinx)
 Sphinx-python
+VTK-dev
 Vulkan-Headers-data
 Vulkan-Headers-dev
 Vulkan-Loader-dev
@@ -76,6 +77,7 @@ include(devpkg-apr)
 include(devpkg-apr-util)
 argcomplete
 argon2-dev
+armadillo-data
 asciidoc
 asn1crypto-python
 include(aspell)
@@ -900,7 +902,6 @@ perl-namespace-autoclean-perl
 perl-namespace-clean-perl
 perl-perl
 pexpect
-php
 php-dev
 pigz
 pinentry

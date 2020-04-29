@@ -840,7 +840,6 @@ perl-libwww-perl-perl
 perl-namespace-autoclean-perl
 perl-namespace-clean-perl
 perl-perl
-php
 pigz
 pip
 include(devpkg-pipewire)
