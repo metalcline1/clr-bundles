@@ -51,6 +51,7 @@ atk-dev32
 include(devpkg-attica)
 include(devpkg-attr)
 attr-dev32
+attrs
 include(devpkg-audit)
 autoconf
 autogen
@@ -65,6 +66,7 @@ include(bison)
 bison-dev
 include(devpkg-bluez)
 include(devpkg-boost)
+brotli
 buildreq-cmake
 buildreq-configure
 buildreq-cpan
@@ -94,7 +96,7 @@ coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
 ctags
-cups-dev
+include(devpkg-cups)
 include(devpkg-curl)
 curl-dev32
 include(devpkg-cyrus-sasl)
@@ -143,6 +145,7 @@ include(devpkg-freetype)
 freetype-dev32
 include(devpkg-fribidi)
 fribidi-dev32
+fs
 include(devpkg-fuse)
 gawk
 gcc
@@ -575,6 +578,7 @@ include(devpkg-tiff)
 tk-dev
 tox
 include(tzdata)
+unicodedata2
 unittest2
 unittest2-python
 include(unzip)
@@ -614,5 +618,6 @@ xz-dev32
 include(yasm)
 include(devpkg-zlib)
 zlib-dev32
+zopfli
 include(devpkg-zstd)
 zstd-dev32

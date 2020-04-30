@@ -22,7 +22,6 @@ Linux-PAM-dev32
 include(devpkg-LuaJIT)
 Mako
 Mako-python
-Markdown
 MarkupSafe
 ModemManager-dev
 ModemManager-dev32
@@ -95,6 +94,7 @@ include(bison)
 bison-dev
 include(devpkg-bluez)
 include(devpkg-boost)
+brotli
 include(devpkg-brotli)
 brotlipy
 btrfs-progs-dev
@@ -158,7 +158,7 @@ include(devpkg-cryptsetup)
 cssselect
 ctags
 cups
-cups-dev
+include(devpkg-cups)
 cups-filters
 include(devpkg-cups-filters)
 include(devpkg-curl)
@@ -236,6 +236,7 @@ include(devpkg-freetype)
 freetype-dev32
 include(devpkg-fribidi)
 fribidi-dev32
+fs
 include(devpkg-fuse)
 include(devpkg-fwupd)
 gawk
@@ -296,6 +297,7 @@ include(devpkg-gnome-bluetooth)
 gnome-common-dev
 gnome-control-center-dev
 include(devpkg-gnome-desktop)
+gnome-getting-started-docs
 include(devpkg-gnome-menus)
 include(devpkg-gnome-online-accounts)
 include(devpkg-gnome-panel)
@@ -390,6 +392,7 @@ isodate
 itsdangerous
 itsdangerous-python
 itstool
+include(devpkg-jack2)
 include(devpkg-jansson)
 jarn.viewdoc
 jemalloc-dev
@@ -525,6 +528,7 @@ libnftnl-dev32
 libnice-dev
 include(devpkg-libnl)
 libnl-dev32
+libnma-dev
 include(devpkg-libnotify)
 include(devpkg-liboauth)
 include(devpkg-libogg)
@@ -631,6 +635,7 @@ mod_perl-perl
 mozjs60
 include(devpkg-mozjs60)
 mozjs60-lib
+mozjs68-dev
 mpc-dev
 mpfr-dev
 include(devpkg-mpg123)
@@ -658,7 +663,6 @@ include(devpkg-nettle)
 nettle-dev32
 nettle-lib
 nettle-lib32
-include(devpkg-network-manager-applet)
 include(devpkg-newt)
 include(devpkg-nghttp2)
 nghttp2-dev32
@@ -969,6 +973,7 @@ tracker-dev
 include(tzdata)
 udisks2-dev
 include(devpkg-uhttpmock)
+unicodedata2
 unittest2
 unittest2-python
 include(unzip)
@@ -1048,5 +1053,6 @@ include(devpkg-zlib)
 zlib-dev32
 zope.event
 zope.interface
+zopfli
 include(devpkg-zstd)
 zstd-dev32

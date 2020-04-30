@@ -54,7 +54,7 @@ coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
 ctags
-cups-dev
+include(devpkg-cups)
 include(devpkg-curl)
 include(devpkg-cyrus-sasl)
 datefudge

@@ -86,7 +86,7 @@ cppcheck
 cracklib-dev
 include(devpkg-cryptsetup)
 ctags
-cups-dev
+include(devpkg-cups)
 include(devpkg-curl)
 curl-dev32
 include(devpkg-cyrus-sasl)

@@ -101,7 +101,7 @@ coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
 ctags
-cups-dev
+include(devpkg-cups)
 include(devpkg-curl)
 curl-dev32
 include(devpkg-cyrus-sasl)
@@ -351,6 +351,7 @@ libnftnl-dev32
 libnice-dev
 include(devpkg-libnl)
 libnl-dev32
+libnma-dev
 include(devpkg-libnotify)
 include(devpkg-libogg)
 libogg-dev32
@@ -446,7 +447,6 @@ include(devpkg-nettle)
 nettle-dev32
 nettle-lib
 nettle-lib32
-include(devpkg-network-manager-applet)
 include(devpkg-newt)
 include(devpkg-nghttp2)
 nghttp2-dev32

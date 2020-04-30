@@ -77,7 +77,7 @@ cracklib-dev
 include(devpkg-cryptsetup)
 cscope
 ctags
-cups-dev
+include(devpkg-cups)
 include(devpkg-curl)
 datefudge
 db

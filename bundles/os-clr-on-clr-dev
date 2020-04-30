@@ -35,7 +35,6 @@ LuaJIT
 include(devpkg-LuaJIT)
 Mako
 Mako-python
-Markdown
 MarkupSafe
 MarkupSafe-python3
 ModemManager-dev
@@ -122,6 +121,7 @@ include(devpkg-bluez)
 boost
 include(devpkg-boost)
 bridge-utils
+brotli
 include(devpkg-brotli)
 brotlipy
 bsdiff-dev
@@ -182,7 +182,7 @@ include(devpkg-cryptsetup)
 cscope
 cssselect
 ctags
-cups-dev
+include(devpkg-cups)
 include(curl)
 include(devpkg-curl)
 curl-dev32
@@ -265,6 +265,7 @@ freetype-dev32
 freezegun
 include(devpkg-fribidi)
 fribidi-dev32
+fs
 funcsigs
 include(devpkg-fuse)
 gawk
@@ -661,6 +662,7 @@ mkfontdir
 mkfontdir-bin
 mkfontscale-bin
 mobile-broadband-provider-info
+mobile-broadband-provider-info-dev
 mock
 mod_perl-perl
 include(modules)
@@ -1117,6 +1119,7 @@ typed_ast
 typing
 typing_extensions
 include(tzdata)
+unicodedata2
 unittest2
 unittest2-python
 unixODBC-dev
@@ -1181,5 +1184,6 @@ include(devpkg-zlib)
 zlib-dev32
 zope.event
 zope.interface
+zopfli
 include(devpkg-zstd)
 zstd-dev32

@@ -665,6 +665,7 @@ include(devpkg-atk)
 atk-dev32
 include(devpkg-attr)
 attr-dev32
+attrs
 include(devpkg-audit)
 autoconf
 autogen
@@ -680,6 +681,7 @@ include(bison)
 bison-dev
 include(devpkg-bluez)
 include(devpkg-boost)
+brotli
 buildreq-R
 buildreq-cmake
 buildreq-configure
@@ -714,7 +716,7 @@ cracklib-dev
 include(devpkg-cryptsetup)
 cscope
 ctags
-cups-dev
+include(devpkg-cups)
 include(devpkg-curl)
 curl-dev32
 include(devpkg-cyrus-sasl)
@@ -768,6 +770,7 @@ include(devpkg-freetype)
 freetype-dev32
 include(devpkg-fribidi)
 fribidi-dev32
+fs
 include(devpkg-fuse)
 gawk
 gc-dev
@@ -1329,6 +1332,7 @@ tox
 traceback2
 include(tzdata)
 udunits-dev
+unicodedata2
 unittest2
 unittest2-python
 unixODBC-dev
@@ -1372,5 +1376,6 @@ include(yasm)
 include(zip)
 include(devpkg-zlib)
 zlib-dev32
+zopfli
 include(devpkg-zstd)
 zstd-dev32

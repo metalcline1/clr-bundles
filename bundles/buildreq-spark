@@ -7,13 +7,13 @@
 
 include(java11-basic)
 
-openssl
-openssl-dev
+include(openssl)
+include(devpkg-openssl)
 python37-core
 python37-dev
 cyrus-sasl
-cyrus-sasl-dev
-pandoc
+include(devpkg-cyrus-sasl)
+include(pandoc)
 R
 R-digest
 R-e1071
@@ -30,5 +30,5 @@ R-yaml
 cmake
 gcc
 gcc-dev
-openblas
+include(openblas)
 buildreq-distutils3

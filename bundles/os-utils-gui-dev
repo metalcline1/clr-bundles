@@ -43,6 +43,7 @@ atk-dev32
 include(devpkg-atkmm)
 include(devpkg-attr)
 attr-dev32
+attrs
 include(devpkg-audit)
 autoconf
 autoconf-archive-dev
@@ -58,6 +59,7 @@ include(bison)
 bison-dev
 include(devpkg-bluez)
 include(devpkg-boost)
+brotli
 include(devpkg-brotli)
 bubblewrap
 buildreq-cmake
@@ -100,7 +102,7 @@ cppcheck
 cracklib-dev
 include(devpkg-cryptsetup)
 ctags
-cups-dev
+include(devpkg-cups)
 include(devpkg-curl)
 curl-dev32
 include(devpkg-cyrus-sasl)
@@ -157,6 +159,7 @@ include(devpkg-freetype)
 freetype-dev32
 include(devpkg-fribidi)
 fribidi-dev32
+fs
 include(devpkg-fuse)
 garcon-dev
 gawk
@@ -670,6 +673,7 @@ python-polib
 python3
 python3-core
 python3-dev
+pytz
 pyudev
 pywbem
 qemu
@@ -729,6 +733,7 @@ tpm2-tss-dev
 include(tzdata)
 udisks2-dev
 include(devpkg-uhttpmock)
+unicodedata2
 unittest2
 unittest2-python
 include(unzip)
@@ -789,5 +794,6 @@ yaml-dev
 include(yasm)
 include(devpkg-zlib)
 zlib-dev32
+zopfli
 include(devpkg-zstd)
 zstd-dev32
