@@ -351,7 +351,7 @@ libnftnl-dev32
 libnice-dev
 include(devpkg-libnl)
 libnl-dev32
-libnma-dev
+include(devpkg-libnma)
 include(devpkg-libnotify)
 include(devpkg-libogg)
 libogg-dev32
