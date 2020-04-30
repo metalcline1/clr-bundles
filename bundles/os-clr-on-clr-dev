@@ -154,6 +154,7 @@ check-dev
 check-dev32
 check-manifest
 cheroot
+chrpath
 clear-font
 click
 clr-avx-tools
@@ -684,6 +685,7 @@ include(devpkg-ndctl)
 ndg_httpsclient
 include(net-tools)
 netbase
+netcdf-dev
 nettle
 include(devpkg-nettle)
 nettle-dev32
@@ -941,6 +943,7 @@ proj-dev
 protobuf-dev
 psutil
 psycopg2
+pugixml-dev
 include(devpkg-pulseaudio)
 pulseaudio-dev32
 py

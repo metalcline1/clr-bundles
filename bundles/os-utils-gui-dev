@@ -82,6 +82,7 @@ include(devpkg-cairomm)
 ccid
 certifi
 cffi
+chardet
 check
 check-dev
 check-dev32
@@ -98,9 +99,11 @@ include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
 contextlib2
 coreutils
+coverage
 cppcheck
 cracklib-dev
 include(devpkg-cryptsetup)
+cssselect
 ctags
 include(devpkg-cups)
 include(devpkg-curl)
@@ -254,6 +257,7 @@ include(devpkg-harfbuzz)
 harfbuzz-dev32
 help2man
 hostname
+html5lib
 hunspell-dev
 ibus
 ibus-dev
@@ -269,6 +273,7 @@ include(intltool)
 intltool-dev
 include(devpkg-iptables)
 iptables-dev32
+ipython
 include(devpkg-iso-codes)
 iso8601
 itstool
@@ -490,10 +495,12 @@ nettle-lib
 nettle-lib32
 include(devpkg-nghttp2)
 nghttp2-dev32
+nose
 not-ffmpeg-dev
 npth-dev
 nss-altfiles
 include(devpkg-nss)
+numpy
 octave-dev
 openconnect-dev
 openldap-dev
@@ -655,6 +662,7 @@ include(devpkg-pixman)
 pixman-dev32
 pkg-config
 pkg-config-dev
+pluggy
 pluggy-python
 ply
 polkit-dev
@@ -664,6 +672,7 @@ procps-ng-bin
 include(devpkg-pulseaudio)
 pulseaudio-dev32
 py
+py-python
 pyaml
 pycparser
 include(pygobject)
@@ -729,6 +738,7 @@ include(texinfo)
 thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
+tox
 tpm2-tss-dev
 include(tzdata)
 udisks2-dev
@@ -749,12 +759,14 @@ vala
 include(devpkg-vala)
 include(valgrind)
 valgrind-dev
+virtualenv
 volume_key-dev
 vte-dev
 include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
+webencodings
 include(devpkg-webkitgtk)
 include(which)
 include(devpkg-woff2)
@@ -794,6 +806,7 @@ yaml-dev
 include(yasm)
 include(devpkg-zlib)
 zlib-dev32
+zope.interface
 zopfli
 include(devpkg-zstd)
 zstd-dev32

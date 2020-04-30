@@ -200,6 +200,7 @@ include(devpkg-e2fsprogs)
 e2fsprogs-dev32
 e2fsprogs-extras
 efivar-dev
+include(devpkg-eigen)
 elfutils
 include(devpkg-elfutils)
 elfutils-dev32
@@ -607,6 +608,7 @@ links
 linux-firmware-wifi
 linux-libc-headers
 include(llvm)
+include(devpkg-llvm)
 llvm-dev32
 lmdb-dev
 include(devpkg-lua)
@@ -1013,8 +1015,7 @@ include(devpkg-xcb-proto)
 include(devpkg-xcb-util-cursor)
 xcursorgen
 xdg-dbus-proxy
-xdg-desktop-portal
-include(devpkg-xdg-desktop-portal)
+xdg-desktop-portal-gtk
 xdg-user-dirs
 xdg-utils
 xf86-input-libinput
@@ -1027,7 +1028,6 @@ xf86-video-vesa
 xkbcomp-bin
 include(devpkg-xkbcomp)
 include(devpkg-xkeyboard-config)
-xmlb-dev
 xmlto
 xorg-fonts
 xorg-server

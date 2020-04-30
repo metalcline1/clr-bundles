@@ -71,15 +71,19 @@ include(devpkg-cairo)
 cairo-dev32
 certifi
 cffi
+chardet
 check-dev
 check-dev32
 clear-font
 clr-rpm-config
 include(devpkg-clutter)
+cmake
 contextlib2
 coreutils
+coverage
 cracklib-dev
 include(devpkg-cryptsetup)
+cssselect
 ctags
 include(devpkg-cups)
 include(devpkg-curl)
@@ -197,6 +201,7 @@ include(devpkg-harfbuzz)
 harfbuzz-dev32
 help2man
 hostname
+html5lib
 ibus
 ibus-dev
 ibus-libpinyin
@@ -206,6 +211,7 @@ include(intltool)
 intltool-dev
 include(devpkg-iptables)
 iptables-dev32
+ipython
 include(devpkg-iso-codes)
 jemalloc-dev
 include(devpkg-json-c)
@@ -330,6 +336,7 @@ include(devpkg-libxml2)
 libxml2-dev32
 include(libxslt)
 libxslt-bin
+include(devpkg-libxslt)
 linux-libc-headers
 include(llvm)
 llvm-dev32
@@ -362,7 +369,9 @@ include(devpkg-nettle)
 nettle-dev32
 nettle-lib
 nettle-lib32
+nose
 nss-altfiles
+numpy
 octave-dev
 openal-soft-dev
 openjade-dev
@@ -401,6 +410,7 @@ include(devpkg-pixman)
 pixman-dev32
 pkg-config
 pkg-config-dev
+pluggy
 pluggy-python
 polkit-dev
 include(devpkg-popt)
@@ -410,6 +420,7 @@ procps-ng-bin
 include(devpkg-pulseaudio)
 pulseaudio-dev32
 py
+py-python
 pycparser
 pytest
 python3
@@ -479,6 +490,7 @@ include(texinfo)
 thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
+tox
 include(tzdata)
 unicodedata2
 unittest2
@@ -495,10 +507,12 @@ vala
 include(devpkg-vala)
 include(valgrind)
 valgrind-dev
+virtualenv
 include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
+webencodings
 include(which)
 xauth
 xcb-proto
@@ -517,6 +531,7 @@ xz-dev32
 include(yasm)
 include(devpkg-zlib)
 zlib-dev32
+zope.interface
 zopfli
 include(devpkg-zstd)
 zstd-dev32

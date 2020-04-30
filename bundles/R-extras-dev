@@ -701,6 +701,7 @@ include(devpkg-cairo)
 cairo-dev32
 certifi
 cffi
+chardet
 check-dev
 check-dev32
 chrpath
@@ -711,10 +712,12 @@ include(devpkg-clutter)
 cmake
 contextlib2
 coreutils
+coverage
 cppunit-dev
 cracklib-dev
 include(devpkg-cryptsetup)
 cscope
+cssselect
 ctags
 include(devpkg-cups)
 include(devpkg-curl)
@@ -852,6 +855,7 @@ harfbuzz-dev32
 hdf5-dev
 help2man
 hostname
+html5lib
 include(devpkg-hwloc)
 ibus
 ibus-dev
@@ -863,6 +867,7 @@ include(intltool)
 intltool-dev
 include(devpkg-iptables)
 iptables-dev32
+ipython
 include(devpkg-iso-codes)
 iso8601
 jemalloc-dev
@@ -1354,6 +1359,7 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
+webencodings
 include(wget)
 include(which)
 xauth
@@ -1376,6 +1382,7 @@ include(yasm)
 include(zip)
 include(devpkg-zlib)
 zlib-dev32
+zope.interface
 zopfli
 include(devpkg-zstd)
 zstd-dev32
