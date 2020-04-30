@@ -8,4 +8,4 @@
 include(devpkg-base)
 include(devpkg-NetworkManager)
 
-network-manager-applet-dev
+include(devpkg-libnma)
