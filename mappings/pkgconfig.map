@@ -323,7 +323,6 @@ pkgconfig(libmnl)	devpkg-libmnl
 pkgconfig(libmpg123)	devpkg-mpg123
 pkgconfig(libmspack)	devpkg-libmspack
 pkgconfig(libmtp)	devpkg-libmtp
-pkgconfig(libmutter-5)	devpkg-mutter
 pkgconfig(libmypaint)	devpkg-libmypaint
 pkgconfig(libnautilus-extension)	devpkg-nautilus
 pkgconfig(libndctl)	devpkg-ndctl
@@ -345,7 +344,7 @@ pkgconfig(libnl-nf-3.0)	devpkg-libnl
 pkgconfig(libnl-route-3.0)	devpkg-libnl
 pkgconfig(libnl-xfrm-3.0)	devpkg-libnl
 pkgconfig(libnm)	devpkg-NetworkManager
-pkgconfig(libnma)	devpkg-network-manager-applet
+pkgconfig(libnma)	devpkg-libnma
 pkgconfig(libnotify)	devpkg-libnotify
 pkgconfig(libntfs-3g)	devpkg-ntfs-3g
 pkgconfig(liboath)	devpkg-oath-toolkit
@@ -373,7 +372,6 @@ pkgconfig(libpeas-gtk-1.0)	devpkg-libpeas
 pkgconfig(libpgtypes)	devpkg-postgresql
 pkgconfig(libpinyin)	devpkg-libpinyin
 pkgconfig(libpipeline)	devpkg-libpipeline
-pkgconfig(libpipewire-0.2)	devpkg-pipewire
 pkgconfig(libpkcs11-helper-1)	devpkg-pkcs11-helper
 pkgconfig(libpmem)	devpkg-pmdk
 pkgconfig(libpmemblk)	devpkg-pmdk
@@ -408,7 +406,6 @@ pkgconfig(libsolv)	devpkg-libsolv
 pkgconfig(libsolvext)	devpkg-libsolv
 pkgconfig(libsoup-2.4)	devpkg-libsoup
 pkgconfig(libsoup-gnome-2.4)	devpkg-libsoup
-pkgconfig(libspa-0.1)	devpkg-pipewire
 pkgconfig(libspectre)	devpkg-libspectre
 pkgconfig(libsrtp)	devpkg-libsrtp
 pkgconfig(libssh2)	devpkg-libssh2
@@ -454,7 +451,6 @@ pkgconfig(libva-drm)	devpkg-libva
 pkgconfig(libva-glx)	devpkg-libva
 pkgconfig(libva-wayland)	devpkg-libva
 pkgconfig(libva-x11)	devpkg-libva
-pkgconfig(libvala-0.46)	devpkg-vala
 pkgconfig(libvirt)	devpkg-libvirt
 pkgconfig(libvirt-admin)	devpkg-libvirt
 pkgconfig(libvirt-lxc)	devpkg-libvirt
@@ -485,8 +481,6 @@ pkgconfig(mit-krb5)	devpkg-krb5
 pkgconfig(mit-krb5-gssapi)	devpkg-krb5
 pkgconfig(mount)	devpkg-util-linux
 pkgconfig(mozjs-60)	devpkg-mozjs60
-pkgconfig(mutter-clutter-5)	devpkg-mutter
-pkgconfig(mutter-cogl-5)	devpkg-mutter
 pkgconfig(ncurses)	devpkg-ncurses
 pkgconfig(ncursesw)	devpkg-ncurses
 pkgconfig(nettle)	devpkg-nettle
