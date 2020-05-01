@@ -757,7 +757,6 @@ file-dev
 filelock
 include(findutils)
 include(devpkg-flac)
-flac-dev32
 include(flex)
 flex-dev
 fltk-dev
@@ -788,7 +787,6 @@ gdal-dev
 include(gdb)
 gdb-dev
 gdbm-dev
-gdbm-dev32
 gdk-pixbuf
 include(devpkg-gdk-pixbuf)
 gdk-pixbuf-dev32
@@ -870,6 +868,7 @@ iptables-dev32
 ipython
 include(devpkg-iso-codes)
 iso8601
+include(devpkg-jack2)
 jemalloc-dev
 jq-dev
 include(devpkg-json-c)
@@ -995,7 +994,6 @@ include(devpkg-libtheora)
 include(devpkg-libtirpc)
 libtool
 libtool-dev
-libtool-dev32
 libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
@@ -1092,7 +1090,6 @@ openssl-dev32
 openssl-lib32
 include(devpkg-opus)
 include(devpkg-orc)
-orc-dev32
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
@@ -1287,14 +1284,12 @@ readline-dev32
 include(devpkg-rest)
 rest-dev32
 include(rsync)
-rtkit
 rtmpdump-dev
 ruby
 rust-std32
 rustc
 sassc
 sbc-dev
-sbc-dev32
 sed
 setuptools
 setuptools-python
@@ -1303,7 +1298,6 @@ shadow
 shared-mime-info
 six
 snappy-dev
-include(devpkg-speex)
 speexdsp-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)

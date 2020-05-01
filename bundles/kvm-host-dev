@@ -21,6 +21,8 @@ Linux-PAM-dev32
 Mako-python
 PyJWT
 Routes
+include(devpkg-SDL)
+include(devpkg-SDL2)
 include(Sphinx)
 Sphinx-python
 Vulkan-Headers-dev
@@ -34,7 +36,6 @@ include(devpkg-acl)
 acl-dev32
 include(acpica-unix2)
 include(devpkg-alsa-lib)
-alsa-lib-dev32
 apache-ant
 appdirs
 asciidoc
@@ -72,6 +73,7 @@ buildreq-cpan
 buildreq-distutils3
 buildreq-gnome
 buildreq-golang
+buildreq-kde
 buildreq-meson
 buildreq-qmake
 buildreq-scons
@@ -90,6 +92,7 @@ check-dev32
 cheroot
 clear-font
 clr-rpm-config
+include(devpkg-clutter)
 cmake
 cmd2
 colorama
@@ -134,12 +137,9 @@ include(devpkg-expat)
 expat-dev32
 expect
 fcgi-dev
-include(devpkg-fftw)
 file-dev
 filelock
 include(findutils)
-include(devpkg-flac)
-flac-dev32
 include(flex)
 flex-dev
 fontconfig-data
@@ -163,7 +163,6 @@ gcc8-dev
 include(gdb)
 gdb-dev
 gdbm-dev
-gdbm-dev32
 gdk-pixbuf
 include(devpkg-gdk-pixbuf)
 gdk-pixbuf-dev32
@@ -203,6 +202,7 @@ google-auth-httplib2
 include(devpkg-googletest)
 gperf
 include(devpkg-gperftools)
+graphene-dev
 include(devpkg-graphite)
 graphite-dev32
 include(graphviz)
@@ -213,6 +213,8 @@ grpc
 grpcio
 gsettings-desktop-schemas
 include(devpkg-gsl)
+include(devpkg-gst-plugins-base)
+include(devpkg-gstreamer)
 gtk-doc
 include(devpkg-gtk-doc)
 include(devpkg-gtk3)
@@ -238,6 +240,7 @@ iptables-dev32
 isa-l-dev
 include(devpkg-iso-codes)
 isort
+include(devpkg-jack2)
 include(devpkg-jansson)
 include(joe)
 include(devpkg-json-c)
@@ -307,6 +310,7 @@ libgcrypt-dev32
 include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras
+include(devpkg-libgudev)
 include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libidn2)
@@ -337,7 +341,6 @@ libpwquality-dev
 librsvg
 include(devpkg-librsvg)
 librsvg-dev32
-include(devpkg-libsamplerate)
 include(devpkg-libseccomp)
 libseccomp-dev32
 libsndfile-dev
@@ -350,10 +353,10 @@ include(devpkg-libtasn1)
 libtasn1-dev32
 include(devpkg-libthai)
 libthai-dev32
+include(devpkg-libtheora)
 include(devpkg-libtirpc)
 libtool
 libtool-dev
-libtool-dev32
 libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
@@ -392,7 +395,6 @@ mpfr-dev
 mtdev-dev
 mtdev-dev32
 include(nasm)
-nasm-bin
 include(devpkg-ncurses)
 ncurses-dev32
 include(net-tools)
@@ -414,19 +416,17 @@ include(devpkg-numactl)
 numpy
 oath-toolkit
 include(devpkg-oath-toolkit)
-octave-dev
 open-iscsi
 opencl-headers-dev
 openjdk11
 openjdk11-dev
 openldap-dev
-include(devpkg-openmpi)
 openssh
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
+include(devpkg-opus)
 include(devpkg-orc)
-orc-dev32
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
@@ -476,6 +476,7 @@ python3-core
 python3-dev
 pytz
 qemu
+include(devpkg-qtbase)
 rabbitmq-c-dev
 include(devpkg-rdma-core)
 include(devpkg-readline)
@@ -483,11 +484,9 @@ readline-dev32
 requests
 include(devpkg-rest)
 rest-dev32
-rtkit
 ruby
 sassc
 sbc-dev
-sbc-dev32
 scikit-learn
 scipy
 sed
@@ -499,8 +498,6 @@ shared-mime-info
 singledispatch
 six
 snappy-dev
-include(devpkg-speex)
-speexdsp-dev
 spice
 spice-dev
 spice-protocol

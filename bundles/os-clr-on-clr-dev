@@ -48,6 +48,7 @@ Pygments
 R
 Routes
 include(devpkg-SDL)
+include(devpkg-SDL2)
 SFCGAL-dev
 include(Sphinx)
 Sphinx-python
@@ -239,15 +240,12 @@ expect
 extra-cmake-modules
 extras
 fcgi-dev
-include(devpkg-fftw)
 include(file)
 file-dev
 filelock
 include(findutils)
 fixtures
 fixtures-python
-include(devpkg-flac)
-flac-dev32
 flake8
 include(flex)
 flex-dev
@@ -284,7 +282,6 @@ include(gdb)
 gdb-dev
 gdbm
 gdbm-dev
-gdbm-dev32
 gdk-pixbuf
 include(devpkg-gdk-pixbuf)
 gdk-pixbuf-dev32
@@ -407,6 +404,7 @@ isodate
 isort
 itsdangerous
 itsdangerous-python
+include(devpkg-jack2)
 include(devpkg-jansson)
 jarn.viewdoc
 jemalloc-dev
@@ -581,7 +579,6 @@ include(devpkg-librepo)
 librsvg
 include(devpkg-librsvg)
 librsvg-dev32
-include(devpkg-libsamplerate)
 include(devpkg-libseccomp)
 libseccomp-dev32
 include(devpkg-libsecret)
@@ -714,7 +711,6 @@ numpy
 oath-toolkit
 include(devpkg-oath-toolkit)
 ocl-icd-dev
-octave-dev
 olefile
 onig-dev
 open-iscsi
@@ -737,7 +733,6 @@ openssl-dev32
 openssl-lib32
 include(devpkg-opus)
 include(devpkg-orc)
-orc-dev32
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
@@ -1025,14 +1020,12 @@ rpm
 rpm-dev
 rpm-extras
 include(rsync)
-rtkit
 ruby
 rust-std32
 rustc
 samba-dev
 sassc
 sbc-dev
-sbc-dev32
 sbsigntools
 scikit-learn
 scipy
@@ -1057,7 +1050,6 @@ snowballstemmer
 solid-dev
 sonnet-dev
 source-highlight
-include(devpkg-speex)
 speexdsp-dev
 sphinxcontrib-applehelp
 sphinxcontrib-devhelp
@@ -1119,7 +1111,6 @@ tqdm
 traceback2
 traceback2-python
 typed_ast
-typing
 typing_extensions
 include(tzdata)
 unicodedata2

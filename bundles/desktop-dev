@@ -200,7 +200,6 @@ include(devpkg-e2fsprogs)
 e2fsprogs-dev32
 e2fsprogs-extras
 efivar-dev
-include(devpkg-eigen)
 elfutils
 include(devpkg-elfutils)
 elfutils-dev32
@@ -637,7 +636,7 @@ mod_perl-perl
 mozjs60
 include(devpkg-mozjs60)
 mozjs60-lib
-mozjs68-dev
+include(devpkg-mozjs68)
 mpc-dev
 mpfr-dev
 include(devpkg-mpg123)
