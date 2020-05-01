@@ -119,9 +119,8 @@ systemd-lib32
 xz-lib32
 zlib-lib32
 
-# Binary helpers for Steam + runtime
+# helpers for Steam + runtime
 libratbag
-linux-steam-integration
 steam-devices
 xdg-user-dirs
 include(zenity)
