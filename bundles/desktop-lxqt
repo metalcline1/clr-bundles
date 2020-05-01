@@ -1,6 +1,6 @@
 # [TITLE]: desktop-lxqt
 # [DESCRIPTION]: Run the LXQt desktop environment.
-# [STATUS]: WIP
+# [STATUS]: Deprecated
 # [CAPABILITIES]: Run the LXQt desktop environment through a login manager
 # [TAGS]: Other
 # [MAINTAINER]: Auke Kok <auke-jan.h.kok@intel.com>
