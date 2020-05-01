@@ -31,7 +31,6 @@ PyJWT
 Pygments
 Routes
 include(devpkg-SDL)
-include(devpkg-SDL2)
 include(Sphinx)
 Sphinx-python
 VTK-dev
@@ -46,6 +45,7 @@ include(devpkg-acl)
 acl-dev32
 include(acpica-unix2)
 include(devpkg-alsa-lib)
+alsa-lib-dev32
 apache-ant
 appdirs
 include(devpkg-apr)
@@ -113,7 +113,6 @@ cheroot
 clear-font
 clr-hardware-files
 clr-rpm-config
-include(devpkg-clutter)
 cmake
 cmd2
 cmocka-dev
@@ -167,9 +166,12 @@ expat-dev32
 expect
 extras
 fcgi-dev
+include(devpkg-fftw)
 file-dev
 filelock
 include(findutils)
+include(devpkg-flac)
+flac-dev32
 include(flex)
 flex-dev
 fontconfig-data
@@ -196,6 +198,7 @@ include(gdb)
 gdb-dev
 gdbm
 gdbm-dev
+gdbm-dev32
 gdk-pixbuf
 include(devpkg-gdk-pixbuf)
 gdk-pixbuf-dev32
@@ -244,7 +247,6 @@ include(devpkg-gperftools)
 include(gpgme)
 gpgme-dev
 gpm-dev
-graphene-dev
 include(devpkg-graphite)
 graphite-dev32
 include(graphviz)
@@ -255,8 +257,6 @@ grpc
 grpcio
 gsettings-desktop-schemas
 include(devpkg-gsl)
-include(devpkg-gst-plugins-base)
-include(devpkg-gstreamer)
 gtk+-dev
 gtk-doc
 include(devpkg-gtk-doc)
@@ -290,7 +290,6 @@ isa-l-dev
 include(devpkg-iso-codes)
 iso8601
 isort
-include(devpkg-jack2)
 include(devpkg-jansson)
 include(joe)
 include(devpkg-json-c)
@@ -368,7 +367,6 @@ include(devpkg-libgd)
 include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras
-include(devpkg-libgudev)
 include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libidn2)
@@ -404,6 +402,7 @@ libpwquality-dev
 librsvg
 include(devpkg-librsvg)
 librsvg-dev32
+include(devpkg-libsamplerate)
 include(devpkg-libseccomp)
 libseccomp-dev32
 libsndfile-dev
@@ -416,10 +415,10 @@ include(devpkg-libtasn1)
 libtasn1-dev32
 include(devpkg-libthai)
 libthai-dev32
-include(devpkg-libtheora)
 include(devpkg-libtirpc)
 libtool
 libtool-dev
+libtool-dev32
 libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
@@ -492,6 +491,7 @@ include(devpkg-numactl)
 numpy
 oath-toolkit
 include(devpkg-oath-toolkit)
+octave-dev
 onig-dev
 open-iscsi
 open-isns-dev
@@ -506,8 +506,8 @@ include(openssl)
 include(devpkg-openssl)
 openssl-dev32
 openssl-lib32
-include(devpkg-opus)
 include(devpkg-orc)
+orc-dev32
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
@@ -707,9 +707,11 @@ rpcbind
 rpm
 rpm-extras
 include(rsync)
+rtkit
 ruby
 sassc
 sbc-dev
+sbc-dev32
 scikit-learn
 scipy
 sed
@@ -724,6 +726,8 @@ six
 slang-dev
 snappy-dev
 source-highlight
+include(devpkg-speex)
+speexdsp-dev
 spice
 spice-dev
 spice-protocol

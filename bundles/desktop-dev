@@ -27,7 +27,6 @@ ModemManager-dev
 ModemManager-dev32
 include(NetworkManager)
 include(devpkg-NetworkManager)
-PackageKit-dev
 Pillow
 PyQt5
 PySocks
@@ -200,6 +199,7 @@ include(devpkg-e2fsprogs)
 e2fsprogs-dev32
 e2fsprogs-extras
 efivar-dev
+include(devpkg-eigen)
 elfutils
 include(devpkg-elfutils)
 elfutils-dev32
@@ -379,8 +379,6 @@ intel-gmmlib-dev
 intel-media-driver-dev
 include(intltool)
 intltool-dev
-ipaddress
-ipaddress-python
 include(iproute2)
 include(iptables)
 include(devpkg-iptables)
@@ -909,7 +907,6 @@ requests-toolbelt
 requests-toolbelt-python
 include(devpkg-rest)
 rest-dev32
-rpm-dev
 rtkit
 rtmpdump-dev
 ruby

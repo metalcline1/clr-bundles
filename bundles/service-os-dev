@@ -129,7 +129,6 @@ icu4c-dev32
 idna
 include(intltool)
 intltool-dev
-ipaddress
 include(devpkg-iptables)
 iptables-dev32
 iso8601

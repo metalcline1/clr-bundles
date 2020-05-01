@@ -14,7 +14,6 @@ Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
 include(devpkg-SDL)
-include(devpkg-SDL2)
 include(Sphinx)
 Vulkan-Headers-dev
 Vulkan-Loader-dev
@@ -114,9 +113,12 @@ include(devpkg-expat)
 expat-dev32
 expect
 extra-cmake-modules
+include(devpkg-fftw)
 file-dev
 filelock
 include(findutils)
+include(devpkg-flac)
+flac-dev32
 include(flex)
 flex-dev
 include(devpkg-font-util)
@@ -144,6 +146,7 @@ gcc8-dev
 include(gdb)
 gdb-dev
 gdbm-dev
+gdbm-dev32
 gdk-pixbuf
 include(devpkg-gdk-pixbuf)
 gdk-pixbuf-dev32
@@ -210,7 +213,6 @@ include(devpkg-iptables)
 iptables-dev32
 ipython
 include(devpkg-iso-codes)
-include(devpkg-jack2)
 jemalloc-dev
 include(devpkg-json-c)
 json-c-dev32
@@ -301,6 +303,7 @@ libpwquality-dev
 librsvg
 include(devpkg-librsvg)
 librsvg-dev32
+include(devpkg-libsamplerate)
 include(devpkg-libseccomp)
 libseccomp-dev32
 libsndfile-dev
@@ -316,6 +319,7 @@ include(devpkg-libtheora)
 include(devpkg-libtirpc)
 libtool
 libtool-dev
+libtool-dev32
 libunistring-dev
 libunistring-dev32
 include(devpkg-libunwind)
@@ -355,6 +359,7 @@ mpfr-dev
 mtdev-dev
 mtdev-dev32
 include(nasm)
+nasm-bin
 include(devpkg-ncurses)
 ncurses-dev32
 include(net-tools)
@@ -367,16 +372,20 @@ nettle-lib32
 nose
 nss-altfiles
 numpy
+octave-dev
 openal-soft-dev
 openjade-dev
 openjdk11
 openjdk11-dev
 openldap-dev
+include(devpkg-openmpi)
+openssh
 include(openssl)
 include(devpkg-openssl)
 openssl-dev32
 include(devpkg-opus)
 include(devpkg-orc)
+orc-dev32
 include(p11-kit)
 include(devpkg-p11-kit)
 p11-kit-dev32
@@ -452,9 +461,11 @@ include(devpkg-readline)
 readline-dev32
 include(devpkg-rest)
 rest-dev32
+rtkit
 ruby
 sassc
 sbc-dev
+sbc-dev32
 sed
 setuptools
 setuptools-python
@@ -462,6 +473,7 @@ setuptools_scm
 shadow
 shared-mime-info
 six
+include(devpkg-speex)
 speexdsp-dev
 sqlite-autoconf
 include(devpkg-sqlite-autoconf)
