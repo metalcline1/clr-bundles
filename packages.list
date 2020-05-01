@@ -442,3 +442,4 @@ LibreCAD # 2D CAD program that can read DXF and DWG files and can write DXF, PDF
 gmsh # A three-dimensional finite element mesh generator.
 fsearch # A gtk3 based file search tool.
 gnome-desktop-testing # Test runner for GNOME-style installed tests
+alsa-tools # Device-specific tools from the ALSA project
