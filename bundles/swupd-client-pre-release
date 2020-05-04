@@ -1,15 +1,7 @@
 # [TITLE]: swupd-client-pre-release
 # [DESCRIPTION]: Pre-release binary for the Clear Linux OS for IA Updater.
-# [STATUS]: WIP
+# [STATUS]: Pending-Delete
 # [CAPABILITIES]:
 # [TAGS]:
 # [MAINTAINER]: William Douglas <william.douglas@intel.com>
-
-include(curl)
-
-# start of custom additions (edits outside this area will be removed automatically)
-include(os-core-update)
-# end of custom additions
-
-# main package
-swupd-client-pre-release
+filesystem
