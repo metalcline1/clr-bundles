@@ -969,6 +969,7 @@ tox
 tpm2-tss-dev
 tracker-dev
 include(tzdata)
+udisks2
 udisks2-dev
 include(devpkg-uhttpmock)
 unicodedata2
