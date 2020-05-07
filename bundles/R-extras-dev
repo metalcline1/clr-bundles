@@ -720,6 +720,7 @@ cscope
 cssselect
 ctags
 include(devpkg-cups)
+include(curl)
 include(devpkg-curl)
 curl-dev32
 include(devpkg-cyrus-sasl)

@@ -160,6 +160,7 @@ cups
 include(devpkg-cups)
 cups-filters
 include(devpkg-cups-filters)
+include(curl)
 include(devpkg-curl)
 curl-dev32
 include(devpkg-cyrus-sasl)
