@@ -181,6 +181,7 @@ libpwquality-dev
 include(devpkg-libseccomp)
 libseccomp-dev32
 include(devpkg-libsecret)
+include(devpkg-libsodium)
 libstdc++
 include(devpkg-libtasn1)
 libtasn1-dev32

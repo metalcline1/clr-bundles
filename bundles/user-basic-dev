@@ -408,6 +408,7 @@ include(devpkg-libseccomp)
 libseccomp-dev32
 libsndfile-dev
 libsndfile-dev32
+include(devpkg-libsodium)
 include(devpkg-libsoup)
 libsoup-dev32
 include(devpkg-libssh2)
