@@ -11,8 +11,9 @@ include(libX11client)
 also-add(ghostscript)
 
 cups
+cups-bjnp
 cups-filters
+epson-inkjet-printer-escpr
 gutenprint
 hplip
 sane-backends
-cups-bjnp
