@@ -339,6 +339,7 @@ perl-Class-Load-perl
 perl-Class-Tiny-perl
 perl-Class-Unload-perl
 perl-Clone-PP-perl
+perl-Clone-perl
 perl-Config-INI-Reader-Ordered-perl
 perl-Config-INI-perl
 perl-Cpanel-JSON-XS-perl
@@ -458,6 +459,7 @@ pigz
 pip
 pkg-config
 pkg-config-dev
+pluggy
 pluggy-python
 polkit-dev
 include(devpkg-popt)
@@ -467,6 +469,7 @@ include(procps-ng)
 procps-ng-bin
 protobuf-dev
 py
+py-python
 pycodestyle
 pycparser
 pytest
@@ -515,6 +518,7 @@ thin-provisioning-tools
 include(devpkg-tiff)
 tk
 tk-dev
+tox
 tqdm
 traceback2
 include(tzdata)
@@ -531,6 +535,7 @@ util-macros-dev32
 include(valgrind)
 valgrind-dev
 vim
+virtualenv
 include(wget)
 include(which)
 xauth

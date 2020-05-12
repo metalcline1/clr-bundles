@@ -230,13 +230,13 @@ include(devpkg-elfutils)
 elfutils-dev32
 emacs
 include(devpkg-enchant)
-entrypoints
 execnet
 include(devpkg-exiv2)
 include(devpkg-expat)
 expat-dev32
 expect
 extra-cmake-modules
+extra-cmake-modules-data
 extras
 fcgi-dev
 include(devpkg-fftw)
@@ -428,6 +428,7 @@ kconfigwidgets-dev
 kcoreaddons-dev
 kcrash-dev
 kdbusaddons-dev
+kdeclarative-dev
 kded-dev
 kdesignerplugin-dev
 kdoctools-dev
@@ -449,6 +450,7 @@ kmod-bin
 include(devpkg-kmod)
 kmod-dev32
 knotifications-dev
+kpackage-dev
 kparts-dev
 kplotting-dev
 include(devpkg-krb5)
@@ -777,6 +779,7 @@ perl-Class-Load-perl
 perl-Class-Tiny-perl
 perl-Class-Unload-perl
 perl-Clone-PP-perl
+perl-Clone-perl
 perl-Config-INI-Reader-Ordered-perl
 perl-Config-INI-perl
 perl-Cpanel-JSON-XS-perl
@@ -906,6 +909,7 @@ perl-namespace-autoclean-perl
 perl-namespace-clean-perl
 perl-perl
 pexpect
+phonon-dev
 php-dev
 pigz
 pinentry
@@ -915,6 +919,7 @@ pixman-dev32
 include(devpkg-pkcs11-helper)
 pkg-config
 pkg-config-dev
+plasma-framework-dev
 pluggy
 pluggy-python
 ply

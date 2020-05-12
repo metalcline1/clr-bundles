@@ -230,6 +230,7 @@ pigz
 pip
 pkg-config
 pkg-config-dev
+pluggy
 pluggy-python
 polkit-dev
 include(devpkg-popt)
@@ -238,6 +239,7 @@ processor-trace-dev
 include(procps-ng)
 procps-ng-bin
 py
+py-python
 pycparser
 pyparsing
 pytest
@@ -287,6 +289,7 @@ include(devpkg-util-macros)
 util-macros-dev32
 include(valgrind)
 valgrind-dev
+virtualenv
 include(which)
 xauth
 xmlto

@@ -130,6 +130,7 @@ include(devpkg-expat)
 expat-dev32
 expect
 extra-cmake-modules
+extra-cmake-modules-data
 include(devpkg-fftw)
 file-dev
 filelock
@@ -535,12 +536,14 @@ qtdeclarative-staticdev
 include(devpkg-qtlocation)
 qtmultimedia-dev
 qtquickcontrols2-dev
+qtscript-dev
 qtsensors-dev
 qtserialport-dev
 include(devpkg-qtsvg)
 include(devpkg-qttools)
 include(devpkg-qtwebchannel)
 qtwebsockets-dev
+qtx11extras-dev
 qtxmlpatterns-dev
 re2-dev
 include(devpkg-readline)

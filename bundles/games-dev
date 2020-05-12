@@ -497,6 +497,7 @@ perl-Class-Load-perl
 perl-Class-Tiny-perl
 perl-Class-Unload-perl
 perl-Clone-PP-perl
+perl-Clone-perl
 perl-Config-INI-Reader-Ordered-perl
 perl-Config-INI-perl
 perl-Cpanel-JSON-XS-perl
@@ -612,6 +613,7 @@ include(devpkg-pixman)
 pixman-dev32
 pkg-config
 pkg-config-dev
+pluggy
 pluggy-python
 polkit-dev
 include(devpkg-popt)
@@ -622,6 +624,7 @@ procps-ng-bin
 include(devpkg-pulseaudio)
 pulseaudio-dev32
 py
+py-python
 pycparser
 include(pygobject)
 pytest
@@ -673,6 +676,7 @@ include(texinfo)
 thin-provisioning-tools
 include(devpkg-tiff)
 tk-dev
+tox
 tpm2-tss-dev
 include(tzdata)
 unittest2
@@ -690,6 +694,7 @@ vala
 include(devpkg-vala)
 include(valgrind)
 valgrind-dev
+virtualenv
 vpnc
 wavpack-dev
 include(devpkg-wayland)
