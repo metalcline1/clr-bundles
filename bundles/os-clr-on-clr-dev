@@ -766,6 +766,7 @@ pep8
 pep8-python
 perl
 perl-Algorithm-Diff-perl
+perl-B-COW-perl
 perl-B-Hooks-EndOfScope-perl
 perl-Business-ISBN-Data-perl
 perl-CGI-perl
@@ -968,6 +969,7 @@ pyroma
 pyroute2
 pytest
 pytest-runner
+pytest-timeout
 pytest-xdist
 python-dateutil
 python-future

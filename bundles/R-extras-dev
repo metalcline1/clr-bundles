@@ -32,7 +32,6 @@ R-BiasedUrn
 R-Brobdingnag
 R-CVST
 R-Cairo
-R-CircStats
 R-ClustVarLV
 R-DBI
 R-DEoptim
@@ -92,9 +91,7 @@ R-RcppParallel
 R-RcppProgress
 R-RcppZiggurat
 R-Rdpack
-R-Rmpfr
 R-Rmpi
-R-SGP
 R-SGPdata
 R-SQUAREM
 R-Sleuth2
@@ -187,7 +184,6 @@ R-curl
 R-cvTools
 R-cyclocomp
 R-data.table
-R-dbarts
 R-dbplyr
 R-dcurver
 R-deSolve
@@ -213,7 +209,6 @@ R-drc
 R-dygraphs
 R-dynamicTreeCut
 R-e1071
-R-earth
 R-ecodist
 R-eha
 R-ellipse
@@ -239,7 +234,6 @@ R-fastmap
 R-fastmatch
 R-fauxpas
 R-fda
-R-ff
 R-fields
 R-filehash
 R-findpython
@@ -367,7 +361,6 @@ R-measures
 R-memisc
 R-memoise
 R-mi
-R-microbenchmark
 R-mime
 R-miniUI
 R-minpack.lm
@@ -385,7 +378,6 @@ R-mstate
 R-muhaz
 R-multcomp
 R-multicool
-R-multiwayvcov
 R-munsell
 R-mvnormtest
 R-mvtnorm
@@ -413,9 +405,6 @@ R-pbdZMQ
 R-pbivnorm
 R-pbkrtest
 R-pcaPP
-R-pcse
-R-pdftools
-R-pdp
 R-permute
 R-phangorn
 R-phylobase
@@ -576,12 +565,10 @@ R-subplex
 R-survey
 R-sys
 R-systemfonts
-R-taxize
 R-tclust
 R-tensor
 R-tensorA
 R-tensorflow
-R-tesseract
 R-testthat
 R-tfruns
 R-threejs
@@ -605,7 +592,6 @@ R-urltools
 R-usethis
 R-utf8
 R-uuid
-R-varImp
 R-vcd
 R-vcr
 R-vctrs
@@ -825,7 +811,6 @@ gmp-lib32
 gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
-include(gnuplot)
 include(devpkg-gnutls)
 gobject-introspection
 include(devpkg-gobject-introspection)
@@ -885,7 +870,6 @@ include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
 include(devpkg-lcms2)
-include(devpkg-leptonica)
 include(less)
 include(devpkg-libX11)
 libX11-dev32
@@ -1324,7 +1308,6 @@ include(devpkg-tbb)
 tcl
 tcl-dev
 tcl-staticdev
-include(devpkg-tesseract)
 testrepository
 testresources
 testscenarios
