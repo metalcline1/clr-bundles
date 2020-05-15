@@ -920,7 +920,6 @@ pixman-dev32
 include(devpkg-pkcs11-helper)
 pkg-config
 pkg-config-dev
-plasma-framework-dev
 pluggy
 pluggy-python
 ply
@@ -1151,7 +1150,6 @@ include(valgrind)
 valgrind-dev
 vim
 virtualenv
-wayland
 include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
