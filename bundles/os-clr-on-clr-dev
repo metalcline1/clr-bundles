@@ -35,6 +35,7 @@ LuaJIT
 include(devpkg-LuaJIT)
 Mako
 Mako-python
+Markdown
 MarkupSafe
 MarkupSafe-python3
 ModemManager-dev
