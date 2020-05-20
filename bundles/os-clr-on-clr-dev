@@ -45,6 +45,7 @@ Pillow
 PyJWT
 PyQt5
 PySocks
+PyYAML
 Pygments
 R
 Routes
@@ -154,7 +155,6 @@ check
 check-dev
 check-dev32
 check-manifest
-cheroot
 chrpath
 clear-font
 click
@@ -211,6 +211,7 @@ dnf-plugins-core
 dnsmasq
 include(docbook-utils)
 docbook-xml
+docopt
 include(docutils)
 docutils-python
 include(dosfstools)
@@ -253,6 +254,7 @@ flake8
 include(flex)
 flex-dev
 fltk-dev
+fmt-dev
 include(devpkg-font-util)
 font-util-dev32
 fontconfig-data
@@ -349,7 +351,6 @@ include(devpkg-graphviz)
 graphviz-extras
 grep
 groff
-grpc
 grpcio
 gsettings-desktop-schemas
 include(devpkg-gsl)
@@ -404,7 +405,6 @@ isa-l-dev
 include(devpkg-iso-codes)
 iso8601
 isodate
-isort
 itsdangerous
 itsdangerous-python
 include(devpkg-jansson)
@@ -416,6 +416,7 @@ json-c-dev32
 include(devpkg-json-glib)
 json-glib-dev32
 jsoncpp-dev
+jsonpatch
 karchive-dev
 kauth
 kauth-dev
@@ -457,12 +458,12 @@ kplotting-dev
 include(devpkg-krb5)
 kservice-dev
 ktextwidgets-dev
+kubernetes
 kunitconversion-dev
 kwallet-dev
 kwidgetsaddons-dev
 kwindowsystem-dev
 kxmlgui-dev
-lazy-object-proxy
 include(devpkg-lcms2)
 ldb-dev
 ldb-extras
@@ -578,6 +579,7 @@ include(devpkg-libpthread-stubs)
 libpthread-stubs-dev32
 libpwquality-dev
 libqmi-dev
+librdkafka-dev
 librepo
 include(devpkg-librepo)
 librsvg
@@ -725,6 +727,7 @@ open-isns-dev
 openal-soft-dev
 include(openblas)
 opencl-headers-dev
+include(devpkg-opencv)
 openexr-dev
 openjade-dev
 openjdk
@@ -858,6 +861,7 @@ perl-Params-Util
 perl-Params-Util-perl
 perl-Params-Validate-perl
 perl-Params-ValidationCompiler-perl
+perl-Parse-Yapp
 perl-Path-Class-perl
 perl-Path-Tiny-perl
 perl-PerlIO-gzip
@@ -933,7 +937,6 @@ include(poppler)
 poppler-dev
 poppler-extras
 include(devpkg-popt)
-portend
 include(devpkg-postgresql)
 potrace-dev
 ppp
@@ -1052,7 +1055,6 @@ setuptools_scm-python
 sg3_utils-dev
 shadow
 shared-mime-info
-singledispatch
 sip
 sip-dev
 six
@@ -1160,7 +1162,6 @@ webencodings
 include(wget)
 include(which)
 include(devpkg-woff2)
-wrapt
 include(devpkg-xapian-core)
 xauth
 xcb-proto

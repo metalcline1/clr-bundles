@@ -12,17 +12,19 @@ CUnit-dev
 CUnit-dev32
 CherryPy
 Cython
-Flask
 LVM2
 include(devpkg-LVM2)
 LVM2-extras
 Linux-PAM-dev
 Linux-PAM-dev32
 Mako-python
+Markdown
 PyJWT
+PyYAML
 Routes
 include(Sphinx)
 Sphinx-python
+VTK-dev
 Vulkan-Headers-dev
 Vulkan-Loader-dev
 Vulkan-Loader-dev32
@@ -46,7 +48,6 @@ include(devpkg-atk)
 atk-dev32
 include(devpkg-attr)
 attr-dev32
-attrs
 audisp-json
 include(devpkg-audit)
 autoconf
@@ -87,7 +88,6 @@ certifi
 cffi
 check-dev
 check-dev32
-cheroot
 clear-font
 clr-rpm-config
 cmake
@@ -96,7 +96,6 @@ colorama
 include(devpkg-compat-fuse-soname2)
 contextlib2
 coreutils
-coverage
 cracklib-dev
 include(devpkg-cryptsetup)
 ctags
@@ -117,6 +116,7 @@ distlib
 dnsmasq
 include(docbook-utils)
 docbook-xml
+docopt
 include(docutils)
 include(dosfstools)
 include(doxygen)
@@ -143,6 +143,7 @@ include(devpkg-flac)
 flac-dev32
 include(flex)
 flex-dev
+fmt-dev
 fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
@@ -151,7 +152,6 @@ include(devpkg-freetype)
 freetype-dev32
 include(devpkg-fribidi)
 fribidi-dev32
-funcsigs
 include(devpkg-fuse)
 gawk
 gcc
@@ -210,7 +210,6 @@ include(graphviz)
 graphviz-extras
 grep
 groff
-grpc
 grpcio
 gsettings-desktop-schemas
 include(devpkg-gsl)
@@ -238,13 +237,13 @@ include(devpkg-iptables)
 iptables-dev32
 isa-l-dev
 include(devpkg-iso-codes)
-isort
 include(devpkg-jansson)
 include(joe)
 include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
 json-glib-dev32
+jsonpatch
 include(kbd)
 keyutils-dev
 kmod
@@ -252,7 +251,7 @@ kmod-bin
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
-lazy-object-proxy
+kubernetes
 leveldb-dev
 include(devpkg-libX11)
 libX11-dev32
@@ -335,6 +334,7 @@ libpng-dev32
 libpsl-dev32
 include(devpkg-libpthread-stubs)
 libpwquality-dev
+librdkafka-dev
 librsvg
 include(devpkg-librsvg)
 librsvg-dev32
@@ -382,7 +382,6 @@ lz4-dev32
 lzo-dev
 m4
 include(make)
-mccabe
 include(devpkg-mesa)
 mesa-dev32
 mingw-gcc
@@ -392,6 +391,7 @@ mpc-dev
 mpfr-dev
 mtdev-dev
 mtdev-dev32
+mypy
 include(nasm)
 nasm-bin
 include(devpkg-ncurses)
@@ -418,6 +418,7 @@ include(devpkg-oath-toolkit)
 octave-dev
 open-iscsi
 opencl-headers-dev
+include(devpkg-opencv)
 openjdk11
 openjdk11-dev
 openldap-dev
@@ -461,7 +462,6 @@ pluggy-python
 include(polkit)
 polkit-dev
 include(devpkg-popt)
-portend
 prettytable
 include(procps-ng)
 procps-ng-bin
@@ -469,20 +469,21 @@ psutil
 include(devpkg-pulseaudio)
 py
 py-python
-pycodestyle
+pyOpenSSL
 pycparser
 pyparsing
 pytest
 python3
 python3-core
 python3-dev
-pytz
 qemu
+include(devpkg-qtbase)
 rabbitmq-c-dev
 include(devpkg-rdma-core)
 include(devpkg-readline)
 readline-dev32
 requests
+requests-mock
 include(devpkg-rest)
 rest-dev32
 rtkit
@@ -498,7 +499,6 @@ setuptools-python
 setuptools_scm
 shadow
 shared-mime-info
-singledispatch
 six
 snappy-dev
 include(devpkg-speex)
@@ -549,7 +549,6 @@ wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
 include(which)
-wrapt
 xauth
 xcb-proto
 include(devpkg-xcb-proto)

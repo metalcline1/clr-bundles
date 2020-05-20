@@ -388,7 +388,6 @@ R-nleqslv
 R-nloptr
 R-nnls
 R-nortest
-R-npsurv
 R-numDeriv
 R-openssl
 R-openxlsx
@@ -425,7 +424,6 @@ R-pmml
 R-png
 R-polspline
 R-polyclip
-R-polycor
 R-polynom
 R-prabclus
 R-pracma
