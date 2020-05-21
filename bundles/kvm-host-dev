@@ -66,6 +66,7 @@ include(bison)
 bison-dev
 include(devpkg-bluez)
 include(devpkg-boost)
+boto3
 bridge-utils
 buildreq-cmake
 buildreq-configure

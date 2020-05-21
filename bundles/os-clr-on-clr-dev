@@ -122,6 +122,7 @@ bison-dev
 include(devpkg-bluez)
 boost
 include(devpkg-boost)
+boto3
 bridge-utils
 brotli
 include(devpkg-brotli)
