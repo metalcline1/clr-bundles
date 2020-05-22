@@ -255,7 +255,7 @@ flake8
 include(flex)
 flex-dev
 fltk-dev
-fmt-dev
+include(devpkg-fmt)
 include(devpkg-font-util)
 font-util-dev32
 fontconfig-data

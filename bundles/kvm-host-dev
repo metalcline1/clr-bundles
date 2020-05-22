@@ -144,7 +144,7 @@ include(devpkg-flac)
 flac-dev32
 include(flex)
 flex-dev
-fmt-dev
+include(devpkg-fmt)
 fontconfig-data
 include(devpkg-fontconfig)
 fontconfig-dev32
