@@ -69,6 +69,7 @@ pkgconfig(fftw3l)	devpkg-fftw
 pkgconfig(fixesproto)	devpkg-xorgproto
 pkgconfig(flac)	devpkg-flac
 pkgconfig(flatpak)	devpkg-flatpak
+pkgconfig(fmt)	devpkg-fmt
 pkgconfig(fontconfig)	devpkg-fontconfig
 pkgconfig(fontenc)	devpkg-libfontenc
 pkgconfig(fontsproto)	devpkg-xorgproto
