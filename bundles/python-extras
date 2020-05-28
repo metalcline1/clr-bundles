@@ -32,7 +32,7 @@ flake8-docstrings
 glibc-lib-avx2
 intelhex
 jdcal
-kernel-config-checker
+kcc
 lxml
 MonkeyType
 mypy
