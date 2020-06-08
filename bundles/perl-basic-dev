@@ -104,6 +104,7 @@ keyutils-dev
 kmod
 include(devpkg-kmod)
 kmod-dev32
+less-bin
 libabigail
 libaio-dev
 libc6-dev

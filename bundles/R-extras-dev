@@ -334,6 +334,7 @@ R-mitools
 R-mlbench
 R-mnormt
 R-mockery
+R-modeldata
 R-modelr
 R-modeltools
 R-msm
@@ -821,6 +822,7 @@ kmod-dev32
 include(devpkg-krb5)
 include(devpkg-lcms2)
 include(less)
+less-bin
 include(devpkg-libX11)
 libX11-dev32
 libX11-lib

@@ -136,6 +136,7 @@ kmod
 include(devpkg-kmod)
 kmod-dev32
 include(less)
+less-bin
 include(devpkg-libX11)
 libX11-dev32
 libabigail

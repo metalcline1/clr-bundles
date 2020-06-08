@@ -128,6 +128,7 @@ kmod
 include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
+less-bin
 libabigail
 libaio-dev
 include(devpkg-libassuan)

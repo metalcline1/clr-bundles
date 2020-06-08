@@ -266,6 +266,7 @@ include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
 include(devpkg-lcms2)
+less-bin
 include(devpkg-libX11)
 libX11-dev32
 libX11-lib

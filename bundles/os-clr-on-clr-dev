@@ -469,6 +469,7 @@ include(devpkg-lcms2)
 ldb-dev
 ldb-extras
 include(less)
+less-bin
 leveldb-dev
 include(devpkg-libX11)
 libX11-dev32
