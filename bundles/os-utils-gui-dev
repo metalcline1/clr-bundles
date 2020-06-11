@@ -800,7 +800,7 @@ xorg-fonts
 include(devpkg-xorg-server)
 include(devpkg-xorgproto)
 xorgproto-dev32
-xrdp-dev
+include(devpkg-xrdp)
 xset
 include(devpkg-xtrans)
 xtrans-dev32
