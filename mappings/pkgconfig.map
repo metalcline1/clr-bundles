@@ -613,6 +613,7 @@ pkgconfig(xpm)	devpkg-libXpm
 pkgconfig(xproto)	devpkg-xorgproto
 pkgconfig(xproxymngproto)	devpkg-xorgproto
 pkgconfig(xrandr)	devpkg-libX11
+pkgconfig(xrdp)	devpkg-xrdp
 pkgconfig(xrender)	devpkg-libX11
 pkgconfig(xres)	devpkg-libXres
 pkgconfig(xscrnsaver)	devpkg-libXScrnSaver
