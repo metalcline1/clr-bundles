@@ -261,6 +261,7 @@ kconfigwidgets-dev
 kcoreaddons-dev
 kcrash-dev
 kdbusaddons-dev
+kded-dev
 kdoctools-dev
 keyutils-dev
 kfilemetadata-dev
@@ -281,6 +282,7 @@ kmod-dev32
 knewstuff-dev
 knotifications-dev
 knotifyconfig-dev
+kpackage-dev
 kparts-dev
 kplotting-dev
 kpty-dev
