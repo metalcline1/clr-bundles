@@ -24,6 +24,7 @@ perl-AnyEvent-CacheDNS
 perl-Apache-Htpasswd
 perl-Apache-LogFormat-Compiler
 perl-Apache-Session
+perl-App-MigrateModules
 perl-App-Nopaste
 perl-App-cpanminus
 perl-App-perlbrew
@@ -113,6 +114,7 @@ perl-Clone-PP
 perl-Compress-Bzip2
 perl-Compress-Raw-Lzma
 perl-Config-Any
+perl-Config-AutoConf
 perl-Config-General
 perl-Config-Grammar
 perl-Config-INI
@@ -301,6 +303,7 @@ perl-Geo-IP
 perl-Geo-IPfree
 perl-Getopt-Euclid
 perl-Getopt-Long-Descriptive
+perl-Getopt-Long-Modern
 perl-Getopt-Tabular
 perl-Git-Version-Compare
 perl-Graph
@@ -330,6 +333,7 @@ perl-HTTP-Negotiate
 perl-HTTP-Parser-XS
 perl-HTTP-Request-AsCGI
 perl-HTTP-Server-Simple
+perl-HTTP-Tinyish
 perl-Hash-Flatten
 perl-Hash-Merge
 perl-Hash-MoreUtils
@@ -437,6 +441,7 @@ perl-Math-Utils
 perl-Math-Vec
 perl-Memoize-ExpireLRU
 perl-Meta-Builder
+perl-Metrics-Any
 perl-Minion
 perl-Mixin-Linewise
 perl-Mock-Config
@@ -576,6 +581,7 @@ perl-Router-Simple
 perl-SGMLS
 perl-SMTP-Server
 perl-SQL-Abstract
+perl-SQL-Abstract-Classic
 perl-SQL-SplitStatement
 perl-SQL-Tokenizer
 perl-SQL-Translator
@@ -628,6 +634,7 @@ perl-Sys-Mmap
 perl-Sys-SigAction
 perl-Sys-Statistics-Linux
 perl-System-Command
+perl-Systemd-Daemon
 perl-TAP-Formatter-HTML
 perl-TAP-Harness-Archive
 perl-Taint-Util
@@ -648,6 +655,7 @@ perl-Test-CleanNamespaces
 perl-Test-Command
 perl-Test-Compile
 perl-Test-Deep
+perl-Test-DiagINC
 perl-Test-Differences
 perl-Test-Exception
 perl-Test-FailWarnings
@@ -662,6 +670,8 @@ perl-Test-LectroTest
 perl-Test-LongString
 perl-Test-Manifest
 perl-Test-Memory-Cycle
+perl-Test-MemoryGrowth
+perl-Test-Metrics-Any
 perl-Test-MockModule
 perl-Test-MockTime
 perl-Test-More-UTF8
@@ -800,5 +810,6 @@ perl-local-lib
 perl-multidimensional
 perl-namespace-autoclean
 perl-namespace-clean
+perl-pmtools
 perl-prefork
 perl-strictures
