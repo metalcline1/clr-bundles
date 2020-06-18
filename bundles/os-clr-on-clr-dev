@@ -227,6 +227,7 @@ e2fsprogs-extras
 ebtables
 ed
 efivar-dev
+eigen-data
 include(devpkg-eigen)
 elfutils
 include(devpkg-elfutils)
