@@ -45,7 +45,6 @@ binutils-dev
 binutils-staticdev
 include(bison)
 bison-dev
-boost
 include(devpkg-boost)
 btrfs-progs-dev
 buildreq-cmake
