@@ -12,6 +12,7 @@ include(libstdcpp)
 include(linux-firmware-extras)
 include(linux-firmware-wifi)
 include(openssh-server)
+include(storage-utils)
 include(wpa_supplicant)
 
 also-add(glibc-locale)
