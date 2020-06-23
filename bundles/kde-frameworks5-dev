@@ -93,7 +93,6 @@ clr-rpm-config
 include(devpkg-clutter)
 cmake
 include(devpkg-compat-enchant-soname1)
-contextlib2
 coreutils
 coverage
 cracklib-dev

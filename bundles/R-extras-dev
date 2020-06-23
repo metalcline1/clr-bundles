@@ -647,7 +647,6 @@ clr-R-helpers
 clr-rpm-config
 include(devpkg-clutter)
 cmake
-contextlib2
 coreutils
 coverage
 cppunit-dev

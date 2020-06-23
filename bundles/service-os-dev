@@ -51,7 +51,6 @@ certifi
 cffi
 check-dev
 clr-rpm-config
-contextlib2
 coreutils
 cracklib-dev
 cryptography_vectors

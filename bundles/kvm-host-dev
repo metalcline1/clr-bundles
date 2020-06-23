@@ -95,7 +95,6 @@ cmake
 cmd2
 colorama
 include(devpkg-compat-fuse-soname2)
-contextlib2
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)

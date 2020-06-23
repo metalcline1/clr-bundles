@@ -96,7 +96,6 @@ clr-rpm-config
 include(devpkg-clutter)
 cmake
 cmocka-dev
-contextlib2
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)

@@ -97,7 +97,6 @@ colord
 include(devpkg-colord)
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
-contextlib2
 coreutils
 coverage
 cppcheck

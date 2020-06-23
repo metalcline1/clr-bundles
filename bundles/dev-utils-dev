@@ -67,7 +67,6 @@ check-dev
 clr-rpm-config
 cmake
 include(devpkg-compat-fuse-soname2)
-contextlib2
 coreutils
 include(cpio)
 cppcheck

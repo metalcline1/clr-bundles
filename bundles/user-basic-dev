@@ -118,7 +118,6 @@ cmocka-dev
 colorama
 include(devpkg-compat-fuse-soname2)
 confuse-dev
-contextlib2
 coreutils
 include(cpio)
 cppcheck

@@ -49,7 +49,6 @@ cifs-utils-dev
 clr-rpm-config
 cmocka-dev
 include(devpkg-compat-fuse-soname2)
-contextlib2
 coreutils
 cracklib-dev
 include(devpkg-cryptsetup)
