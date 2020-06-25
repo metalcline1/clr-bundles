@@ -1277,8 +1277,6 @@ traceback2
 include(tzdata)
 udunits-dev
 unicodedata2
-unittest2
-unittest2-python
 unixODBC-dev
 include(unzip)
 util-linux

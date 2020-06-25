@@ -439,8 +439,6 @@ thin-provisioning-tools
 tk-dev
 tox
 include(tzdata)
-unittest2
-unittest2-python
 include(unzip)
 include(devpkg-userspace-rcu)
 util-linux

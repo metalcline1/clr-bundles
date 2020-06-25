@@ -521,8 +521,6 @@ tox
 tqdm
 traceback2
 include(tzdata)
-unittest2
-unittest2-python
 include(unzip)
 util-linux
 util-linux-bin

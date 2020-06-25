@@ -277,8 +277,6 @@ tk-dev
 tox
 tox-python
 include(tzdata)
-unittest2
-unittest2-python
 include(unzip)
 util-linux
 util-linux-bin

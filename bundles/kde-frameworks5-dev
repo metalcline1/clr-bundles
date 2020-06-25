@@ -592,8 +592,6 @@ tk-dev
 tox
 include(tzdata)
 unicodedata2
-unittest2
-unittest2-python
 include(unzip)
 util-linux
 util-linux-bin

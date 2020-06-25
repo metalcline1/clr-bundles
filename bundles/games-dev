@@ -679,8 +679,6 @@ tk-dev
 tox
 tpm2-tss-dev
 include(tzdata)
-unittest2
-unittest2-python
 include(unzip)
 util-linux
 util-linux-bin
