@@ -547,6 +547,7 @@ libidn2-dev32
 include(devpkg-libinput)
 include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
+libkcapi-dev
 libkipi-dev
 libksba-dev
 libmaxminddb-dev
@@ -774,7 +775,6 @@ pep8
 pep8-python
 perl
 perl-Algorithm-Diff-perl
-perl-B-COW-perl
 perl-B-Hooks-EndOfScope-perl
 perl-Business-ISBN-Data-perl
 perl-CGI-perl

@@ -374,6 +374,7 @@ libidn2-dev32
 include(devpkg-libinput)
 include(devpkg-libjpeg-turbo)
 libjpeg-turbo-dev32
+libkcapi-dev
 libmaxminddb-dev
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)

@@ -179,6 +179,7 @@ include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libidn2)
 libidn2-dev32
+libkcapi-dev
 include(devpkg-libmicrohttpd)
 include(devpkg-libmnl)
 libmnl-dev32
