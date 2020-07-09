@@ -66,6 +66,7 @@ cffi
 check-dev
 clr-rpm-config
 cmake
+commonmark
 include(devpkg-compat-fuse-soname2)
 coreutils
 include(cpio)

@@ -600,6 +600,7 @@ include(devpkg-libsolv)
 include(devpkg-libsoup)
 libsoup-dev32
 libspatialite-dev
+libssh-dev
 include(devpkg-libssh2)
 libstdc++
 include(devpkg-libtasn1)

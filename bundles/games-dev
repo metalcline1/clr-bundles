@@ -381,6 +381,7 @@ include(devpkg-libsoup)
 libsoup-dev32
 libsrtp
 include(devpkg-libsrtp)
+libssh-dev
 include(devpkg-libssh2)
 libstdc++
 include(devpkg-libtasn1)
