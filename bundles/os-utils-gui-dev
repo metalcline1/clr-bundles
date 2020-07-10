@@ -505,6 +505,7 @@ include(devpkg-nss)
 numpy
 octave-dev
 openconnect-dev
+openjpeg
 openldap-dev
 include(devpkg-openmpi)
 openssh

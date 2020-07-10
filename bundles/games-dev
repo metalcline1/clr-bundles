@@ -462,6 +462,7 @@ openal-soft-dev
 openal-soft-dev32
 openconnect-dev
 openexr-dev
+openjpeg
 openldap-dev
 include(devpkg-openmpi)
 openssh
