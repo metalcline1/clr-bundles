@@ -191,6 +191,8 @@ glibc-utils
 include(devpkg-glu)
 gmp-dev
 gmp-dev32
+gmp-gmpxx
+gmp-lib-hsw
 gmp-lib32
 gnu-efi
 include(devpkg-gnu-efi)
@@ -252,6 +254,7 @@ include(devpkg-kmod)
 kmod-dev32
 include(devpkg-krb5)
 kubernetes
+less-bin
 leveldb-dev
 include(devpkg-libX11)
 libX11-dev32
@@ -447,6 +450,8 @@ pcsc-lite-dev
 pecan
 perl
 perl-Digest-CRC-perl
+perl-Math-BigInt-GMP
+perl-Test-Simple
 perl-Test-Simple-perl
 perl-XML-Parser-perl
 perl-perl
