@@ -44,6 +44,7 @@ R-Formula
 R-GGally
 R-GPArotation
 R-GeneralizedHyperbolic
+R-GetoptLong
 R-GlobalOptions
 R-Guerry
 R-Hmisc
@@ -445,6 +446,7 @@ R-rhandsontable
 R-rio
 R-ritis
 R-rjags
+R-rjson
 R-rlang
 R-rmarkdown
 R-rms
