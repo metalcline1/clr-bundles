@@ -137,6 +137,7 @@ buildreq-gnome
 buildreq-golang
 buildreq-kde
 buildreq-meson
+buildreq-nginx
 buildreq-qmake
 buildreq-scons
 bzip2

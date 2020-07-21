@@ -923,6 +923,7 @@ include(devpkg-libsoup)
 libsoup-dev32
 libspatialite-dev
 include(devpkg-libsrtp)
+libssh-dev
 include(devpkg-libssh2)
 libstdc++
 include(devpkg-libtasn1)

@@ -169,6 +169,7 @@ include(devpkg-guile)
 include(gzip)
 include(devpkg-harfbuzz)
 harfbuzz-dev32
+hdf5-dev
 help2man
 hostname
 include(devpkg-icu4c)
@@ -253,6 +254,7 @@ include(devpkg-libpthread-stubs)
 libpwquality-dev
 include(devpkg-libseccomp)
 libseccomp-dev32
+libssh-dev
 libstdc++
 include(devpkg-libtasn1)
 libtasn1-dev32

@@ -26,6 +26,8 @@ attr-dev32
 attrs-python
 include(devpkg-audit)
 autoconf
+autoconf-archive
+autoconf-archive-dev
 autogen
 automake
 automake-dev

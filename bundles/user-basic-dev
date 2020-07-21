@@ -95,6 +95,7 @@ buildreq-gnome
 buildreq-golang
 buildreq-kde
 buildreq-meson
+buildreq-nginx
 buildreq-qmake
 buildreq-scons
 bzip2
@@ -267,6 +268,7 @@ include(devpkg-guile)
 include(gzip)
 include(devpkg-harfbuzz)
 harfbuzz-dev32
+hdf5-dev
 help2man
 hostname
 ibus
@@ -413,6 +415,7 @@ libsndfile-dev32
 include(devpkg-libsodium)
 include(devpkg-libsoup)
 libsoup-dev32
+libssh-dev
 include(devpkg-libssh2)
 libstdc++
 include(devpkg-libtasn1)
