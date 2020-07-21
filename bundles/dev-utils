@@ -21,7 +21,6 @@ colordiff
 include(cpio)
 cppcheck
 cscope
-debuginfo-cache
 diffstat
 include(diffutils)
 include(docutils)
