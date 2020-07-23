@@ -151,6 +151,7 @@ R-colourpicker
 R-combinat
 R-commonmark
 R-config
+R-conquer
 R-contfrac
 R-corpcor
 R-corrplot
@@ -534,6 +535,7 @@ R-timeSeries
 R-tinytex
 R-tis
 R-tm
+R-tmvnsim
 R-toOrdinal
 R-triebeard
 R-truncnorm

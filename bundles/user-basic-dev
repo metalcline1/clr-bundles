@@ -122,7 +122,6 @@ commonmark
 include(devpkg-compat-fuse-soname2)
 confuse-dev
 coreutils
-include(cpio)
 cppcheck
 cppunit-dev
 cracklib-dev
@@ -715,7 +714,6 @@ include(devpkg-rest)
 rest-dev32
 rpcbind
 rpm
-rpm-extras
 include(rsync)
 rtkit
 ruby

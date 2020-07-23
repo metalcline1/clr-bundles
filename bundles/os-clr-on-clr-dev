@@ -176,7 +176,6 @@ confuse-dev
 contextlib2
 coreutils
 coverage
-include(cpio)
 cppcheck
 cppunit-dev
 cracklib-dev

@@ -69,7 +69,6 @@ cmake
 commonmark
 include(devpkg-compat-fuse-soname2)
 coreutils
-include(cpio)
 cppcheck
 cppunit-dev
 cracklib-dev
@@ -482,7 +481,6 @@ include(devpkg-qtbase)
 include(devpkg-readline)
 readline-dev32
 rpm
-rpm-extras
 include(rsync)
 ruby
 scdoc-dev
