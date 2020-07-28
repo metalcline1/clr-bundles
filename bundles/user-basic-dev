@@ -462,6 +462,9 @@ man-db
 include(devpkg-mesa)
 mesa-dev32
 meson
+mingw-binutils
+mingw-crt
+mingw-crt-dev
 mingw-gcc
 mod_perl-perl
 more-itertools
