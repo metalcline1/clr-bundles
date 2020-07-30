@@ -1161,7 +1161,6 @@ include(devpkg-wayland)
 wayland-dev32
 include(devpkg-wayland-protocols)
 wayland-protocols-dev32
-wcwidth
 webencodings
 include(wget)
 include(which)
