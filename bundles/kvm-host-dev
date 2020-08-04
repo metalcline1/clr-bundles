@@ -12,6 +12,7 @@ CUnit-dev
 CUnit-dev32
 CherryPy
 Cython
+Jinja2
 LVM2
 include(devpkg-LVM2)
 LVM2-extras
@@ -132,6 +133,7 @@ ebtables-dev
 include(devpkg-elfutils)
 elfutils-dev32
 emacs
+execnet
 include(devpkg-expat)
 expat-dev32
 expect

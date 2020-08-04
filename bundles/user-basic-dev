@@ -20,6 +20,7 @@ CUnit-dev
 CUnit-dev32
 CherryPy
 Cython
+Jinja2
 LVM2
 include(devpkg-LVM2)
 LVM2-extras
@@ -162,6 +163,7 @@ elfutils
 include(devpkg-elfutils)
 elfutils-dev32
 emacs
+execnet
 include(devpkg-expat)
 expat-dev32
 expect
@@ -703,7 +705,6 @@ python3-dev
 python3-staticdev
 qemu
 include(devpkg-qtbase)
-qtbase-extras
 rabbitmq-c-dev
 include(devpkg-rdma-core)
 include(devpkg-readline)
