@@ -890,7 +890,6 @@ pygobject-python
 pyparsing
 pyroma
 pytest
-python-mock
 python-pocketlint
 python-polib
 python3
