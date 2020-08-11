@@ -323,6 +323,7 @@ p11-kit-dev32
 include(pandoc)
 include(patch)
 patchelf
+patchutils
 pathlib2
 include(devpkg-pcre)
 pcre-dev32

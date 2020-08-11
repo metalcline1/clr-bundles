@@ -957,6 +957,7 @@ libxml2-dev32
 include(libxslt)
 libxslt-bin
 include(devpkg-libxslt)
+include(devpkg-libzip)
 include(devpkg-libzmq)
 linux-libc-headers
 include(llvm)
@@ -1046,6 +1047,7 @@ include(devpkg-pango)
 pango-dev32
 include(patch)
 patchelf
+patchutils
 pathlib2
 include(devpkg-pciutils)
 include(devpkg-pcre)

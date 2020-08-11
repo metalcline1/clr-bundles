@@ -527,6 +527,7 @@ pango-dev32
 include(devpkg-parted)
 include(patch)
 patchelf
+patchutils
 pathlib2
 pbr
 include(devpkg-pciutils)
