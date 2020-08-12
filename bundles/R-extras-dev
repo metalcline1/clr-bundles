@@ -97,7 +97,6 @@ R-WikidataR
 R-WikipediR
 R-XML
 R-abind
-R-acepack
 R-actuar
 R-ade4
 R-adegenet
@@ -269,6 +268,7 @@ R-hypergeo
 R-igraph
 R-ini
 R-inline
+R-insight
 R-inum
 R-invgamma
 R-ipred
