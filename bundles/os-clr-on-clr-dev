@@ -422,7 +422,6 @@ jsonpatch
 karchive-dev
 kauth
 kauth-dev
-include(kbd)
 kbookmarks-dev
 kcodecs-dev
 kcompletion-dev

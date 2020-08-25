@@ -99,7 +99,6 @@ intltool-dev
 include(devpkg-iptables)
 iptables-dev32
 include(devpkg-json-c)
-include(kbd)
 keyutils-dev
 kmod
 include(devpkg-kmod)
@@ -364,3 +363,5 @@ include(devpkg-xz)
 xz-dev32
 include(devpkg-zlib)
 zlib-dev32
+include(devpkg-zstd)
+zstd-dev32

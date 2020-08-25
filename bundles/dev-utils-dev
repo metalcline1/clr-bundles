@@ -183,7 +183,6 @@ iso8601
 include(devpkg-json-c)
 json-c-dev32
 jsoncpp-dev
-include(kbd)
 keyutils-dev
 kmod
 include(devpkg-kmod)
@@ -551,3 +550,4 @@ include(yasm)
 include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
+zstd-dev32

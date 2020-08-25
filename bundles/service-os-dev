@@ -134,7 +134,6 @@ include(devpkg-iptables)
 iptables-dev32
 iso8601
 include(devpkg-json-c)
-include(kbd)
 keyutils-dev
 kmod
 include(devpkg-kmod)
@@ -152,6 +151,7 @@ include(devpkg-libcap-ng)
 libcap-ng-dev32
 include(devpkg-libcgroup)
 libev-dev
+include(devpkg-libevdev)
 include(devpkg-libevent)
 libevent-dev32
 include(devpkg-libffi)
@@ -280,6 +280,7 @@ tox
 tox-python
 include(tzdata)
 include(unzip)
+upower-dev
 util-linux
 util-linux-bin
 include(devpkg-util-linux)
@@ -298,3 +299,5 @@ include(devpkg-xz)
 xz-dev32
 include(devpkg-zlib)
 zlib-dev32
+include(devpkg-zstd)
+zstd-dev32

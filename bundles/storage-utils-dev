@@ -143,7 +143,6 @@ iptables-dev32
 iso8601
 include(devpkg-jansson)
 include(devpkg-json-c)
-include(kbd)
 kdoctools-dev
 keyutils-dev
 kmod
@@ -459,3 +458,4 @@ include(yasm)
 include(devpkg-zlib)
 zlib-dev32
 include(devpkg-zstd)
+zstd-dev32

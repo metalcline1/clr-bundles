@@ -398,7 +398,6 @@ include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
 json-glib-dev32
-include(kbd)
 kdoctools-dev
 keyutils-dev
 kmod

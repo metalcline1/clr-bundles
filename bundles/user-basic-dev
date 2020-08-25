@@ -300,7 +300,6 @@ include(devpkg-json-glib)
 json-glib-dev32
 jsoncpp-dev
 jsonpatch
-include(kbd)
 kdoctools-dev
 keyutils-dev
 kmod

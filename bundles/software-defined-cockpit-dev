@@ -224,7 +224,6 @@ include(devpkg-json-c)
 json-c-dev32
 include(devpkg-json-glib)
 json-glib-dev32
-include(kbd)
 keyutils-dev
 kmod
 include(devpkg-kmod)
@@ -470,6 +469,7 @@ thin-provisioning-tools
 include(devpkg-tiff)
 include(tzdata)
 include(unzip)
+upower-dev
 util-linux
 util-linux-bin
 include(devpkg-util-linux)

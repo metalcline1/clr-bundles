@@ -250,7 +250,6 @@ json-c-dev32
 include(devpkg-json-glib)
 json-glib-dev32
 jsonpatch
-include(kbd)
 keyutils-dev
 kmod
 kmod-bin
