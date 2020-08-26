@@ -52,6 +52,7 @@ ca-certs
 certifi
 cffi
 check-dev
+check-dev32
 clr-rpm-config
 coreutils
 cracklib-dev
@@ -115,6 +116,8 @@ gnu-efi
 include(devpkg-gnu-efi)
 gnu-efi-staticdev
 go
+gobject-introspection
+include(devpkg-gobject-introspection)
 gperf
 include(graphviz)
 grep
@@ -161,6 +164,7 @@ libgcrypt-dev32
 include(devpkg-libgpg-error)
 libgpg-error-dev32
 libgpg-error-extras
+include(devpkg-libgudev)
 include(devpkg-libidn)
 libidn-dev32
 include(devpkg-libmicrohttpd)
