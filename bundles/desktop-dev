@@ -633,9 +633,6 @@ mobile-broadband-provider-info
 mobile-broadband-provider-info-dev
 mock
 mod_perl-perl
-mozjs60
-include(devpkg-mozjs60)
-mozjs60-lib
 include(devpkg-mozjs68)
 mpc-dev
 mpfr-dev

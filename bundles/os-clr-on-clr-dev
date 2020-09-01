@@ -677,7 +677,7 @@ mock
 mod_perl-perl
 include(modules)
 more-itertools
-include(devpkg-mozjs60)
+include(devpkg-mozjs68)
 mpc-dev
 mpfr-dev
 msmtp

@@ -466,7 +466,7 @@ meson
 mingw-gcc
 mod_perl-perl
 more-itertools
-include(devpkg-mozjs60)
+include(devpkg-mozjs68)
 mpc-dev
 mpfr-dev
 msmtp

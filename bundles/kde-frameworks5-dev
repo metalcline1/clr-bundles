@@ -437,7 +437,7 @@ mingw-gcc
 mkfontdir
 mkfontdir-bin
 mkfontscale-bin
-include(devpkg-mozjs60)
+include(devpkg-mozjs68)
 mpc-dev
 mpfr-dev
 mtdev-dev

@@ -392,7 +392,7 @@ include(devpkg-mesa)
 mesa-dev32
 mingw-gcc
 more-itertools
-include(devpkg-mozjs60)
+include(devpkg-mozjs68)
 mpc-dev
 mpfr-dev
 mtdev-dev
