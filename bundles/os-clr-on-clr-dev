@@ -842,7 +842,6 @@ perl-IPC-Run3-perl
 perl-Importer-perl
 perl-JSON
 perl-JSON-MaybeXS-perl
-perl-JSON-perl
 perl-LWP-MediaTypes
 perl-LWP-MediaTypes-perl
 perl-LWP-Protocol-https-perl
