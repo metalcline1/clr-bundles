@@ -392,6 +392,7 @@ ilmbase-dev
 imagesize
 importlib_metadata
 influxdb
+iniconfig
 iniparse
 intel-ipsec-mb
 intel-ipsec-mb-dev
@@ -740,6 +741,7 @@ openjdk-dev
 openjdk11
 openjdk11-dev
 openjpeg
+openjpeg-dev
 openldap-dev
 include(devpkg-openmpi)
 openssh
