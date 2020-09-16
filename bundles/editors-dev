@@ -18,13 +18,13 @@ include(diffutils)
 gawk
 gcc
 gcc-dev
-gcc-dev32
+
 gcc-libgcc32
 gcc-libstdc++32
 gettext
 gettext-bin
 include(git)
-glibc-dev32
+
 glibc-libc32
 include(glibc-locale)
 glibc-utils
