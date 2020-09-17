@@ -138,6 +138,7 @@ buildreq-qmake
 buildreq-scons
 bzip2
 include(devpkg-bzip2)
+bzip2-dev32
 ca-certs
 cached-property
 include(devpkg-cairo)
@@ -259,6 +260,7 @@ include(fonttools)
 include(devpkg-freeglut)
 freetype
 include(devpkg-freetype)
+freetype-dev32
 freezegun
 include(devpkg-fribidi)
 fs
@@ -398,6 +400,7 @@ jarn.viewdoc
 jemalloc-dev
 include(joe)
 include(devpkg-json-c)
+json-c-dev32
 include(devpkg-json-glib)
 jsoncpp-dev
 jsonpatch

@@ -40,6 +40,7 @@ buildreq-golang
 buildreq-meson
 bzip2
 include(devpkg-bzip2)
+bzip2-dev32
 ca-certs
 include(devpkg-cairo)
 clr-rpm-config
@@ -75,6 +76,7 @@ fontconfig-data
 include(devpkg-fontconfig)
 include(devpkg-freeglut)
 include(devpkg-freetype)
+freetype-dev32
 gawk
 gcc
 gcc-dev
@@ -128,6 +130,7 @@ intltool-dev
 include(devpkg-iptables)
 iptables-dev32
 include(devpkg-json-c)
+json-c-dev32
 keyutils-dev
 kmod
 include(devpkg-kmod)

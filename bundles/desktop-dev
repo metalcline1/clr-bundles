@@ -32,6 +32,7 @@ PySocks
 Pygments
 include(devpkg-SDL)
 include(devpkg-SDL2)
+SDL2-dev32
 include(devpkg-SDL2_image)
 include(Sphinx)
 UCD
@@ -103,6 +104,7 @@ buildreq-qmake
 buildreq-scons
 bzip2
 include(devpkg-bzip2)
+bzip2-dev32
 ca-certs
 cached-property
 include(devpkg-cairo)
@@ -137,6 +139,7 @@ include(devpkg-colord)
 colord-gtk-dev
 include(devpkg-compat-enchant-soname1)
 include(devpkg-compat-fuse-soname2)
+compat-libhandy-0.0-dev
 coreutils
 coverage
 cppcheck
@@ -222,6 +225,7 @@ include(fontforge)
 include(fonttools)
 include(devpkg-freeglut)
 include(devpkg-freetype)
+freetype-dev32
 include(devpkg-fribidi)
 fs
 include(devpkg-fuse)
@@ -272,6 +276,7 @@ glibc-staticdev
 glibc-utils
 include(devpkg-glibmm)
 include(devpkg-glu)
+glu-dev32
 gmp-dev
 gmp-dev32
 gmp-gmpxx
@@ -375,6 +380,7 @@ include(devpkg-jansson)
 jarn.viewdoc
 jemalloc-dev
 include(devpkg-json-c)
+json-c-dev32
 include(devpkg-json-glib)
 kdoctools-dev
 keyutils-dev
@@ -551,6 +557,7 @@ libunistring-dev32
 include(devpkg-libunwind)
 libunwind-dev32
 include(devpkg-libusb)
+libusb-dev32
 include(devpkg-libva)
 libvdpau-dev
 include(devpkg-libvorbis)

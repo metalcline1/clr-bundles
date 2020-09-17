@@ -574,6 +574,7 @@ R-zip
 R-zoo
 include(devpkg-SDL)
 include(devpkg-SDL2)
+SDL2-dev32
 include(devpkg-SDL2_image)
 SFCGAL-dev
 include(Sphinx)
@@ -631,6 +632,7 @@ buildreq-qmake
 buildreq-scons
 bzip2
 include(devpkg-bzip2)
+bzip2-dev32
 ca-certs
 include(devpkg-cairo)
 certifi
@@ -704,6 +706,7 @@ include(fontforge)
 include(fonttools)
 include(devpkg-freeglut)
 include(devpkg-freetype)
+freetype-dev32
 include(devpkg-fribidi)
 fs
 include(devpkg-fuse)
@@ -746,6 +749,7 @@ include(glibc-locale)
 glibc-staticdev
 glibc-utils
 include(devpkg-glu)
+glu-dev32
 gmp-dev
 gmp-dev32
 gmp-gmpxx
@@ -799,6 +803,7 @@ iso8601
 jemalloc-dev
 jq-dev
 include(devpkg-json-c)
+json-c-dev32
 include(devpkg-json-glib)
 jsoncpp-dev
 keyutils-dev
@@ -915,6 +920,7 @@ libunistring-dev32
 include(devpkg-libunwind)
 libunwind-dev32
 include(devpkg-libusb)
+libusb-dev32
 include(devpkg-libva)
 libvdpau-dev
 include(devpkg-libvorbis)

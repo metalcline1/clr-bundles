@@ -71,6 +71,7 @@ buildreq-qmake
 buildreq-scons
 bzip2
 include(devpkg-bzip2)
+bzip2-dev32
 ca-certs
 include(devpkg-cairo)
 include(devpkg-cairomm)
@@ -153,6 +154,7 @@ include(fontforge)
 include(fonttools)
 include(devpkg-freeglut)
 include(devpkg-freetype)
+freetype-dev32
 include(devpkg-fribidi)
 fs
 include(devpkg-fuse)
@@ -265,6 +267,7 @@ iso8601
 itstool
 include(devpkg-jansson)
 include(devpkg-json-c)
+json-c-dev32
 include(devpkg-json-glib)
 kdoctools-dev
 keyutils-dev

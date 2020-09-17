@@ -57,6 +57,7 @@ buildreq-meson
 buildreq-qmake
 bzip2
 include(devpkg-bzip2)
+bzip2-dev32
 ca-certs
 include(devpkg-cairo)
 certifi
@@ -108,6 +109,7 @@ fontconfig-data
 include(devpkg-fontconfig)
 include(devpkg-freeglut)
 include(devpkg-freetype)
+freetype-dev32
 gawk
 gc-dev
 gcc
@@ -175,6 +177,7 @@ include(devpkg-iptables)
 iptables-dev32
 iso8601
 include(devpkg-json-c)
+json-c-dev32
 jsoncpp-dev
 keyutils-dev
 kmod

@@ -78,6 +78,7 @@ buildreq-qmake
 buildreq-scons
 bzip2
 include(devpkg-bzip2)
+bzip2-dev32
 ca-certs
 include(devpkg-cairo)
 ccid
@@ -146,6 +147,7 @@ fontconfig-data
 include(devpkg-fontconfig)
 include(devpkg-freeglut)
 include(devpkg-freetype)
+freetype-dev32
 include(devpkg-fribidi)
 include(devpkg-fuse)
 gawk
@@ -234,6 +236,7 @@ include(devpkg-iso-codes)
 include(devpkg-jansson)
 include(joe)
 include(devpkg-json-c)
+json-c-dev32
 include(devpkg-json-glib)
 jsonpatch
 keyutils-dev

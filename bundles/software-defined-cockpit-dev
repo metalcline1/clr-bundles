@@ -17,6 +17,7 @@ Linux-PAM-dev32
 Mako-python
 include(devpkg-SDL)
 include(devpkg-SDL2)
+SDL2-dev32
 include(devpkg-SDL2_image)
 SmartXbar-dev
 include(Sphinx)
@@ -66,6 +67,7 @@ buildreq-qmake
 buildreq-scons
 bzip2
 include(devpkg-bzip2)
+bzip2-dev32
 ca-certs
 include(devpkg-cairo)
 check-dev
@@ -122,6 +124,7 @@ fontconfig-data
 include(devpkg-fontconfig)
 include(devpkg-freeglut)
 include(devpkg-freetype)
+freetype-dev32
 include(devpkg-fribidi)
 include(devpkg-fuse)
 gawk
@@ -158,6 +161,7 @@ include(glibc-locale)
 glibc-staticdev
 glibc-utils
 include(devpkg-glu)
+glu-dev32
 gmp-dev
 gmp-dev32
 gmp-lib32
@@ -205,6 +209,7 @@ include(devpkg-iptables)
 iptables-dev32
 include(devpkg-iso-codes)
 include(devpkg-json-c)
+json-c-dev32
 include(devpkg-json-glib)
 keyutils-dev
 kmod
@@ -316,6 +321,7 @@ libunistring-dev32
 include(devpkg-libunwind)
 libunwind-dev32
 include(devpkg-libusb)
+libusb-dev32
 include(devpkg-libva)
 libvdpau-dev
 include(devpkg-libvorbis)
