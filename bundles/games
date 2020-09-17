@@ -106,7 +106,7 @@ mesa
 mesa-lib
 ncurses-lib
 #ncurses-compat-lib
-nspr-lib
+nspr
 nss-lib
 nss-altfiles-lib
 openal-soft-lib
